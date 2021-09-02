@@ -1,0 +1,381 @@
+,Date,Weekday,HomeTeam,HomeScore,AwayScore,AwayTeam,Winner,Stadium,City
+0,2018-05-13,Sunday,Burnley,1,2,Bournemouth,Bournemouth,Turf Moor,Burnley
+1,2018-05-13,Sunday,Crystal Palace,2,0,West Brom,Crystal Palace,Selhurst Park,London
+2,2018-05-13,Sunday,Huddersfield,0,1,Arsenal,Arsenal,John Smith's Stadium,Huddersfield
+3,2018-05-13,Sunday,Liverpool,4,0,Brighton,Liverpool,Anfield,Liverpool
+4,2018-05-13,Sunday,Man Utd,1,0,Watford,Man Utd,Old Trafford,Manchester
+5,2018-05-13,Sunday,Newcastle,3,0,Chelsea,Newcastle,St. James' Park,Newcastle
+6,2018-05-13,Sunday,Southampton,0,1,Man City,Man City,St. Mary's Stadium,Southampton
+7,2018-05-13,Sunday,Swansea,1,2,Stoke,Stoke,Liberty Stadium,Swansea
+8,2018-05-13,Sunday,Spurs,5,4,Leicester,Spurs,Wembley Stadium,London
+9,2018-05-13,Sunday,West Ham,3,1,Everton,West Ham,London Stadium,London
+10,2018-05-11,Friday,West Ham,0,0,Man Utd,Draw,London Stadium,London
+11,2018-05-10,Thursday,Chelsea,1,1,Huddersfield,Draw,Stamford Bridge,London
+12,2018-05-10,Thursday,Leicester,3,1,Arsenal,Leicester,King Power Stadium,Leicester
+13,2018-05-10,Thursday,Man City,3,1,Brighton,Man City,Etihad Stadium,Manchester
+14,2018-05-10,Thursday,Spurs,1,0,Newcastle,Spurs,Wembley Stadium,London
+15,2018-05-09,Wednesday,Swansea,0,1,Southampton,Southampton,Liberty Stadium,Swansea
+16,2018-05-06,Sunday,Everton,1,1,Southampton,Draw,Goodison Park,Liverpool
+17,2018-05-06,Sunday,Man City,0,0,Huddersfield,Draw,Etihad Stadium,Manchester
+18,2018-05-06,Sunday,Arsenal,5,0,Burnley,Arsenal,Emirates Stadium,London
+19,2018-05-06,Sunday,Chelsea,1,0,Liverpool,Chelsea,Stamford Bridge,London
+20,2018-05-05,Saturday,Brighton,1,0,Man Utd,Brighton,Amex Stadium,Falmer
+21,2018-05-05,Saturday,Stoke,1,2,Crystal Palace,Crystal Palace,bet365 Stadium,Stoke
+22,2018-05-05,Saturday,Bournemouth,1,0,Swansea,Bournemouth,Vitality Stadium,Bournemouth
+23,2018-05-05,Saturday,Leicester,0,2,West Ham,West Ham,King Power Stadium,Leicester
+24,2018-05-05,Saturday,Watford,2,1,Newcastle,Watford,Vicarage Road,Watford
+25,2018-05-05,Saturday,West Brom,1,0,Spurs,West Brom,The Hawthorns,West Bromwich
+26,2018-05-01,Tuesday,Spurs,2,0,Watford,Spurs,Wembley Stadium,London
+27,2018-04-29,Sunday,Swansea,0,1,Chelsea,Chelsea,Liberty Stadium,Swansea
+28,2018-04-29,Sunday,West Ham,1,4,Man City,Man City,London Stadium,London
+29,2018-04-29,Sunday,Man Utd,2,1,Arsenal,Man Utd,Old Trafford,Manchester
+30,2018-04-28,Saturday,Liverpool,0,0,Stoke,Draw,Anfield,Liverpool
+31,2018-04-28,Saturday,Burnley,0,0,Brighton,Draw,Turf Moor,Burnley
+32,2018-04-28,Saturday,Crystal Palace,5,0,Leicester,Crystal Palace,Selhurst Park,London
+33,2018-04-28,Saturday,Huddersfield,0,2,Everton,Everton,John Smith's Stadium,Huddersfield
+34,2018-04-28,Saturday,Newcastle,0,1,West Brom,West Brom,St. James' Park,Newcastle
+35,2018-04-28,Saturday,Southampton,2,1,Bournemouth,Southampton,St. Mary's Stadium,Southampton
+36,2018-04-24,Tuesday,Everton,1,0,Newcastle,Everton,Goodison Park,Liverpool
+37,2018-04-22,Sunday,Arsenal,4,1,West Ham,Arsenal,Emirates Stadium,London
+38,2018-04-22,Sunday,Stoke,1,1,Burnley,Draw,bet365 Stadium,Stoke
+39,2018-04-22,Sunday,Man City,5,0,Swansea,Man City,Etihad Stadium,Manchester
+40,2018-04-21,Saturday,West Brom,2,2,Liverpool,Draw,The Hawthorns,West Bromwich
+41,2018-04-21,Saturday,Watford,0,0,Crystal Palace,Draw,Vicarage Road,Watford
+42,2018-04-20,Friday,Burnley,1,2,Chelsea,Chelsea,Turf Moor,Burnley
+43,2018-04-20,Friday,Leicester,0,0,Southampton,Draw,King Power Stadium,Leicester
+44,2018-04-19,Thursday,Bournemouth,0,2,Man Utd,Man Utd,Vitality Stadium,Bournemouth
+45,2018-04-18,Wednesday,Brighton,1,1,Spurs,Draw,Amex Stadium,Falmer
+46,2018-04-17,Tuesday,West Ham,1,1,Stoke,Draw,London Stadium,London
+47,2018-04-15,Sunday,Liverpool,3,0,Bournemouth,Liverpool,Anfield,Liverpool
+48,2018-04-15,Sunday,Spurs,1,3,Man City,Man City,Wembley Stadium,London
+49,2018-04-15,Sunday,Newcastle,2,1,Arsenal,Newcastle,St. James' Park,Newcastle
+50,2018-04-15,Sunday,Man Utd,0,1,West Brom,West Brom,Old Trafford,Manchester
+51,2018-04-14,Saturday,Southampton,2,3,Chelsea,Chelsea,St. Mary's Stadium,Southampton
+52,2018-04-14,Saturday,Burnley,2,1,Leicester,Burnley,Turf Moor,Burnley
+53,2018-04-14,Saturday,Crystal Palace,3,2,Brighton,Crystal Palace,Selhurst Park,London
+54,2018-04-14,Saturday,Huddersfield,1,0,Watford,Huddersfield,John Smith's Stadium,Huddersfield
+55,2018-04-14,Saturday,Swansea,1,1,Everton,Draw,Liberty Stadium,Swansea
+56,2018-04-08,Sunday,Man City,2,3,Man Utd,Man Utd,Etihad Stadium,Manchester
+57,2018-04-08,Sunday,Arsenal,3,2,Southampton,Arsenal,Emirates Stadium,London
+58,2018-04-08,Sunday,Chelsea,1,1,West Ham,Draw,Stamford Bridge,London
+59,2018-04-07,Saturday,Everton,0,0,Liverpool,Draw,Goodison Park,Liverpool
+60,2018-04-07,Saturday,Bournemouth,2,2,Crystal Palace,Draw,Vitality Stadium,Bournemouth
+61,2018-04-07,Saturday,Brighton,1,1,Huddersfield,Draw,Amex Stadium,Falmer
+62,2018-04-07,Saturday,Leicester,1,2,Newcastle,Newcastle,King Power Stadium,Leicester
+63,2018-04-07,Saturday,Stoke,1,2,Spurs,Spurs,bet365 Stadium,Stoke
+64,2018-04-07,Saturday,Watford,1,2,Burnley,Burnley,Vicarage Road,Watford
+65,2018-04-07,Saturday,West Brom,1,1,Swansea,Draw,The Hawthorns,West Bromwich
+66,2018-04-01,Sunday,Everton,1,3,Man City,Man City,Goodison Park,Liverpool
+67,2018-04-01,Sunday,Arsenal,3,0,Stoke,Arsenal,Emirates Stadium,London
+68,2018-04-01,Sunday,Chelsea,1,3,Spurs,Spurs,Stamford Bridge,London
+69,2018-03-31,Saturday,Crystal Palace,1,2,Liverpool,Liverpool,Selhurst Park,London
+70,2018-03-31,Saturday,Brighton,0,2,Leicester,Leicester,Amex Stadium,Falmer
+71,2018-03-31,Saturday,Man Utd,2,0,Swansea,Man Utd,Old Trafford,Manchester
+72,2018-03-31,Saturday,Newcastle,1,0,Huddersfield,Newcastle,St. James' Park,Newcastle
+73,2018-03-31,Saturday,Watford,2,2,Bournemouth,Draw,Vicarage Road,Watford
+74,2018-03-31,Saturday,West Brom,1,2,Burnley,Burnley,The Hawthorns,West Bromwich
+75,2018-03-31,Saturday,West Ham,3,0,Southampton,West Ham,London Stadium,London
+76,2018-03-18,Sunday,Liverpool,5,0,Watford,Liverpool,Anfield,Liverpool
+77,2018-03-17,Saturday,Bournemouth,2,1,West Brom,Bournemouth,Vitality Stadium,Bournemouth
+78,2018-03-17,Saturday,Huddersfield,0,2,Crystal Palace,Crystal Palace,John Smith's Stadium,Huddersfield
+79,2018-03-17,Saturday,Stoke,1,2,Everton,Everton,bet365 Stadium,Stoke
+80,2018-03-13,Tuesday,Stoke,0,2,Man City,Man City,bet365 Stadium,Stoke
+81,2018-03-12,Monday,Bournemouth,1,4,Spurs,Spurs,Vitality Stadium,Bournemouth
+82,2018-03-11,Sunday,Chelsea,2,1,Crystal Palace,Chelsea,Stamford Bridge,London
+83,2018-03-11,Sunday,Arsenal,3,0,Watford,Arsenal,Emirates Stadium,London
+84,2018-03-10,Saturday,Man Utd,2,1,Liverpool,Man Utd,Old Trafford,Manchester
+85,2018-03-10,Saturday,Everton,2,0,Brighton,Everton,Goodison Park,Liverpool
+86,2018-03-10,Saturday,Huddersfield,0,0,Swansea,Draw,John Smith's Stadium,Huddersfield
+87,2018-03-10,Saturday,Newcastle,3,0,Southampton,Newcastle,St. James' Park,Newcastle
+88,2018-03-10,Saturday,West Brom,1,4,Leicester,Leicester,The Hawthorns,West Bromwich
+89,2018-03-10,Saturday,West Ham,0,3,Burnley,Burnley,London Stadium,London
+90,2018-03-06,Tuesday,Crystal Palace,2,3,Man Utd,Man Utd,Selhurst Park,London
+91,2018-03-05,Monday,Man City,1,0,Chelsea,Man City,Etihad Stadium,Manchester
+92,2018-03-04,Sunday,Liverpool,2,0,Newcastle,Liverpool,Anfield,Liverpool
+93,2018-03-04,Sunday,Brighton,2,1,Arsenal,Brighton,Amex Stadium,Falmer
+94,2018-03-03,Saturday,Burnley,2,1,Everton,Burnley,Turf Moor,Burnley
+95,2018-03-03,Saturday,Leicester,1,1,Bournemouth,Draw,King Power Stadium,Leicester
+96,2018-03-03,Saturday,Southampton,0,0,Stoke,Draw,St. Mary's Stadium,Southampton
+97,2018-03-03,Saturday,Swansea,4,1,West Ham,Swansea,Liberty Stadium,Swansea
+98,2018-03-03,Saturday,Spurs,2,0,Huddersfield,Spurs,Wembley Stadium,London
+99,2018-03-03,Saturday,Watford,1,0,West Brom,Watford,Vicarage Road,Watford
+100,2018-03-02,Friday,Arsenal,0,3,Man City,Man City,Emirates Stadium,London
+101,2018-02-25,Sunday,Watford,1,0,Everton,Watford,Vicarage Road,Watford
+102,2018-02-25,Sunday,Crystal Palace,0,1,Spurs,Spurs,Selhurst Park,London
+103,2018-02-25,Sunday,Man Utd,2,1,Chelsea,Man Utd,Old Trafford,Manchester
+104,2018-02-24,Saturday,Leicester,1,1,Stoke,Draw,King Power Stadium,Leicester
+105,2018-02-24,Saturday,Bournemouth,2,2,Newcastle,Draw,Vitality Stadium,Bournemouth
+106,2018-02-24,Saturday,Brighton,4,1,Swansea,Brighton,Amex Stadium,Falmer
+107,2018-02-24,Saturday,Burnley,1,1,Southampton,Draw,Turf Moor,Burnley
+108,2018-02-24,Saturday,Liverpool,4,1,West Ham,Liverpool,Anfield,Liverpool
+109,2018-02-24,Saturday,West Brom,1,2,Huddersfield,Huddersfield,The Hawthorns,West Bromwich
+110,2018-02-13,Tuesday,Chelsea,3,0,West Brom,Chelsea,Stamford Bridge,London
+111,2018-02-12,Monday,Southampton,0,2,Liverpool,Liverpool,St. Mary's Stadium,Southampton
+112,2018-02-11,Sunday,Man City,5,1,Leicester,Man City,Etihad Stadium,Manchester
+113,2018-02-11,Sunday,Huddersfield,4,1,Bournemouth,Huddersfield,John Smith's Stadium,Huddersfield
+114,2018-02-11,Sunday,Newcastle,1,0,Man Utd,Newcastle,St. James' Park,Newcastle
+115,2018-02-10,Saturday,Spurs,1,0,Arsenal,Spurs,Wembley Stadium,London
+116,2018-02-10,Saturday,Everton,3,1,Crystal Palace,Everton,Goodison Park,Liverpool
+117,2018-02-10,Saturday,Stoke,1,1,Brighton,Draw,bet365 Stadium,Stoke
+118,2018-02-10,Saturday,Swansea,1,0,Burnley,Swansea,Liberty Stadium,Swansea
+119,2018-02-10,Saturday,West Ham,2,0,Watford,West Ham,London Stadium,London
+120,2018-02-06,Tuesday,Watford,4,1,Chelsea,Watford,Vicarage Road,Watford
+121,2018-02-05,Monday,Liverpool,2,2,Spurs,Draw,Anfield,Liverpool
+122,2018-02-04,Sunday,Arsenal,5,1,Everton,Arsenal,Emirates Stadium,London
+123,2018-02-04,Sunday,Crystal Palace,1,1,Newcastle,Draw,Selhurst Park,London
+124,2018-02-03,Saturday,Burnley,1,1,Man City,Draw,Turf Moor,Burnley
+125,2018-02-03,Saturday,Bournemouth,2,1,Stoke,Bournemouth,Vitality Stadium,Bournemouth
+126,2018-02-03,Saturday,Brighton,3,1,West Ham,Brighton,Amex Stadium,Falmer
+127,2018-02-03,Saturday,Leicester,1,1,Swansea,Draw,King Power Stadium,Leicester
+128,2018-02-03,Saturday,Man Utd,2,0,Huddersfield,Man Utd,Old Trafford,Manchester
+129,2018-02-03,Saturday,West Brom,2,3,Southampton,Southampton,The Hawthorns,West Bromwich
+130,2018-02-01,Thursday,Chelsea,0,3,Bournemouth,Bournemouth,Stamford Bridge,London
+131,2018-02-01,Thursday,Everton,2,1,Leicester,Everton,Goodison Park,Liverpool
+132,2018-02-01,Thursday,Newcastle,1,1,Burnley,Draw,St. James' Park,Newcastle
+133,2018-02-01,Thursday,Southampton,1,1,Brighton,Draw,St. Mary's Stadium,Southampton
+134,2018-02-01,Thursday,Man City,3,0,West Brom,Man City,Etihad Stadium,Manchester
+135,2018-02-01,Thursday,Stoke,0,0,Watford,Draw,bet365 Stadium,Stoke
+136,2018-02-01,Thursday,Spurs,2,0,Man Utd,Spurs,Wembley Stadium,London
+137,2018-01-31,Wednesday,Swansea,3,1,Arsenal,Swansea,Liberty Stadium,Swansea
+138,2018-01-31,Wednesday,West Ham,1,1,Crystal Palace,Draw,London Stadium,London
+139,2018-01-31,Wednesday,Huddersfield,0,3,Liverpool,Liverpool,John Smith's Stadium,Huddersfield
+140,2018-01-23,Tuesday,Swansea,1,0,Liverpool,Swansea,Liberty Stadium,Swansea
+141,2018-01-22,Monday,Southampton,1,1,Spurs,Draw,St. Mary's Stadium,Southampton
+142,2018-01-21,Sunday,Man City,3,1,Newcastle,Man City,Etihad Stadium,Manchester
+143,2018-01-20,Saturday,Brighton,0,4,Chelsea,Chelsea,Amex Stadium,Falmer
+144,2018-01-20,Saturday,Arsenal,4,1,Crystal Palace,Arsenal,Emirates Stadium,London
+145,2018-01-20,Saturday,Burnley,0,1,Man Utd,Man Utd,Turf Moor,Burnley
+146,2018-01-20,Saturday,Everton,1,1,West Brom,Draw,Goodison Park,Liverpool
+147,2018-01-20,Saturday,Leicester,2,0,Watford,Leicester,King Power Stadium,Leicester
+148,2018-01-20,Saturday,Stoke,2,0,Huddersfield,Stoke,bet365 Stadium,Stoke
+149,2018-01-20,Saturday,West Ham,1,1,Bournemouth,Draw,London Stadium,London
+150,2018-01-16,Tuesday,Man Utd,3,0,Stoke,Man Utd,Old Trafford,Manchester
+151,2018-01-15,Monday,Liverpool,4,3,Man City,Liverpool,Anfield,Liverpool
+152,2018-01-14,Sunday,Spurs,4,0,Everton,Spurs,Wembley Stadium,London
+153,2018-01-14,Sunday,Bournemouth,2,1,Arsenal,Bournemouth,Vitality Stadium,Bournemouth
+154,2018-01-13,Saturday,Chelsea,0,0,Leicester,Draw,Stamford Bridge,London
+155,2018-01-13,Saturday,Crystal Palace,1,0,Burnley,Crystal Palace,Selhurst Park,London
+156,2018-01-13,Saturday,Huddersfield,1,4,West Ham,West Ham,John Smith's Stadium,Huddersfield
+157,2018-01-13,Saturday,Newcastle,1,1,Swansea,Draw,St. James' Park,Newcastle
+158,2018-01-13,Saturday,Watford,2,2,Southampton,Draw,Vicarage Road,Watford
+159,2018-01-13,Saturday,West Brom,2,0,Brighton,West Brom,The Hawthorns,West Bromwich
+160,2018-01-05,Friday,Spurs,1,1,West Ham,Draw,Wembley Stadium,London
+161,2018-01-04,Thursday,Arsenal,2,2,Chelsea,Draw,Emirates Stadium,London
+162,2018-01-03,Wednesday,Southampton,1,2,Crystal Palace,Crystal Palace,St. Mary's Stadium,Southampton
+163,2018-01-03,Wednesday,Swansea,0,2,Spurs,Spurs,Liberty Stadium,Swansea
+164,2018-01-03,Wednesday,West Ham,2,1,West Brom,West Ham,London Stadium,London
+165,2018-01-03,Wednesday,Man City,3,1,Watford,Man City,Etihad Stadium,Manchester
+166,2018-01-02,Tuesday,Everton,0,2,Man Utd,Man Utd,Goodison Park,Liverpool
+167,2018-01-01,Monday,West Brom,1,1,Arsenal,Draw,The Hawthorns,West Bromwich
+168,2018-01-01,Monday,Brighton,2,2,Bournemouth,Draw,Amex Stadium,Falmer
+169,2018-01-01,Monday,Burnley,1,2,Liverpool,Liverpool,Turf Moor,Burnley
+170,2018-01-01,Monday,Leicester,3,0,Huddersfield,Leicester,King Power Stadium,Leicester
+171,2018-01-01,Monday,Stoke,0,1,Newcastle,Newcastle,bet365 Stadium,Stoke
+172,2017-12-31,Sunday,Man Utd,0,0,Southampton,Draw,Old Trafford,Manchester
+173,2017-12-31,Sunday,Crystal Palace,0,0,Man City,Draw,Selhurst Park,London
+174,2017-12-30,Saturday,Bournemouth,2,1,Everton,Bournemouth,Vitality Stadium,Bournemouth
+175,2017-12-30,Saturday,Chelsea,5,0,Stoke,Chelsea,Stamford Bridge,London
+176,2017-12-30,Saturday,Huddersfield,0,0,Burnley,Draw,John Smith's Stadium,Huddersfield
+177,2017-12-30,Saturday,Liverpool,2,1,Leicester,Liverpool,Anfield,Liverpool
+178,2017-12-30,Saturday,Newcastle,0,0,Brighton,Draw,St. James' Park,Newcastle
+179,2017-12-30,Saturday,Watford,1,2,Swansea,Swansea,Vicarage Road,Watford
+180,2017-12-29,Friday,Crystal Palace,2,3,Arsenal,Arsenal,Selhurst Park,London
+181,2017-12-28,Thursday,Newcastle,0,1,Man City,Man City,St. James' Park,Newcastle
+182,2017-12-27,Wednesday,Liverpool,5,0,Swansea,Liverpool,Anfield,Liverpool
+183,2017-12-26,Tuesday,Spurs,5,2,Southampton,Spurs,Wembley Stadium,London
+184,2017-12-26,Tuesday,Bournemouth,3,3,West Ham,Draw,Vitality Stadium,Bournemouth
+185,2017-12-26,Tuesday,Chelsea,2,0,Brighton,Chelsea,Stamford Bridge,London
+186,2017-12-26,Tuesday,Huddersfield,1,1,Stoke,Draw,John Smith's Stadium,Huddersfield
+187,2017-12-26,Tuesday,Man Utd,2,2,Burnley,Draw,Old Trafford,Manchester
+188,2017-12-26,Tuesday,Watford,2,1,Leicester,Watford,Vicarage Road,Watford
+189,2017-12-26,Tuesday,West Brom,0,0,Everton,Draw,The Hawthorns,West Bromwich
+190,2017-12-24,Sunday,Burnley,0,3,Spurs,Spurs,Turf Moor,Burnley
+191,2017-12-24,Sunday,Leicester,2,2,Man Utd,Draw,King Power Stadium,Leicester
+192,2017-12-23,Saturday,Arsenal,3,3,Liverpool,Draw,Emirates Stadium,London
+193,2017-12-23,Saturday,Everton,0,0,Chelsea,Draw,Goodison Park,Liverpool
+194,2017-12-23,Saturday,Brighton,1,0,Watford,Brighton,Amex Stadium,Falmer
+195,2017-12-23,Saturday,Man City,4,0,Bournemouth,Man City,Etihad Stadium,Manchester
+196,2017-12-23,Saturday,Southampton,1,1,Huddersfield,Draw,St. Mary's Stadium,Southampton
+197,2017-12-23,Saturday,Stoke,3,1,West Brom,Stoke,bet365 Stadium,Stoke
+198,2017-12-23,Saturday,Swansea,1,1,Crystal Palace,Draw,Liberty Stadium,Swansea
+199,2017-12-23,Saturday,West Ham,2,3,Newcastle,Newcastle,London Stadium,London
+200,2017-12-19,Tuesday,Everton,3,1,Swansea,Everton,Goodison Park,Liverpool
+201,2017-12-18,Monday,Bournemouth,0,4,Liverpool,Liverpool,Vitality Stadium,Bournemouth
+202,2017-12-17,Sunday,Stoke,0,3,West Ham,West Ham,bet365 Stadium,Stoke
+203,2017-12-17,Sunday,Man City,4,1,Spurs,Man City,Etihad Stadium,Manchester
+204,2017-12-17,Sunday,West Brom,1,2,Man Utd,Man Utd,The Hawthorns,West Bromwich
+205,2017-12-16,Saturday,Leicester,0,3,Crystal Palace,Crystal Palace,King Power Stadium,Leicester
+206,2017-12-16,Saturday,Arsenal,1,0,Newcastle,Arsenal,Emirates Stadium,London
+207,2017-12-16,Saturday,Brighton,0,0,Burnley,Draw,Amex Stadium,Falmer
+208,2017-12-16,Saturday,Chelsea,1,0,Southampton,Chelsea,Stamford Bridge,London
+209,2017-12-16,Saturday,Watford,1,4,Huddersfield,Huddersfield,Vicarage Road,Watford
+210,2017-12-14,Thursday,Newcastle,0,1,Everton,Everton,St. James' Park,Newcastle
+211,2017-12-14,Thursday,Southampton,1,4,Leicester,Leicester,St. Mary's Stadium,Southampton
+212,2017-12-14,Thursday,Swansea,0,4,Man City,Man City,Liberty Stadium,Swansea
+213,2017-12-14,Thursday,Liverpool,0,0,West Brom,Draw,Anfield,Liverpool
+214,2017-12-14,Thursday,Man Utd,1,0,Bournemouth,Man Utd,Old Trafford,Manchester
+215,2017-12-14,Thursday,Spurs,2,0,Brighton,Spurs,Wembley Stadium,London
+216,2017-12-14,Thursday,West Ham,0,0,Arsenal,Draw,London Stadium,London
+217,2017-12-13,Wednesday,Burnley,1,0,Stoke,Burnley,Turf Moor,Burnley
+218,2017-12-13,Wednesday,Crystal Palace,2,1,Watford,Crystal Palace,Selhurst Park,London
+219,2017-12-13,Wednesday,Huddersfield,1,3,Chelsea,Chelsea,John Smith's Stadium,Huddersfield
+220,2017-12-11,Monday,Man Utd,1,2,Man City,Man City,Old Trafford,Manchester
+221,2017-12-10,Sunday,Newcastle,2,3,Leicester,Leicester,St. James' Park,Newcastle
+222,2017-12-10,Sunday,Southampton,1,1,Arsenal,Draw,St. Mary's Stadium,Southampton
+223,2017-12-10,Sunday,Liverpool,1,1,Everton,Draw,Anfield,Liverpool
+224,2017-12-09,Saturday,West Ham,1,0,Chelsea,West Ham,London Stadium,London
+225,2017-12-09,Saturday,Burnley,1,0,Watford,Burnley,Turf Moor,Burnley
+226,2017-12-09,Saturday,Crystal Palace,2,2,Bournemouth,Draw,Selhurst Park,London
+227,2017-12-09,Saturday,Huddersfield,2,0,Brighton,Huddersfield,John Smith's Stadium,Huddersfield
+228,2017-12-09,Saturday,Swansea,1,0,West Brom,Swansea,Liberty Stadium,Swansea
+229,2017-12-09,Saturday,Spurs,5,1,Stoke,Spurs,Wembley Stadium,London
+230,2017-12-04,Monday,Man City,2,1,West Ham,Man City,Etihad Stadium,Manchester
+231,2017-12-03,Sunday,Arsenal,1,3,Man Utd,Man Utd,Emirates Stadium,London
+232,2017-12-03,Sunday,Bournemouth,1,1,Southampton,Draw,Vitality Stadium,Bournemouth
+233,2017-12-02,Saturday,Chelsea,3,1,Newcastle,Chelsea,Stamford Bridge,London
+234,2017-12-02,Saturday,Brighton,1,5,Liverpool,Liverpool,Amex Stadium,Falmer
+235,2017-12-02,Saturday,Everton,2,0,Huddersfield,Everton,Goodison Park,Liverpool
+236,2017-12-02,Saturday,Leicester,1,0,Burnley,Leicester,King Power Stadium,Leicester
+237,2017-12-02,Saturday,Stoke,2,1,Swansea,Stoke,bet365 Stadium,Stoke
+238,2017-12-02,Saturday,Watford,1,1,Spurs,Draw,Vicarage Road,Watford
+239,2017-12-02,Saturday,West Brom,0,0,Crystal Palace,Draw,The Hawthorns,West Bromwich
+240,2017-11-30,Thursday,Bournemouth,1,2,Burnley,Burnley,Vitality Stadium,Bournemouth
+241,2017-11-30,Thursday,Arsenal,5,0,Huddersfield,Arsenal,Emirates Stadium,London
+242,2017-11-30,Thursday,Chelsea,1,0,Swansea,Chelsea,Stamford Bridge,London
+243,2017-11-30,Thursday,Everton,4,0,West Ham,Everton,Goodison Park,Liverpool
+244,2017-11-30,Thursday,Man City,2,1,Southampton,Man City,Etihad Stadium,Manchester
+245,2017-11-30,Thursday,Stoke,0,3,Liverpool,Liverpool,bet365 Stadium,Stoke
+246,2017-11-29,Wednesday,Brighton,0,0,Crystal Palace,Draw,Amex Stadium,Falmer
+247,2017-11-29,Wednesday,Leicester,2,1,Spurs,Leicester,King Power Stadium,Leicester
+248,2017-11-29,Wednesday,Watford,2,4,Man Utd,Man Utd,Vicarage Road,Watford
+249,2017-11-29,Wednesday,West Brom,2,2,Newcastle,Draw,The Hawthorns,West Bromwich
+250,2017-11-27,Monday,Huddersfield,1,2,Man City,Man City,John Smith's Stadium,Huddersfield
+251,2017-11-26,Sunday,Liverpool,1,1,Chelsea,Draw,Anfield,Liverpool
+252,2017-11-26,Sunday,Southampton,4,1,Everton,Southampton,St. Mary's Stadium,Southampton
+253,2017-11-26,Sunday,Burnley,0,1,Arsenal,Arsenal,Turf Moor,Burnley
+254,2017-11-25,Saturday,West Ham,1,1,Leicester,Draw,London Stadium,London
+255,2017-11-25,Saturday,Crystal Palace,2,1,Stoke,Crystal Palace,Selhurst Park,London
+256,2017-11-25,Saturday,Man Utd,1,0,Brighton,Man Utd,Old Trafford,Manchester
+257,2017-11-25,Saturday,Newcastle,0,3,Watford,Watford,St. James' Park,Newcastle
+258,2017-11-25,Saturday,Swansea,0,0,Bournemouth,Draw,Liberty Stadium,Swansea
+259,2017-11-25,Saturday,Spurs,1,1,West Brom,Draw,Wembley Stadium,London
+260,2017-11-21,Tuesday,Brighton,2,2,Stoke,Draw,Amex Stadium,Falmer
+261,2017-11-20,Monday,Watford,2,0,West Ham,Watford,Vicarage Road,Watford
+262,2017-11-19,Sunday,Man Utd,4,1,Newcastle,Man Utd,Old Trafford,Manchester
+263,2017-11-18,Saturday,Arsenal,2,0,Spurs,Arsenal,Emirates Stadium,London
+264,2017-11-18,Saturday,Bournemouth,4,0,Huddersfield,Bournemouth,Vitality Stadium,Bournemouth
+265,2017-11-18,Saturday,Burnley,2,0,Swansea,Burnley,Turf Moor,Burnley
+266,2017-11-18,Saturday,Crystal Palace,2,2,Everton,Draw,Selhurst Park,London
+267,2017-11-18,Saturday,Leicester,0,2,Man City,Man City,King Power Stadium,Leicester
+268,2017-11-18,Saturday,Liverpool,3,0,Southampton,Liverpool,Anfield,Liverpool
+269,2017-11-18,Saturday,West Brom,0,4,Chelsea,Chelsea,The Hawthorns,West Bromwich
+270,2017-11-06,Monday,Chelsea,1,0,Man Utd,Chelsea,Stamford Bridge,London
+271,2017-11-06,Monday,Everton,3,2,Watford,Everton,Goodison Park,Liverpool
+272,2017-11-05,Sunday,West Ham,1,4,Liverpool,Liverpool,London Stadium,London
+273,2017-11-05,Sunday,Spurs,1,0,Crystal Palace,Spurs,Wembley Stadium,London
+274,2017-11-05,Sunday,Man City,3,1,Arsenal,Man City,Etihad Stadium,Manchester
+275,2017-11-04,Saturday,Stoke,2,2,Leicester,Draw,bet365 Stadium,Stoke
+276,2017-11-04,Saturday,Huddersfield,1,0,West Brom,Huddersfield,John Smith's Stadium,Huddersfield
+277,2017-11-04,Saturday,Newcastle,0,1,Bournemouth,Bournemouth,St. James' Park,Newcastle
+278,2017-11-04,Saturday,Southampton,0,1,Burnley,Burnley,St. Mary's Stadium,Southampton
+279,2017-11-04,Saturday,Swansea,0,1,Brighton,Brighton,Liberty Stadium,Swansea
+280,2017-10-31,Tuesday,Burnley,1,0,Newcastle,Burnley,Turf Moor,Burnley
+281,2017-10-30,Monday,Leicester,2,0,Everton,Leicester,King Power Stadium,Leicester
+282,2017-10-29,Sunday,Bournemouth,0,1,Chelsea,Chelsea,Vitality Stadium,Bournemouth
+283,2017-10-29,Sunday,Brighton,1,1,Southampton,Draw,Amex Stadium,Falmer
+284,2017-10-28,Saturday,Man Utd,1,0,Spurs,Man Utd,Old Trafford,Manchester
+285,2017-10-28,Saturday,Arsenal,2,1,Swansea,Arsenal,Emirates Stadium,London
+286,2017-10-28,Saturday,Crystal Palace,2,2,West Ham,Draw,Selhurst Park,London
+287,2017-10-28,Saturday,Liverpool,3,0,Huddersfield,Liverpool,Anfield,Liverpool
+288,2017-10-28,Saturday,Watford,0,1,Stoke,Stoke,Vicarage Road,Watford
+289,2017-10-28,Saturday,West Brom,2,3,Man City,Man City,The Hawthorns,West Bromwich
+290,2017-10-22,Sunday,Southampton,1,0,West Brom,Southampton,St. Mary's Stadium,Southampton
+291,2017-10-22,Sunday,Everton,2,5,Arsenal,Arsenal,Goodison Park,Liverpool
+292,2017-10-22,Sunday,Spurs,4,1,Liverpool,Spurs,Wembley Stadium,London
+293,2017-10-21,Saturday,West Ham,0,3,Brighton,Brighton,London Stadium,London
+294,2017-10-21,Saturday,Chelsea,4,2,Watford,Chelsea,Stamford Bridge,London
+295,2017-10-21,Saturday,Huddersfield,2,1,Man Utd,Huddersfield,John Smith's Stadium,Huddersfield
+296,2017-10-21,Saturday,Man City,3,0,Burnley,Man City,Etihad Stadium,Manchester
+297,2017-10-21,Saturday,Newcastle,1,0,Crystal Palace,Newcastle,St. James' Park,Newcastle
+298,2017-10-21,Saturday,Stoke,1,2,Bournemouth,Bournemouth,bet365 Stadium,Stoke
+299,2017-10-21,Saturday,Swansea,1,2,Leicester,Leicester,Liberty Stadium,Swansea
+300,2017-10-17,Tuesday,Leicester,1,1,West Brom,Draw,King Power Stadium,Leicester
+301,2017-10-15,Sunday,Watford,2,1,Arsenal,Watford,Vicarage Road,Watford
+302,2017-10-15,Sunday,Brighton,1,1,Everton,Draw,Amex Stadium,Falmer
+303,2017-10-15,Sunday,Southampton,2,2,Newcastle,Draw,St. Mary's Stadium,Southampton
+304,2017-10-14,Saturday,Liverpool,0,0,Man Utd,Draw,Anfield,Liverpool
+305,2017-10-14,Saturday,Burnley,1,1,West Ham,Draw,Turf Moor,Burnley
+306,2017-10-14,Saturday,Crystal Palace,2,1,Chelsea,Crystal Palace,Selhurst Park,London
+307,2017-10-14,Saturday,Man City,7,2,Stoke,Man City,Etihad Stadium,Manchester
+308,2017-10-14,Saturday,Swansea,2,0,Huddersfield,Swansea,Liberty Stadium,Swansea
+309,2017-10-14,Saturday,Spurs,1,0,Bournemouth,Spurs,Wembley Stadium,London
+310,2017-10-01,Sunday,Chelsea,0,1,Man City,Man City,Stamford Bridge,London
+311,2017-10-01,Sunday,Arsenal,2,0,Brighton,Arsenal,Emirates Stadium,London
+312,2017-10-01,Sunday,Everton,0,1,Burnley,Burnley,Goodison Park,Liverpool
+313,2017-10-01,Sunday,Newcastle,1,1,Liverpool,Draw,St. James' Park,Newcastle
+314,2017-09-30,Saturday,Huddersfield,0,4,Spurs,Spurs,John Smith's Stadium,Huddersfield
+315,2017-09-30,Saturday,Bournemouth,0,0,Leicester,Draw,Vitality Stadium,Bournemouth
+316,2017-09-30,Saturday,Man Utd,4,0,Crystal Palace,Man Utd,Old Trafford,Manchester
+317,2017-09-30,Saturday,Stoke,2,1,Southampton,Stoke,bet365 Stadium,Stoke
+318,2017-09-30,Saturday,West Brom,2,2,Watford,Draw,The Hawthorns,West Bromwich
+319,2017-09-30,Saturday,West Ham,1,0,Swansea,West Ham,London Stadium,London
+320,2017-09-26,Tuesday,Arsenal,2,0,West Brom,Arsenal,Emirates Stadium,London
+321,2017-09-24,Sunday,Leicester,2,3,Liverpool,Liverpool,King Power Stadium,Leicester
+322,2017-09-24,Sunday,Brighton,1,0,Newcastle,Brighton,Amex Stadium,Falmer
+323,2017-09-23,Saturday,West Ham,2,3,Spurs,Spurs,London Stadium,London
+324,2017-09-23,Saturday,Burnley,0,0,Huddersfield,Draw,Turf Moor,Burnley
+325,2017-09-23,Saturday,Everton,2,1,Bournemouth,Everton,Goodison Park,Liverpool
+326,2017-09-23,Saturday,Man City,5,0,Crystal Palace,Man City,Etihad Stadium,Manchester
+327,2017-09-23,Saturday,Southampton,0,1,Man Utd,Man Utd,St. Mary's Stadium,Southampton
+328,2017-09-23,Saturday,Stoke,0,4,Chelsea,Chelsea,bet365 Stadium,Stoke
+329,2017-09-23,Saturday,Swansea,1,2,Watford,Watford,Liberty Stadium,Swansea
+330,2017-09-17,Sunday,Spurs,0,0,Swansea,Draw,Wembley Stadium,London
+331,2017-09-17,Sunday,Chelsea,0,0,Arsenal,Draw,Stamford Bridge,London
+332,2017-09-17,Sunday,Man Utd,4,0,Everton,Man Utd,Old Trafford,Manchester
+333,2017-09-16,Saturday,Bournemouth,2,1,Brighton,Bournemouth,Vitality Stadium,Bournemouth
+334,2017-09-16,Saturday,Crystal Palace,0,1,Southampton,Southampton,Selhurst Park,London
+335,2017-09-16,Saturday,Huddersfield,1,1,Leicester,Draw,John Smith's Stadium,Huddersfield
+336,2017-09-16,Saturday,Liverpool,1,1,Burnley,Draw,Anfield,Liverpool
+337,2017-09-16,Saturday,Newcastle,2,1,Stoke,Newcastle,St. James' Park,Newcastle
+338,2017-09-16,Saturday,Watford,0,6,Man City,Man City,Vicarage Road,Watford
+339,2017-09-16,Saturday,West Brom,0,0,West Ham,Draw,The Hawthorns,West Bromwich
+340,2017-09-12,Tuesday,West Ham,2,0,Huddersfield,West Ham,London Stadium,London
+341,2017-09-10,Sunday,Stoke,2,2,Man Utd,Draw,bet365 Stadium,Stoke
+342,2017-09-10,Sunday,Burnley,1,0,Crystal Palace,Burnley,Turf Moor,Burnley
+343,2017-09-10,Sunday,Swansea,0,1,Newcastle,Newcastle,Liberty Stadium,Swansea
+344,2017-09-09,Saturday,Man City,5,0,Liverpool,Man City,Etihad Stadium,Manchester
+345,2017-09-09,Saturday,Arsenal,3,0,Bournemouth,Arsenal,Emirates Stadium,London
+346,2017-09-09,Saturday,Brighton,3,1,West Brom,Brighton,Amex Stadium,Falmer
+347,2017-09-09,Saturday,Everton,0,3,Spurs,Spurs,Goodison Park,Liverpool
+348,2017-09-09,Saturday,Leicester,1,2,Chelsea,Chelsea,King Power Stadium,Leicester
+349,2017-09-09,Saturday,Southampton,0,2,Watford,Watford,St. Mary's Stadium,Southampton
+350,2017-08-27,Sunday,Man Utd,2,0,Leicester,Man Utd,Old Trafford,Manchester
+351,2017-08-27,Sunday,Chelsea,2,0,Everton,Chelsea,Stamford Bridge,London
+352,2017-08-27,Sunday,West Brom,1,1,Stoke,Draw,The Hawthorns,West Bromwich
+353,2017-08-27,Sunday,Liverpool,4,0,Arsenal,Liverpool,Anfield,Liverpool
+354,2017-08-27,Sunday,Spurs,1,1,Burnley,Draw,Wembley Stadium,London
+355,2017-08-26,Saturday,Bournemouth,1,2,Man City,Man City,Vitality Stadium,Bournemouth
+356,2017-08-26,Saturday,Crystal Palace,0,2,Swansea,Swansea,Selhurst Park,London
+357,2017-08-26,Saturday,Huddersfield,0,0,Southampton,Draw,John Smith's Stadium,Huddersfield
+358,2017-08-26,Saturday,Newcastle,3,0,West Ham,Newcastle,St. James' Park,Newcastle
+359,2017-08-26,Saturday,Watford,0,0,Brighton,Draw,Vicarage Road,Watford
+360,2017-08-22,Tuesday,Man City,1,1,Everton,Draw,Etihad Stadium,Manchester
+361,2017-08-20,Sunday,Stoke,1,0,Arsenal,Stoke,bet365 Stadium,Stoke
+362,2017-08-20,Sunday,Huddersfield,1,0,Newcastle,Huddersfield,John Smith's Stadium,Huddersfield
+363,2017-08-20,Sunday,Spurs,1,2,Chelsea,Chelsea,Wembley Stadium,London
+364,2017-08-19,Saturday,Swansea,0,4,Man Utd,Man Utd,Liberty Stadium,Swansea
+365,2017-08-19,Saturday,Bournemouth,0,2,Watford,Watford,Vitality Stadium,Bournemouth
+366,2017-08-19,Saturday,Burnley,0,1,West Brom,West Brom,Turf Moor,Burnley
+367,2017-08-19,Saturday,Leicester,2,0,Brighton,Leicester,King Power Stadium,Leicester
+368,2017-08-19,Saturday,Liverpool,1,0,Crystal Palace,Liverpool,Anfield,Liverpool
+369,2017-08-19,Saturday,Southampton,3,2,West Ham,Southampton,St. Mary's Stadium,Southampton
+370,2017-08-13,Sunday,Brighton,0,2,Man City,Man City,Amex Stadium,Falmer
+371,2017-08-13,Sunday,Newcastle,0,2,Spurs,Spurs,St. James' Park,Newcastle
+372,2017-08-13,Sunday,Man Utd,4,0,West Ham,Man Utd,Old Trafford,Manchester
+373,2017-08-12,Saturday,Arsenal,4,3,Leicester,Arsenal,Emirates Stadium,London
+374,2017-08-12,Saturday,Watford,3,3,Liverpool,Draw,Vicarage Road,Watford
+375,2017-08-12,Saturday,Chelsea,2,3,Burnley,Burnley,Stamford Bridge,London
+376,2017-08-12,Saturday,Crystal Palace,0,3,Huddersfield,Huddersfield,Selhurst Park,London
+377,2017-08-12,Saturday,Everton,1,0,Stoke,Everton,Goodison Park,Liverpool
+378,2017-08-12,Saturday,Southampton,0,0,Swansea,Draw,St. Mary's Stadium,Southampton
+379,2017-08-12,Saturday,West Brom,1,0,Bournemouth,West Brom,The Hawthorns,West Bromwich

@@ -1,0 +1,216 @@
+1
+Newcastle United
+Newcastle
+23
+12
+7
+4
+34:22
+43
+2
+West Bromwich Albion
+West Brom
+23
+10
+10
+3
+41:27
+40
+3
+Cardiff City
+Cardiff
+23
+10
+4
+9
+36:34
+34
+4
+Leicester City
+Leicester
+23
+8
+7
+8
+21:27
+31
+5
+Crystal Palace
+Crystal Palace
+23
+6
+12
+5
+26:26
+30
+6
+Swansea City
+Swansea
+23
+7
+8
+8
+19:25
+29
+7
+Middlesbrough
+Middlesbrough
+23
+7
+6
+10
+33:29
+27
+8
+Doncaster Rovers
+Doncaster
+23
+6
+8
+9
+27:29
+26
+9
+Reading
+Reading
+23
+7
+5
+11
+29:41
+26
+10
+Blackpool
+Blackpool
+23
+6
+7
+10
+28:36
+25
+11
+Queens Park Rangers
+QPR
+23
+6
+6
+11
+22:37
+24
+12
+Nottingham Forest
+Forest
+23
+4
+11
+8
+20:27
+23
+13
+Barnsley
+Barnsley
+23
+6
+5
+12
+28:40
+23
+14
+Bristol City
+Bristol City
+23
+5
+8
+10
+18:31
+23
+15
+Sheffield United
+Sheffield Utd
+23
+5
+6
+12
+25:35
+21
+16
+Ipswich Town
+Ipswich
+23
+4
+9
+10
+26:38
+21
+17
+Coventry City
+Coventry
+23
+5
+6
+12
+20:35
+21
+18
+Plymouth Argyle
+Plymouth
+23
+6
+2
+15
+23:38
+20
+19
+Watford
+Watford
+23
+4
+6
+13
+25:42
+18
+20
+Derby County
+Derby
+23
+3
+8
+12
+16:31
+17
+21
+Sheffield Wednesday
+Sheffield Wed
+23
+3
+8
+12
+19:38
+17
+22
+Preston North End
+Preston
+23
+4
+5
+14
+23:47
+17
+23
+Scunthorpe United
+Scunthorpe
+23
+4
+3
+16
+22:52
+15
+24
+Peterborough United
+Peterborough Utd
+23
+2
+5
+16
+14:43
+11

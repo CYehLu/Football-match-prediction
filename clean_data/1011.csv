@@ -1,0 +1,381 @@
+,Date,Weekday,HomeTeam,HomeScore,AwayScore,AwayTeam,Winner,Stadium,City
+0,2011-05-22,Sunday,Aston Villa,1,0,Liverpool,Aston Villa,Villa Park,Birmingham
+1,2011-05-22,Sunday,Bolton,0,2,Man City,Man City,Macron Stadium,Bolton
+2,2011-05-22,Sunday,Everton,1,0,Chelsea,Everton,Goodison Park,Liverpool
+3,2011-05-22,Sunday,Fulham,2,2,Arsenal,Draw,Craven Cottage,London
+4,2011-05-22,Sunday,Man Utd,4,2,Blackpool,Man Utd,Old Trafford,Manchester
+5,2011-05-22,Sunday,Newcastle,3,3,West Brom,Draw,Sports Direct Arena,Newcastle
+6,2011-05-22,Sunday,Stoke,0,1,Wigan,Wigan,Britannia Stadium,Stoke
+7,2011-05-22,Sunday,Spurs,2,1,Birmingham,Spurs,White Hart Lane,London
+8,2011-05-22,Sunday,West Ham,0,3,Sunderland,Sunderland,Boleyn Ground,London
+9,2011-05-22,Sunday,Wolves,2,3,Blackburn,Blackburn,Molineux Stadium,Wolverhampton
+10,2011-05-18,Wednesday,Man City,3,0,Stoke,Man City,Etihad Stadium,Manchester
+11,2011-05-15,Sunday,Chelsea,2,2,Newcastle,Draw,Stamford Bridge,London
+12,2011-05-15,Sunday,Arsenal,1,2,Aston Villa,Aston Villa,Emirates Stadium,London
+13,2011-05-15,Sunday,Birmingham,0,2,Fulham,Fulham,St Andrews,Birmingham
+14,2011-05-15,Sunday,Liverpool,0,2,Spurs,Spurs,Anfield,Liverpool
+15,2011-05-15,Sunday,Wigan,3,2,West Ham,Wigan,DW Stadium,Wigan
+16,2011-05-14,Saturday,Blackburn,1,1,Man Utd,Draw,Ewood Park,Blackburn
+17,2011-05-14,Saturday,Blackpool,4,3,Bolton,Blackpool,Bloomfield Road,Blackpool
+18,2011-05-14,Saturday,Sunderland,1,3,Wolves,Wolves,Stadium of Light,Sunderland
+19,2011-05-14,Saturday,West Brom,1,0,Everton,West Brom,The Hawthorns,West Bromwich
+20,2011-05-11,Wednesday,Man City,1,0,Spurs,Man City,Etihad Stadium,Manchester
+21,2011-05-10,Tuesday,Fulham,2,5,Liverpool,Liverpool,Craven Cottage,London
+22,2011-05-08,Sunday,Spurs,1,1,Blackpool,Draw,White Hart Lane,London
+23,2011-05-08,Sunday,Wolves,3,1,West Brom,Wolves,Molineux Stadium,Wolverhampton
+24,2011-05-08,Sunday,Stoke,3,1,Arsenal,Stoke,Britannia Stadium,Stoke
+25,2011-05-08,Sunday,Man Utd,2,1,Chelsea,Man Utd,Old Trafford,Manchester
+26,2011-05-07,Saturday,Aston Villa,1,1,Wigan,Draw,Villa Park,Birmingham
+27,2011-05-07,Saturday,Bolton,1,2,Sunderland,Sunderland,Macron Stadium,Bolton
+28,2011-05-07,Saturday,Everton,2,1,Man City,Everton,Goodison Park,Liverpool
+29,2011-05-07,Saturday,Newcastle,2,1,Birmingham,Newcastle,Sports Direct Arena,Newcastle
+30,2011-05-07,Saturday,West Ham,1,1,Blackburn,Draw,Boleyn Ground,London
+31,2011-05-01,Sunday,Chelsea,2,1,Spurs,Chelsea,Stamford Bridge,London
+32,2011-05-01,Sunday,Birmingham,1,1,Wolves,Draw,St Andrews,Birmingham
+33,2011-05-01,Sunday,Liverpool,3,0,Newcastle,Liverpool,Anfield,Liverpool
+34,2011-05-01,Sunday,Arsenal,1,0,Man Utd,Arsenal,Emirates Stadium,London
+35,2011-05-01,Sunday,Man City,2,1,West Ham,Man City,Etihad Stadium,Manchester
+36,2011-04-30,Saturday,Blackburn,1,0,Bolton,Blackburn,Ewood Park,Blackburn
+37,2011-04-30,Saturday,Blackpool,0,0,Stoke,Draw,Bloomfield Road,Blackpool
+38,2011-04-30,Saturday,Sunderland,0,3,Fulham,Fulham,Stadium of Light,Sunderland
+39,2011-04-30,Saturday,West Brom,2,1,Aston Villa,West Brom,The Hawthorns,West Bromwich
+40,2011-04-30,Saturday,Wigan,1,1,Everton,Draw,DW Stadium,Wigan
+41,2011-04-28,Thursday,Fulham,3,0,Bolton,Fulham,Craven Cottage,London
+42,2011-04-27,Wednesday,Stoke,3,0,Wolves,Stoke,Britannia Stadium,Stoke
+43,2011-04-26,Tuesday,Blackburn,0,1,Man City,Man City,Ewood Park,Blackburn
+44,2011-04-24,Sunday,Chelsea,3,0,West Ham,Chelsea,Stamford Bridge,London
+45,2011-04-24,Sunday,Bolton,2,1,Arsenal,Bolton,Macron Stadium,Bolton
+46,2011-04-23,Saturday,Man Utd,1,0,Everton,Man Utd,Old Trafford,Manchester
+47,2011-04-23,Saturday,Aston Villa,1,1,Stoke,Draw,Villa Park,Birmingham
+48,2011-04-23,Saturday,Blackpool,1,1,Newcastle,Draw,Bloomfield Road,Blackpool
+49,2011-04-23,Saturday,Liverpool,5,0,Birmingham,Liverpool,Anfield,Liverpool
+50,2011-04-23,Saturday,Sunderland,4,2,Wigan,Sunderland,Stadium of Light,Sunderland
+51,2011-04-23,Saturday,Spurs,2,2,West Brom,Draw,White Hart Lane,London
+52,2011-04-23,Saturday,Wolves,1,1,Fulham,Draw,Molineux Stadium,Wolverhampton
+53,2011-04-21,Thursday,Chelsea,3,1,Birmingham,Chelsea,Stamford Bridge,London
+54,2011-04-21,Thursday,Spurs,3,3,Arsenal,Draw,White Hart Lane,London
+55,2011-04-20,Wednesday,Newcastle,0,0,Man Utd,Draw,Sports Direct Arena,Newcastle
+56,2011-04-17,Sunday,Arsenal,1,1,Liverpool,Draw,Emirates Stadium,London
+57,2011-04-16,Saturday,Birmingham,2,0,Sunderland,Birmingham,St Andrews,Birmingham
+58,2011-04-16,Saturday,Blackpool,1,3,Wigan,Wigan,Bloomfield Road,Blackpool
+59,2011-04-16,Saturday,Everton,2,0,Blackburn,Everton,Goodison Park,Liverpool
+60,2011-04-16,Saturday,West Brom,1,3,Chelsea,Chelsea,The Hawthorns,West Bromwich
+61,2011-04-16,Saturday,West Ham,1,2,Aston Villa,Aston Villa,Boleyn Ground,London
+62,2011-04-12,Tuesday,Liverpool,3,0,Man City,Liverpool,Anfield,Liverpool
+63,2011-04-10,Sunday,Blackpool,1,3,Arsenal,Arsenal,Bloomfield Road,Blackpool
+64,2011-04-10,Sunday,Aston Villa,1,0,Newcastle,Aston Villa,Villa Park,Birmingham
+65,2011-04-09,Saturday,Wolves,0,3,Everton,Everton,Molineux Stadium,Wolverhampton
+66,2011-04-09,Saturday,Blackburn,1,1,Birmingham,Draw,Ewood Park,Blackburn
+67,2011-04-09,Saturday,Bolton,3,0,West Ham,Bolton,Macron Stadium,Bolton
+68,2011-04-09,Saturday,Chelsea,1,0,Wigan,Chelsea,Stamford Bridge,London
+69,2011-04-09,Saturday,Man Utd,2,0,Fulham,Man Utd,Old Trafford,Manchester
+70,2011-04-09,Saturday,Sunderland,2,3,West Brom,West Brom,Stadium of Light,Sunderland
+71,2011-04-09,Saturday,Spurs,3,2,Stoke,Spurs,White Hart Lane,London
+72,2011-04-03,Sunday,Arsenal,0,0,Blackburn,Draw,Emirates Stadium,London
+73,2011-04-03,Sunday,Fulham,3,0,Blackpool,Fulham,Craven Cottage,London
+74,2011-04-03,Sunday,Man City,5,0,Sunderland,Man City,Etihad Stadium,Manchester
+75,2011-04-02,Saturday,Birmingham,2,1,Bolton,Birmingham,St Andrews,Birmingham
+76,2011-04-02,Saturday,Everton,2,2,Aston Villa,Draw,Goodison Park,Liverpool
+77,2011-04-02,Saturday,Newcastle,4,1,Wolves,Newcastle,Sports Direct Arena,Newcastle
+78,2011-04-02,Saturday,Stoke,1,1,Chelsea,Draw,Britannia Stadium,Stoke
+79,2011-04-02,Saturday,West Brom,2,1,Liverpool,West Brom,The Hawthorns,West Bromwich
+80,2011-04-02,Saturday,West Ham,2,4,Man Utd,Man Utd,Boleyn Ground,London
+81,2011-04-02,Saturday,Wigan,0,0,Spurs,Draw,DW Stadium,Wigan
+82,2011-03-21,Monday,Chelsea,2,0,Man City,Chelsea,Stamford Bridge,London
+83,2011-03-20,Sunday,Everton,2,1,Fulham,Everton,Goodison Park,Liverpool
+84,2011-03-20,Sunday,Sunderland,0,2,Liverpool,Liverpool,Stadium of Light,Sunderland
+85,2011-03-19,Saturday,Spurs,0,0,West Ham,Draw,White Hart Lane,London
+86,2011-03-19,Saturday,Aston Villa,0,1,Wolves,Wolves,Villa Park,Birmingham
+87,2011-03-19,Saturday,Blackburn,2,2,Blackpool,Draw,Ewood Park,Blackburn
+88,2011-03-19,Saturday,Man Utd,1,0,Bolton,Man Utd,Old Trafford,Manchester
+89,2011-03-19,Saturday,Stoke,4,0,Newcastle,Stoke,Britannia Stadium,Stoke
+90,2011-03-19,Saturday,West Brom,2,2,Arsenal,Draw,The Hawthorns,West Bromwich
+91,2011-03-19,Saturday,Wigan,2,1,Birmingham,Wigan,DW Stadium,Wigan
+92,2011-03-10,Thursday,Everton,1,1,Birmingham,Draw,Goodison Park,Liverpool
+93,2011-03-08,Tuesday,Blackpool,1,3,Chelsea,Chelsea,Bloomfield Road,Blackpool
+94,2011-03-07,Monday,Wolves,3,3,Spurs,Draw,Molineux Stadium,Wolverhampton
+95,2011-03-06,Sunday,Man City,1,0,Wigan,Man City,Etihad Stadium,Manchester
+96,2011-03-06,Sunday,Liverpool,3,1,Man Utd,Liverpool,Anfield,Liverpool
+97,2011-03-05,Saturday,Birmingham,1,3,West Brom,West Brom,St Andrews,Birmingham
+98,2011-03-05,Saturday,Arsenal,0,0,Sunderland,Draw,Emirates Stadium,London
+99,2011-03-05,Saturday,Bolton,3,2,Aston Villa,Bolton,Macron Stadium,Bolton
+100,2011-03-05,Saturday,Fulham,3,2,Blackburn,Fulham,Craven Cottage,London
+101,2011-03-05,Saturday,Newcastle,1,2,Everton,Everton,Sports Direct Arena,Newcastle
+102,2011-03-05,Saturday,West Ham,3,0,Stoke,West Ham,Boleyn Ground,London
+103,2011-03-02,Wednesday,Chelsea,2,1,Man Utd,Chelsea,Stamford Bridge,London
+104,2011-03-01,Tuesday,Stoke,1,1,West Brom,Draw,Britannia Stadium,Stoke
+105,2011-02-27,Sunday,West Ham,3,1,Liverpool,West Ham,Boleyn Ground,London
+106,2011-02-27,Sunday,Man City,1,1,Fulham,Draw,Etihad Stadium,Manchester
+107,2011-02-26,Saturday,Aston Villa,4,1,Blackburn,Aston Villa,Villa Park,Birmingham
+108,2011-02-26,Saturday,Everton,2,0,Sunderland,Everton,Goodison Park,Liverpool
+109,2011-02-26,Saturday,Newcastle,1,1,Bolton,Draw,Sports Direct Arena,Newcastle
+110,2011-02-26,Saturday,Wigan,0,4,Man Utd,Man Utd,DW Stadium,Wigan
+111,2011-02-26,Saturday,Wolves,4,0,Blackpool,Wolves,Molineux Stadium,Wolverhampton
+112,2011-02-24,Thursday,Arsenal,1,0,Stoke,Arsenal,Emirates Stadium,London
+113,2011-02-23,Wednesday,Blackpool,3,1,Spurs,Blackpool,Bloomfield Road,Blackpool
+114,2011-02-20,Sunday,West Brom,1,1,Wolves,Draw,The Hawthorns,West Bromwich
+115,2011-02-16,Wednesday,Birmingham,0,2,Newcastle,Newcastle,St Andrews,Birmingham
+116,2011-02-15,Tuesday,Fulham,0,0,Chelsea,Draw,Craven Cottage,London
+117,2011-02-14,Monday,Bolton,2,0,Everton,Bolton,Macron Stadium,Bolton
+118,2011-02-13,Sunday,Sunderland,1,2,Spurs,Spurs,Stadium of Light,Sunderland
+119,2011-02-12,Saturday,Arsenal,2,0,Wolves,Arsenal,Emirates Stadium,London
+120,2011-02-12,Saturday,Man Utd,2,1,Man City,Man Utd,Old Trafford,Manchester
+121,2011-02-12,Saturday,Birmingham,1,0,Stoke,Birmingham,St Andrews,Birmingham
+122,2011-02-12,Saturday,Blackburn,0,0,Newcastle,Draw,Ewood Park,Blackburn
+123,2011-02-12,Saturday,Blackpool,1,1,Aston Villa,Draw,Bloomfield Road,Blackpool
+124,2011-02-12,Saturday,Liverpool,1,1,Wigan,Draw,Anfield,Liverpool
+125,2011-02-12,Saturday,West Brom,3,3,West Ham,Draw,The Hawthorns,West Bromwich
+126,2011-02-07,Monday,Chelsea,0,1,Liverpool,Liverpool,Stamford Bridge,London
+127,2011-02-06,Sunday,Wolves,2,1,Man Utd,Wolves,Molineux Stadium,Wolverhampton
+128,2011-02-06,Sunday,West Ham,0,1,Birmingham,Birmingham,Boleyn Ground,London
+129,2011-02-05,Saturday,Stoke,3,2,Sunderland,Stoke,Britannia Stadium,Stoke
+130,2011-02-05,Saturday,Aston Villa,2,2,Fulham,Draw,Villa Park,Birmingham
+131,2011-02-05,Saturday,Everton,5,3,Blackpool,Everton,Goodison Park,Liverpool
+132,2011-02-05,Saturday,Man City,3,0,West Brom,Man City,Etihad Stadium,Manchester
+133,2011-02-05,Saturday,Newcastle,4,4,Arsenal,Draw,Sports Direct Arena,Newcastle
+134,2011-02-05,Saturday,Spurs,2,1,Bolton,Spurs,White Hart Lane,London
+135,2011-02-05,Saturday,Wigan,4,3,Blackburn,Wigan,DW Stadium,Wigan
+136,2011-02-03,Thursday,Birmingham,2,2,Man City,Draw,St Andrews,Birmingham
+137,2011-02-03,Thursday,Blackburn,0,1,Spurs,Spurs,Ewood Park,Blackburn
+138,2011-02-03,Thursday,Blackpool,1,3,West Ham,West Ham,Bloomfield Road,Blackpool
+139,2011-02-03,Thursday,Bolton,1,0,Wolves,Bolton,Macron Stadium,Bolton
+140,2011-02-03,Thursday,Fulham,1,0,Newcastle,Fulham,Craven Cottage,London
+141,2011-02-03,Thursday,Liverpool,2,0,Stoke,Liverpool,Anfield,Liverpool
+142,2011-02-02,Wednesday,Arsenal,2,1,Everton,Arsenal,Emirates Stadium,London
+143,2011-02-02,Wednesday,Sunderland,2,4,Chelsea,Chelsea,Stadium of Light,Sunderland
+144,2011-02-02,Wednesday,Man Utd,3,1,Aston Villa,Man Utd,Old Trafford,Manchester
+145,2011-02-02,Wednesday,West Brom,2,2,Wigan,Draw,The Hawthorns,West Bromwich
+146,2011-01-27,Thursday,Liverpool,1,0,Fulham,Liverpool,Anfield,Liverpool
+147,2011-01-26,Wednesday,Blackpool,2,3,Man Utd,Man Utd,Bloomfield Road,Blackpool
+148,2011-01-26,Wednesday,Wigan,1,2,Aston Villa,Aston Villa,DW Stadium,Wigan
+149,2011-01-25,Tuesday,Bolton,0,4,Chelsea,Chelsea,Macron Stadium,Bolton
+150,2011-01-24,Monday,Blackburn,2,0,West Brom,Blackburn,Ewood Park,Blackburn
+151,2011-01-23,Sunday,Aston Villa,1,0,Man City,Aston Villa,Villa Park,Birmingham
+152,2011-01-22,Saturday,Wolves,0,3,Liverpool,Liverpool,Molineux Stadium,Wolverhampton
+153,2011-01-22,Saturday,Arsenal,3,0,Wigan,Arsenal,Emirates Stadium,London
+154,2011-01-22,Saturday,Blackpool,1,2,Sunderland,Sunderland,Bloomfield Road,Blackpool
+155,2011-01-22,Saturday,Everton,2,2,West Ham,Draw,Goodison Park,Liverpool
+156,2011-01-22,Saturday,Fulham,2,0,Stoke,Fulham,Craven Cottage,London
+157,2011-01-22,Saturday,Man Utd,5,0,Birmingham,Man Utd,Old Trafford,Manchester
+158,2011-01-22,Saturday,Newcastle,1,1,Spurs,Draw,Sports Direct Arena,Newcastle
+159,2011-01-17,Monday,Spurs,0,0,Man Utd,Draw,White Hart Lane,London
+160,2011-01-16,Sunday,West Ham,0,3,Arsenal,Arsenal,Boleyn Ground,London
+161,2011-01-16,Sunday,Birmingham,1,1,Aston Villa,Draw,St Andrews,Birmingham
+162,2011-01-16,Sunday,Sunderland,1,1,Newcastle,Draw,Stadium of Light,Sunderland
+163,2011-01-16,Sunday,Liverpool,2,2,Everton,Draw,Anfield,Liverpool
+164,2011-01-15,Saturday,Chelsea,2,0,Blackburn,Chelsea,Stamford Bridge,London
+165,2011-01-15,Saturday,Man City,4,3,Wolves,Man City,Etihad Stadium,Manchester
+166,2011-01-15,Saturday,Stoke,2,0,Bolton,Stoke,Britannia Stadium,Stoke
+167,2011-01-15,Saturday,West Brom,3,2,Blackpool,West Brom,The Hawthorns,West Bromwich
+168,2011-01-15,Saturday,Wigan,1,1,Fulham,Draw,DW Stadium,Wigan
+169,2011-01-13,Thursday,Blackpool,2,1,Liverpool,Blackpool,Bloomfield Road,Blackpool
+170,2011-01-06,Thursday,Arsenal,0,0,Man City,Draw,Emirates Stadium,London
+171,2011-01-06,Thursday,Aston Villa,0,1,Sunderland,Sunderland,Villa Park,Birmingham
+172,2011-01-06,Thursday,Newcastle,5,0,West Ham,Newcastle,Sports Direct Arena,Newcastle
+173,2011-01-06,Thursday,Wolves,1,0,Chelsea,Wolves,Molineux Stadium,Wolverhampton
+174,2011-01-06,Thursday,Blackburn,3,1,Liverpool,Blackburn,Ewood Park,Blackburn
+175,2011-01-06,Thursday,Bolton,1,1,Wigan,Draw,Macron Stadium,Bolton
+176,2011-01-06,Thursday,Everton,2,1,Spurs,Everton,Goodison Park,Liverpool
+177,2011-01-05,Wednesday,Blackpool,1,2,Birmingham,Birmingham,Bloomfield Road,Blackpool
+178,2011-01-05,Wednesday,Fulham,3,0,West Brom,Fulham,Craven Cottage,London
+179,2011-01-05,Wednesday,Man Utd,2,1,Stoke,Man Utd,Old Trafford,Manchester
+180,2011-01-03,Monday,Wigan,0,1,Newcastle,Newcastle,DW Stadium,Wigan
+181,2011-01-02,Sunday,Birmingham,0,3,Arsenal,Arsenal,St Andrews,Birmingham
+182,2011-01-02,Sunday,Chelsea,3,3,Aston Villa,Draw,Stamford Bridge,London
+183,2011-01-01,Saturday,West Brom,1,2,Man Utd,Man Utd,The Hawthorns,West Bromwich
+184,2011-01-01,Saturday,Liverpool,2,1,Bolton,Liverpool,Anfield,Liverpool
+185,2011-01-01,Saturday,Man City,1,0,Blackpool,Man City,Etihad Stadium,Manchester
+186,2011-01-01,Saturday,Stoke,2,0,Everton,Stoke,Britannia Stadium,Stoke
+187,2011-01-01,Saturday,Sunderland,3,0,Blackburn,Sunderland,Stadium of Light,Sunderland
+188,2011-01-01,Saturday,Spurs,1,0,Fulham,Spurs,White Hart Lane,London
+189,2011-01-01,Saturday,West Ham,2,0,Wolves,West Ham,Boleyn Ground,London
+190,2010-12-30,Thursday,Chelsea,1,0,Bolton,Chelsea,Stamford Bridge,London
+191,2010-12-30,Thursday,Wigan,2,2,Arsenal,Draw,DW Stadium,Wigan
+192,2010-12-30,Thursday,Liverpool,0,1,Wolves,Wolves,Anfield,Liverpool
+193,2010-12-29,Wednesday,West Ham,1,1,Everton,Draw,Boleyn Ground,London
+194,2010-12-29,Wednesday,Birmingham,1,1,Man Utd,Draw,St Andrews,Birmingham
+195,2010-12-28,Tuesday,Man City,4,0,Aston Villa,Man City,Etihad Stadium,Manchester
+196,2010-12-28,Tuesday,Stoke,0,2,Fulham,Fulham,Britannia Stadium,Stoke
+197,2010-12-28,Tuesday,Sunderland,0,2,Blackpool,Blackpool,Stadium of Light,Sunderland
+198,2010-12-28,Tuesday,Spurs,2,0,Newcastle,Spurs,White Hart Lane,London
+199,2010-12-28,Tuesday,West Brom,1,3,Blackburn,Blackburn,The Hawthorns,West Bromwich
+200,2010-12-28,Tuesday,Arsenal,3,1,Chelsea,Arsenal,Emirates Stadium,London
+201,2010-12-27,Monday,Aston Villa,1,2,Spurs,Spurs,Villa Park,Birmingham
+202,2010-12-26,Sunday,Fulham,1,3,West Ham,West Ham,Craven Cottage,London
+203,2010-12-26,Sunday,Blackburn,0,2,Stoke,Stoke,Ewood Park,Blackburn
+204,2010-12-26,Sunday,Bolton,2,0,West Brom,Bolton,Macron Stadium,Bolton
+205,2010-12-26,Sunday,Man Utd,2,0,Sunderland,Man Utd,Old Trafford,Manchester
+206,2010-12-26,Sunday,Newcastle,1,3,Man City,Man City,Sports Direct Arena,Newcastle
+207,2010-12-26,Sunday,Wolves,1,2,Wigan,Wigan,Molineux Stadium,Wolverhampton
+208,2010-12-21,Tuesday,Man City,1,2,Everton,Everton,Etihad Stadium,Manchester
+209,2010-12-18,Saturday,Sunderland,1,0,Bolton,Sunderland,Stadium of Light,Sunderland
+210,2010-12-18,Saturday,Blackburn,1,1,West Ham,Draw,Ewood Park,Blackburn
+211,2010-12-14,Tuesday,Man Utd,1,0,Arsenal,Man Utd,Old Trafford,Manchester
+212,2010-12-13,Monday,Spurs,1,1,Chelsea,Draw,White Hart Lane,London
+213,2010-12-12,Sunday,Newcastle,3,1,Liverpool,Newcastle,Sports Direct Arena,Newcastle
+214,2010-12-12,Sunday,Bolton,2,1,Blackburn,Bolton,Macron Stadium,Bolton
+215,2010-12-12,Sunday,Wolves,1,0,Birmingham,Wolves,Molineux Stadium,Wolverhampton
+216,2010-12-11,Saturday,Aston Villa,2,1,West Brom,Aston Villa,Villa Park,Birmingham
+217,2010-12-11,Saturday,Everton,0,0,Wigan,Draw,Goodison Park,Liverpool
+218,2010-12-11,Saturday,Fulham,0,0,Sunderland,Draw,Craven Cottage,London
+219,2010-12-11,Saturday,Stoke,0,1,Blackpool,Blackpool,Britannia Stadium,Stoke
+220,2010-12-11,Saturday,West Ham,1,3,Man City,Man City,Boleyn Ground,London
+221,2010-12-07,Tuesday,Liverpool,3,0,Aston Villa,Liverpool,Anfield,Liverpool
+222,2010-12-06,Monday,Sunderland,1,0,West Ham,Sunderland,Stadium of Light,Sunderland
+223,2010-12-05,Sunday,West Brom,3,1,Newcastle,West Brom,The Hawthorns,West Bromwich
+224,2010-12-04,Saturday,Arsenal,2,1,Fulham,Arsenal,Emirates Stadium,London
+225,2010-12-04,Saturday,Birmingham,1,1,Spurs,Draw,St Andrews,Birmingham
+226,2010-12-04,Saturday,Blackburn,3,0,Wolves,Blackburn,Ewood Park,Blackburn
+227,2010-12-04,Saturday,Chelsea,1,1,Everton,Draw,Stamford Bridge,London
+228,2010-12-04,Saturday,Man City,1,0,Bolton,Man City,Etihad Stadium,Manchester
+229,2010-12-04,Saturday,Wigan,2,2,Stoke,Draw,DW Stadium,Wigan
+230,2010-11-29,Monday,Spurs,2,1,Liverpool,Spurs,White Hart Lane,London
+231,2010-11-28,Sunday,Newcastle,1,1,Chelsea,Draw,Sports Direct Arena,Newcastle
+232,2010-11-27,Saturday,Aston Villa,2,4,Arsenal,Arsenal,Villa Park,Birmingham
+233,2010-11-27,Saturday,Bolton,2,2,Blackpool,Draw,Macron Stadium,Bolton
+234,2010-11-27,Saturday,Everton,1,4,West Brom,West Brom,Goodison Park,Liverpool
+235,2010-11-27,Saturday,Fulham,1,1,Birmingham,Draw,Craven Cottage,London
+236,2010-11-27,Saturday,Man Utd,7,1,Blackburn,Man Utd,Old Trafford,Manchester
+237,2010-11-27,Saturday,Stoke,1,1,Man City,Draw,Britannia Stadium,Stoke
+238,2010-11-27,Saturday,West Ham,3,1,Wigan,West Ham,Boleyn Ground,London
+239,2010-11-27,Saturday,Wolves,3,2,Sunderland,Wolves,Molineux Stadium,Wolverhampton
+240,2010-11-23,Tuesday,Sunderland,2,2,Everton,Draw,Stadium of Light,Sunderland
+241,2010-11-22,Monday,Fulham,1,4,Man City,Man City,Craven Cottage,London
+242,2010-11-21,Sunday,Liverpool,3,0,West Ham,Liverpool,Anfield,Liverpool
+243,2010-11-21,Sunday,Blackburn,2,0,Aston Villa,Blackburn,Ewood Park,Blackburn
+244,2010-11-20,Saturday,Arsenal,2,3,Spurs,Spurs,Emirates Stadium,London
+245,2010-11-20,Saturday,Birmingham,1,0,Chelsea,Birmingham,St Andrews,Birmingham
+246,2010-11-20,Saturday,Blackpool,2,1,Wolves,Blackpool,Bloomfield Road,Blackpool
+247,2010-11-20,Saturday,Bolton,5,1,Newcastle,Bolton,Macron Stadium,Bolton
+248,2010-11-20,Saturday,Man Utd,2,0,Wigan,Man Utd,Old Trafford,Manchester
+249,2010-11-20,Saturday,West Brom,0,3,Stoke,Stoke,The Hawthorns,West Bromwich
+250,2010-11-15,Monday,Chelsea,0,3,Sunderland,Sunderland,Stamford Bridge,London
+251,2010-11-14,Sunday,Stoke,2,0,Liverpool,Stoke,Britannia Stadium,Stoke
+252,2010-11-14,Sunday,Everton,1,2,Arsenal,Arsenal,Goodison Park,Liverpool
+253,2010-11-13,Saturday,Aston Villa,2,2,Man Utd,Draw,Villa Park,Birmingham
+254,2010-11-13,Saturday,Man City,0,0,Birmingham,Draw,Etihad Stadium,Manchester
+255,2010-11-13,Saturday,Newcastle,0,0,Fulham,Draw,Sports Direct Arena,Newcastle
+256,2010-11-13,Saturday,Spurs,4,2,Blackburn,Spurs,White Hart Lane,London
+257,2010-11-13,Saturday,West Ham,0,0,Blackpool,Draw,Boleyn Ground,London
+258,2010-11-13,Saturday,Wigan,1,0,West Brom,Wigan,DW Stadium,Wigan
+259,2010-11-13,Saturday,Wolves,2,3,Bolton,Bolton,Molineux Stadium,Wolverhampton
+260,2010-11-11,Thursday,Aston Villa,3,2,Blackpool,Aston Villa,Villa Park,Birmingham
+261,2010-11-11,Thursday,Chelsea,1,0,Fulham,Chelsea,Stamford Bridge,London
+262,2010-11-11,Thursday,Newcastle,1,2,Blackburn,Blackburn,Sports Direct Arena,Newcastle
+263,2010-11-11,Thursday,West Ham,2,2,West Brom,Draw,Boleyn Ground,London
+264,2010-11-11,Thursday,Wigan,1,1,Liverpool,Draw,DW Stadium,Wigan
+265,2010-11-11,Thursday,Wolves,0,2,Arsenal,Arsenal,Molineux Stadium,Wolverhampton
+266,2010-11-11,Thursday,Everton,1,1,Bolton,Draw,Goodison Park,Liverpool
+267,2010-11-11,Thursday,Man City,0,0,Man Utd,Draw,Etihad Stadium,Manchester
+268,2010-11-10,Wednesday,Stoke,3,2,Birmingham,Stoke,Britannia Stadium,Stoke
+269,2010-11-10,Wednesday,Spurs,1,1,Sunderland,Draw,White Hart Lane,London
+270,2010-11-08,Monday,Liverpool,2,0,Chelsea,Liverpool,Anfield,Liverpool
+271,2010-11-07,Sunday,Arsenal,0,1,Newcastle,Newcastle,Emirates Stadium,London
+272,2010-11-07,Sunday,West Brom,0,2,Man City,Man City,The Hawthorns,West Bromwich
+273,2010-11-06,Saturday,Bolton,4,2,Spurs,Bolton,Macron Stadium,Bolton
+274,2010-11-06,Saturday,Birmingham,2,2,West Ham,Draw,St Andrews,Birmingham
+275,2010-11-06,Saturday,Blackburn,2,1,Wigan,Blackburn,Ewood Park,Blackburn
+276,2010-11-06,Saturday,Blackpool,2,2,Everton,Draw,Bloomfield Road,Blackpool
+277,2010-11-06,Saturday,Fulham,1,1,Aston Villa,Draw,Craven Cottage,London
+278,2010-11-06,Saturday,Man Utd,2,1,Wolves,Man Utd,Old Trafford,Manchester
+279,2010-11-06,Saturday,Sunderland,2,0,Stoke,Sunderland,Stadium of Light,Sunderland
+280,2010-11-02,Tuesday,Blackpool,2,1,West Brom,Blackpool,Bloomfield Road,Blackpool
+281,2010-11-01,Monday,Bolton,0,1,Liverpool,Liverpool,Macron Stadium,Bolton
+282,2010-10-31,Sunday,Man Utd,2,0,Spurs,Man Utd,Old Trafford,Manchester
+283,2010-10-31,Sunday,Aston Villa,0,0,Birmingham,Draw,Villa Park,Birmingham
+284,2010-10-31,Sunday,Newcastle,5,1,Sunderland,Newcastle,Sports Direct Arena,Newcastle
+285,2010-10-30,Saturday,Arsenal,1,0,West Ham,Arsenal,Emirates Stadium,London
+286,2010-10-30,Saturday,Blackburn,1,2,Chelsea,Chelsea,Ewood Park,Blackburn
+287,2010-10-30,Saturday,Everton,1,0,Stoke,Everton,Goodison Park,Liverpool
+288,2010-10-30,Saturday,Fulham,2,0,Wigan,Fulham,Craven Cottage,London
+289,2010-10-30,Saturday,Wolves,2,1,Man City,Wolves,Molineux Stadium,Wolverhampton
+290,2010-10-24,Sunday,West Ham,1,2,Newcastle,Newcastle,Boleyn Ground,London
+291,2010-10-24,Sunday,Stoke,1,2,Man Utd,Man Utd,Britannia Stadium,Stoke
+292,2010-10-24,Sunday,Liverpool,2,1,Blackburn,Liverpool,Anfield,Liverpool
+293,2010-10-24,Sunday,Man City,0,3,Arsenal,Arsenal,Etihad Stadium,Manchester
+294,2010-10-23,Saturday,Spurs,1,1,Everton,Draw,White Hart Lane,London
+295,2010-10-23,Saturday,Birmingham,2,0,Blackpool,Birmingham,St Andrews,Birmingham
+296,2010-10-23,Saturday,Chelsea,2,0,Wolves,Chelsea,Stamford Bridge,London
+297,2010-10-23,Saturday,Sunderland,1,0,Aston Villa,Sunderland,Stadium of Light,Sunderland
+298,2010-10-23,Saturday,West Brom,2,1,Fulham,West Brom,The Hawthorns,West Bromwich
+299,2010-10-23,Saturday,Wigan,1,1,Bolton,Draw,DW Stadium,Wigan
+300,2010-10-19,Tuesday,Blackburn,0,0,Sunderland,Draw,Ewood Park,Blackburn
+301,2010-10-17,Sunday,Aston Villa,0,0,Chelsea,Draw,Villa Park,Birmingham
+302,2010-10-17,Sunday,Everton,2,0,Liverpool,Everton,Goodison Park,Liverpool
+303,2010-10-17,Sunday,Blackpool,2,3,Man City,Man City,Bloomfield Road,Blackpool
+304,2010-10-16,Saturday,Arsenal,2,1,Birmingham,Arsenal,Emirates Stadium,London
+305,2010-10-16,Saturday,Bolton,2,1,Stoke,Bolton,Macron Stadium,Bolton
+306,2010-10-16,Saturday,Fulham,1,2,Spurs,Spurs,Craven Cottage,London
+307,2010-10-16,Saturday,Man Utd,2,2,West Brom,Draw,Old Trafford,Manchester
+308,2010-10-16,Saturday,Newcastle,2,2,Wigan,Draw,Sports Direct Arena,Newcastle
+309,2010-10-16,Saturday,Wolves,1,1,West Ham,Draw,Molineux Stadium,Wolverhampton
+310,2010-10-03,Sunday,Man City,2,1,Newcastle,Man City,Etihad Stadium,Manchester
+311,2010-10-03,Sunday,Liverpool,1,2,Blackpool,Blackpool,Anfield,Liverpool
+312,2010-10-03,Sunday,Chelsea,2,0,Arsenal,Chelsea,Stamford Bridge,London
+313,2010-10-02,Saturday,Wigan,2,0,Wolves,Wigan,DW Stadium,Wigan
+314,2010-10-02,Saturday,Birmingham,0,2,Everton,Everton,St Andrews,Birmingham
+315,2010-10-02,Saturday,Stoke,1,0,Blackburn,Stoke,Britannia Stadium,Stoke
+316,2010-10-02,Saturday,Sunderland,0,0,Man Utd,Draw,Stadium of Light,Sunderland
+317,2010-10-02,Saturday,Spurs,2,1,Aston Villa,Spurs,White Hart Lane,London
+318,2010-10-02,Saturday,West Brom,1,1,Bolton,Draw,The Hawthorns,West Bromwich
+319,2010-10-02,Saturday,West Ham,1,1,Fulham,Draw,Boleyn Ground,London
+320,2010-09-26,Sunday,Bolton,2,2,Man Utd,Draw,Macron Stadium,Bolton
+321,2010-09-26,Sunday,Wolves,1,2,Aston Villa,Aston Villa,Molineux Stadium,Wolverhampton
+322,2010-09-26,Sunday,Newcastle,1,2,Stoke,Stoke,Sports Direct Arena,Newcastle
+323,2010-09-25,Saturday,Man City,1,0,Chelsea,Man City,Etihad Stadium,Manchester
+324,2010-09-25,Saturday,Arsenal,2,3,West Brom,West Brom,Emirates Stadium,London
+325,2010-09-25,Saturday,Birmingham,0,0,Wigan,Draw,St Andrews,Birmingham
+326,2010-09-25,Saturday,Blackpool,1,2,Blackburn,Blackburn,Bloomfield Road,Blackpool
+327,2010-09-25,Saturday,Fulham,0,0,Everton,Draw,Craven Cottage,London
+328,2010-09-25,Saturday,Liverpool,2,2,Sunderland,Draw,Anfield,Liverpool
+329,2010-09-25,Saturday,West Ham,1,0,Spurs,West Ham,Boleyn Ground,London
+330,2010-09-19,Sunday,Sunderland,1,1,Arsenal,Draw,Stadium of Light,Sunderland
+331,2010-09-19,Sunday,Man Utd,3,2,Liverpool,Man Utd,Old Trafford,Manchester
+332,2010-09-19,Sunday,Wigan,0,2,Man City,Man City,DW Stadium,Wigan
+333,2010-09-19,Sunday,Chelsea,4,0,Blackpool,Chelsea,Stamford Bridge,London
+334,2010-09-18,Saturday,Stoke,1,1,West Ham,Draw,Britannia Stadium,Stoke
+335,2010-09-18,Saturday,Aston Villa,1,1,Bolton,Draw,Villa Park,Birmingham
+336,2010-09-18,Saturday,Blackburn,1,1,Fulham,Draw,Ewood Park,Blackburn
+337,2010-09-18,Saturday,Everton,0,1,Newcastle,Newcastle,Goodison Park,Liverpool
+338,2010-09-18,Saturday,Spurs,3,1,Wolves,Spurs,White Hart Lane,London
+339,2010-09-18,Saturday,West Brom,3,1,Birmingham,West Brom,The Hawthorns,West Bromwich
+340,2010-09-14,Tuesday,Stoke,2,1,Aston Villa,Stoke,Britannia Stadium,Stoke
+341,2010-09-12,Sunday,Birmingham,0,0,Liverpool,Draw,St Andrews,Birmingham
+342,2010-09-11,Saturday,Everton,3,3,Man Utd,Draw,Goodison Park,Liverpool
+343,2010-09-11,Saturday,Arsenal,4,1,Bolton,Arsenal,Emirates Stadium,London
+344,2010-09-11,Saturday,Fulham,2,1,Wolves,Fulham,Craven Cottage,London
+345,2010-09-11,Saturday,Man City,1,1,Blackburn,Draw,Etihad Stadium,Manchester
+346,2010-09-11,Saturday,Newcastle,0,2,Blackpool,Blackpool,Sports Direct Arena,Newcastle
+347,2010-09-11,Saturday,West Brom,1,1,Spurs,Draw,The Hawthorns,West Bromwich
+348,2010-09-11,Saturday,West Ham,1,3,Chelsea,Chelsea,Boleyn Ground,London
+349,2010-09-11,Saturday,Wigan,1,1,Sunderland,Draw,DW Stadium,Wigan
+350,2010-08-29,Sunday,Man Utd,3,0,West Ham,Man Utd,Old Trafford,Manchester
+351,2010-08-29,Sunday,Bolton,2,2,Birmingham,Draw,Macron Stadium,Bolton
+352,2010-08-29,Sunday,Liverpool,1,0,West Brom,Liverpool,Anfield,Liverpool
+353,2010-08-29,Sunday,Sunderland,1,0,Man City,Sunderland,Stadium of Light,Sunderland
+354,2010-08-29,Sunday,Aston Villa,1,0,Everton,Aston Villa,Villa Park,Birmingham
+355,2010-08-28,Saturday,Blackburn,1,2,Arsenal,Arsenal,Ewood Park,Blackburn
+356,2010-08-28,Saturday,Blackpool,2,2,Fulham,Draw,Bloomfield Road,Blackpool
+357,2010-08-28,Saturday,Chelsea,2,0,Stoke,Chelsea,Stamford Bridge,London
+358,2010-08-28,Saturday,Spurs,0,1,Wigan,Wigan,White Hart Lane,London
+359,2010-08-28,Saturday,Wolves,1,1,Newcastle,Draw,Molineux Stadium,Wolverhampton
+360,2010-08-24,Tuesday,Man City,3,0,Liverpool,Man City,Etihad Stadium,Manchester
+361,2010-08-22,Sunday,Wigan,0,6,Chelsea,Chelsea,DW Stadium,Wigan
+362,2010-08-22,Sunday,Newcastle,6,0,Aston Villa,Newcastle,Sports Direct Arena,Newcastle
+363,2010-08-22,Sunday,Fulham,2,2,Man Utd,Draw,Craven Cottage,London
+364,2010-08-21,Saturday,Arsenal,6,0,Blackpool,Arsenal,Emirates Stadium,London
+365,2010-08-21,Saturday,Birmingham,2,1,Blackburn,Birmingham,St Andrews,Birmingham
+366,2010-08-21,Saturday,Everton,1,1,Wolves,Draw,Goodison Park,Liverpool
+367,2010-08-21,Saturday,Stoke,1,2,Spurs,Spurs,Britannia Stadium,Stoke
+368,2010-08-21,Saturday,West Brom,1,0,Sunderland,West Brom,The Hawthorns,West Bromwich
+369,2010-08-21,Saturday,West Ham,1,3,Bolton,Bolton,Boleyn Ground,London
+370,2010-08-17,Tuesday,Man Utd,3,0,Newcastle,Man Utd,Old Trafford,Manchester
+371,2010-08-15,Sunday,Chelsea,6,0,West Brom,Chelsea,Stamford Bridge,London
+372,2010-08-15,Sunday,Liverpool,1,1,Arsenal,Draw,Anfield,Liverpool
+373,2010-08-14,Saturday,Spurs,0,0,Man City,Draw,White Hart Lane,London
+374,2010-08-14,Saturday,Aston Villa,3,0,West Ham,Aston Villa,Villa Park,Birmingham
+375,2010-08-14,Saturday,Blackburn,1,0,Everton,Blackburn,Ewood Park,Blackburn
+376,2010-08-14,Saturday,Bolton,0,0,Fulham,Draw,Macron Stadium,Bolton
+377,2010-08-14,Saturday,Sunderland,2,2,Birmingham,Draw,Stadium of Light,Sunderland
+378,2010-08-14,Saturday,Wigan,0,4,Blackpool,Blackpool,DW Stadium,Wigan
+379,2010-08-14,Saturday,Wolves,2,1,Stoke,Wolves,Molineux Stadium,Wolverhampton

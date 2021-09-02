@@ -1,0 +1,381 @@
+,Date,Weekday,HomeTeam,HomeScore,AwayScore,AwayTeam,Winner,Stadium,City
+0,2013-05-19,Sunday,Chelsea,2,1,Everton,Chelsea,Stamford Bridge,London
+1,2013-05-19,Sunday,Liverpool,1,0,QPR,Liverpool,Anfield,Liverpool
+2,2013-05-19,Sunday,Man City,2,3,Norwich,Norwich,Etihad Stadium,Manchester
+3,2013-05-19,Sunday,Newcastle,0,1,Arsenal,Arsenal,St James' Park,Newcastle
+4,2013-05-19,Sunday,Southampton,1,1,Stoke,Draw,The Friends Provident St Mary's Stadium,Southampton
+5,2013-05-19,Sunday,Swansea,0,3,Fulham,Fulham,Liberty Stadium,Swansea
+6,2013-05-19,Sunday,Spurs,1,0,Sunderland,Spurs,White Hart Lane,London
+7,2013-05-19,Sunday,West Brom,5,5,Man Utd,Draw,The Hawthorns,West Bromwich
+8,2013-05-19,Sunday,West Ham,4,2,Reading,West Ham,Boleyn Ground,London
+9,2013-05-19,Sunday,Wigan,2,2,Aston Villa,Draw,DW Stadium,Wigan
+10,2013-05-15,Wednesday,Arsenal,4,1,Wigan,Arsenal,Emirates Stadium,London
+11,2013-05-15,Wednesday,Reading,0,2,Man City,Man City,Madejski Stadium,Reading
+12,2013-05-12,Sunday,Stoke,1,2,Spurs,Spurs,bet365 Stadium,Stoke
+13,2013-05-12,Sunday,Everton,2,0,West Ham,Everton,Goodison Park,Liverpool
+14,2013-05-12,Sunday,Fulham,1,3,Liverpool,Liverpool,Craven Cottage,London
+15,2013-05-12,Sunday,Norwich,4,0,West Brom,Norwich,Carrow Road,Norwich
+16,2013-05-12,Sunday,QPR,1,2,Newcastle,Newcastle,Loftus Road,London
+17,2013-05-12,Sunday,Sunderland,1,1,Southampton,Draw,Stadium of Light,Sunderland
+18,2013-05-12,Sunday,Man Utd,2,1,Swansea,Man Utd,Old Trafford,Manchester
+19,2013-05-11,Saturday,Aston Villa,1,2,Chelsea,Chelsea,Villa Park,Birmingham
+20,2013-05-09,Thursday,Chelsea,2,2,Spurs,Draw,Stamford Bridge,London
+21,2013-05-08,Wednesday,Man City,1,0,West Brom,Man City,Etihad Stadium,Manchester
+22,2013-05-08,Wednesday,Wigan,2,3,Swansea,Swansea,DW Stadium,Wigan
+23,2013-05-07,Tuesday,Sunderland,1,1,Stoke,Draw,Stadium of Light,Sunderland
+24,2013-05-05,Sunday,QPR,0,1,Arsenal,Arsenal,Loftus Road,London
+25,2013-05-05,Sunday,Liverpool,0,0,Everton,Draw,Anfield,Liverpool
+26,2013-05-05,Sunday,Man Utd,0,1,Chelsea,Chelsea,Old Trafford,Manchester
+27,2013-05-04,Saturday,Fulham,2,4,Reading,Reading,Craven Cottage,London
+28,2013-05-04,Saturday,Norwich,1,2,Aston Villa,Aston Villa,Carrow Road,Norwich
+29,2013-05-04,Saturday,Swansea,0,0,Man City,Draw,Liberty Stadium,Swansea
+30,2013-05-04,Saturday,Spurs,1,0,Southampton,Spurs,White Hart Lane,London
+31,2013-05-04,Saturday,West Brom,2,3,Wigan,Wigan,The Hawthorns,West Bromwich
+32,2013-05-04,Saturday,West Ham,0,0,Newcastle,Draw,Boleyn Ground,London
+33,2013-04-30,Tuesday,Aston Villa,6,1,Sunderland,Aston Villa,Villa Park,Birmingham
+34,2013-04-28,Sunday,Newcastle,0,6,Liverpool,Liverpool,St James' Park,Newcastle
+35,2013-04-28,Sunday,Reading,0,0,QPR,Draw,Madejski Stadium,Reading
+36,2013-04-28,Sunday,Chelsea,2,0,Swansea,Chelsea,Stamford Bridge,London
+37,2013-04-28,Sunday,Arsenal,1,1,Man Utd,Draw,Emirates Stadium,London
+38,2013-04-27,Saturday,Everton,1,0,Fulham,Everton,Goodison Park,Liverpool
+39,2013-04-27,Saturday,Southampton,0,3,West Brom,West Brom,The Friends Provident St Mary's Stadium,Southampton
+40,2013-04-27,Saturday,Man City,2,1,West Ham,Man City,Etihad Stadium,Manchester
+41,2013-04-27,Saturday,Stoke,1,0,Norwich,Stoke,bet365 Stadium,Stoke
+42,2013-04-27,Saturday,Wigan,2,2,Spurs,Draw,DW Stadium,Wigan
+43,2013-04-23,Tuesday,Man Utd,3,0,Aston Villa,Man Utd,Old Trafford,Manchester
+44,2013-04-21,Sunday,Spurs,3,1,Man City,Spurs,White Hart Lane,London
+45,2013-04-21,Sunday,Liverpool,2,2,Chelsea,Draw,Anfield,Liverpool
+46,2013-04-20,Saturday,Fulham,0,1,Arsenal,Arsenal,Craven Cottage,London
+47,2013-04-20,Saturday,Norwich,2,1,Reading,Norwich,Carrow Road,Norwich
+48,2013-04-20,Saturday,QPR,0,2,Stoke,Stoke,Loftus Road,London
+49,2013-04-20,Saturday,Sunderland,1,0,Everton,Sunderland,Stadium of Light,Sunderland
+50,2013-04-20,Saturday,Swansea,0,0,Southampton,Draw,Liberty Stadium,Swansea
+51,2013-04-20,Saturday,West Brom,1,1,Newcastle,Draw,The Hawthorns,West Bromwich
+52,2013-04-20,Saturday,West Ham,2,0,Wigan,West Ham,Boleyn Ground,London
+53,2013-04-18,Thursday,Man City,1,0,Wigan,Man City,Etihad Stadium,Manchester
+54,2013-04-18,Thursday,West Ham,2,2,Man Utd,Draw,Boleyn Ground,London
+55,2013-04-18,Thursday,Fulham,0,3,Chelsea,Chelsea,Craven Cottage,London
+56,2013-04-17,Wednesday,Arsenal,0,0,Everton,Draw,Emirates Stadium,London
+57,2013-04-14,Sunday,Newcastle,0,3,Sunderland,Sunderland,St James' Park,Newcastle
+58,2013-04-14,Sunday,Stoke,0,2,Man Utd,Man Utd,bet365 Stadium,Stoke
+59,2013-04-13,Saturday,Arsenal,3,1,Norwich,Arsenal,Emirates Stadium,London
+60,2013-04-13,Saturday,Aston Villa,1,1,Fulham,Draw,Villa Park,Birmingham
+61,2013-04-13,Saturday,Everton,2,0,QPR,Everton,Goodison Park,Liverpool
+62,2013-04-13,Saturday,Reading,0,0,Liverpool,Draw,Madejski Stadium,Reading
+63,2013-04-13,Saturday,Southampton,1,1,West Ham,Draw,The Friends Provident St Mary's Stadium,Southampton
+64,2013-04-09,Tuesday,Man Utd,1,2,Man City,Man City,Old Trafford,Manchester
+65,2013-04-07,Sunday,Liverpool,0,0,West Ham,Draw,Anfield,Liverpool
+66,2013-04-07,Sunday,Spurs,2,2,Everton,Draw,White Hart Lane,London
+67,2013-04-07,Sunday,Chelsea,2,1,Sunderland,Chelsea,Stamford Bridge,London
+68,2013-04-07,Sunday,Newcastle,1,0,Fulham,Newcastle,St James' Park,Newcastle
+69,2013-04-07,Sunday,QPR,1,1,Wigan,Draw,Loftus Road,London
+70,2013-04-06,Saturday,Reading,0,2,Southampton,Southampton,Madejski Stadium,Reading
+71,2013-04-06,Saturday,Norwich,2,2,Swansea,Draw,Carrow Road,Norwich
+72,2013-04-06,Saturday,Stoke,1,3,Aston Villa,Aston Villa,bet365 Stadium,Stoke
+73,2013-04-06,Saturday,West Brom,1,2,Arsenal,Arsenal,The Hawthorns,West Bromwich
+74,2013-04-02,Tuesday,Fulham,3,2,QPR,Fulham,Craven Cottage,London
+75,2013-03-31,Sunday,Everton,1,0,Stoke,Everton,Goodison Park,Liverpool
+76,2013-03-31,Sunday,Aston Villa,1,2,Liverpool,Liverpool,Villa Park,Birmingham
+77,2013-03-30,Saturday,Arsenal,4,1,Reading,Arsenal,Emirates Stadium,London
+78,2013-03-30,Saturday,Man City,4,0,Newcastle,Man City,Etihad Stadium,Manchester
+79,2013-03-30,Saturday,Southampton,2,1,Chelsea,Southampton,The Friends Provident St Mary's Stadium,Southampton
+80,2013-03-30,Saturday,Sunderland,0,1,Man Utd,Man Utd,Stadium of Light,Sunderland
+81,2013-03-30,Saturday,Swansea,1,2,Spurs,Spurs,Liberty Stadium,Swansea
+82,2013-03-30,Saturday,West Ham,3,1,West Brom,West Ham,Boleyn Ground,London
+83,2013-03-30,Saturday,Wigan,1,0,Norwich,Wigan,DW Stadium,Wigan
+84,2013-03-18,Monday,Chelsea,2,0,West Ham,Chelsea,Stamford Bridge,London
+85,2013-03-18,Monday,Wigan,2,1,Newcastle,Wigan,DW Stadium,Wigan
+86,2013-03-17,Sunday,Man Utd,1,0,Reading,Man Utd,Old Trafford,Manchester
+87,2013-03-17,Sunday,Sunderland,1,1,Norwich,Draw,Stadium of Light,Sunderland
+88,2013-03-17,Sunday,Spurs,0,1,Fulham,Fulham,White Hart Lane,London
+89,2013-03-16,Saturday,Everton,2,0,Man City,Everton,Goodison Park,Liverpool
+90,2013-03-16,Saturday,Aston Villa,3,2,QPR,Aston Villa,Villa Park,Birmingham
+91,2013-03-16,Saturday,Southampton,3,1,Liverpool,Southampton,The Friends Provident St Mary's Stadium,Southampton
+92,2013-03-16,Saturday,Stoke,0,0,West Brom,Draw,bet365 Stadium,Stoke
+93,2013-03-16,Saturday,Swansea,0,2,Arsenal,Arsenal,Liberty Stadium,Swansea
+94,2013-03-11,Monday,Liverpool,3,2,Spurs,Liverpool,Anfield,Liverpool
+95,2013-03-10,Sunday,Newcastle,2,1,Stoke,Newcastle,St James' Park,Newcastle
+96,2013-03-09,Saturday,Norwich,0,0,Southampton,Draw,Carrow Road,Norwich
+97,2013-03-09,Saturday,QPR,3,1,Sunderland,QPR,Loftus Road,London
+98,2013-03-09,Saturday,Reading,1,2,Aston Villa,Aston Villa,Madejski Stadium,Reading
+99,2013-03-09,Saturday,West Brom,2,1,Swansea,West Brom,The Hawthorns,West Bromwich
+100,2013-03-05,Tuesday,Aston Villa,0,1,Man City,Man City,Villa Park,Birmingham
+101,2013-03-04,Monday,Spurs,2,1,Arsenal,Spurs,White Hart Lane,London
+102,2013-03-03,Sunday,Wigan,0,4,Liverpool,Liverpool,DW Stadium,Wigan
+103,2013-03-02,Saturday,Chelsea,1,0,West Brom,Chelsea,Stamford Bridge,London
+104,2013-03-02,Saturday,Everton,3,1,Reading,Everton,Goodison Park,Liverpool
+105,2013-03-02,Saturday,Man Utd,4,0,Norwich,Man Utd,Old Trafford,Manchester
+106,2013-03-02,Saturday,Southampton,1,2,QPR,QPR,The Friends Provident St Mary's Stadium,Southampton
+107,2013-03-02,Saturday,Stoke,0,1,West Ham,West Ham,bet365 Stadium,Stoke
+108,2013-03-02,Saturday,Sunderland,2,2,Fulham,Draw,Stadium of Light,Sunderland
+109,2013-03-02,Saturday,Swansea,1,0,Newcastle,Swansea,Liberty Stadium,Swansea
+110,2013-02-26,Tuesday,West Ham,2,3,Spurs,Spurs,Boleyn Ground,London
+111,2013-02-24,Sunday,Man City,2,0,Chelsea,Man City,Etihad Stadium,Manchester
+112,2013-02-24,Sunday,Newcastle,4,2,Southampton,Newcastle,St James' Park,Newcastle
+113,2013-02-23,Saturday,Fulham,1,0,Stoke,Fulham,Craven Cottage,London
+114,2013-02-23,Saturday,Arsenal,2,1,Aston Villa,Arsenal,Emirates Stadium,London
+115,2013-02-23,Saturday,Norwich,2,1,Everton,Norwich,Carrow Road,Norwich
+116,2013-02-23,Saturday,QPR,0,2,Man Utd,Man Utd,Loftus Road,London
+117,2013-02-23,Saturday,Reading,0,3,Wigan,Wigan,Madejski Stadium,Reading
+118,2013-02-23,Saturday,West Brom,2,1,Sunderland,West Brom,The Hawthorns,West Bromwich
+119,2013-02-17,Sunday,Liverpool,5,0,Swansea,Liverpool,Anfield,Liverpool
+120,2013-02-12,Tuesday,Liverpool,0,2,West Brom,West Brom,Anfield,Liverpool
+121,2013-02-11,Monday,Man Utd,2,0,Everton,Man Utd,Old Trafford,Manchester
+122,2013-02-10,Sunday,Southampton,3,1,Man City,Southampton,The Friends Provident St Mary's Stadium,Southampton
+123,2013-02-10,Sunday,Aston Villa,2,1,West Ham,Aston Villa,Villa Park,Birmingham
+124,2013-02-09,Saturday,Spurs,2,1,Newcastle,Spurs,White Hart Lane,London
+125,2013-02-09,Saturday,Chelsea,4,1,Wigan,Chelsea,Stamford Bridge,London
+126,2013-02-09,Saturday,Norwich,0,0,Fulham,Draw,Carrow Road,Norwich
+127,2013-02-09,Saturday,Stoke,2,1,Reading,Stoke,bet365 Stadium,Stoke
+128,2013-02-09,Saturday,Sunderland,0,1,Arsenal,Arsenal,Stadium of Light,Sunderland
+129,2013-02-09,Saturday,Swansea,4,1,QPR,Swansea,Liberty Stadium,Swansea
+130,2013-02-04,Monday,Man City,2,2,Liverpool,Draw,Etihad Stadium,Manchester
+131,2013-02-03,Sunday,Fulham,0,1,Man Utd,Man Utd,Craven Cottage,London
+132,2013-02-03,Sunday,West Brom,0,1,Spurs,Spurs,The Hawthorns,West Bromwich
+133,2013-02-02,Saturday,QPR,0,0,Norwich,Draw,Loftus Road,London
+134,2013-02-02,Saturday,Arsenal,1,0,Stoke,Arsenal,Emirates Stadium,London
+135,2013-02-02,Saturday,Everton,3,3,Aston Villa,Draw,Goodison Park,Liverpool
+136,2013-02-02,Saturday,Newcastle,3,2,Chelsea,Newcastle,St James' Park,Newcastle
+137,2013-02-02,Saturday,Reading,2,1,Sunderland,Reading,Madejski Stadium,Reading
+138,2013-02-02,Saturday,West Ham,1,0,Swansea,West Ham,Boleyn Ground,London
+139,2013-02-02,Saturday,Wigan,2,2,Southampton,Draw,DW Stadium,Wigan
+140,2013-01-31,Thursday,Arsenal,2,2,Liverpool,Draw,Emirates Stadium,London
+141,2013-01-31,Thursday,Everton,2,1,West Brom,Everton,Goodison Park,Liverpool
+142,2013-01-31,Thursday,Norwich,1,1,Spurs,Draw,Carrow Road,Norwich
+143,2013-01-31,Thursday,Fulham,3,1,West Ham,Fulham,Craven Cottage,London
+144,2013-01-31,Thursday,Man Utd,2,1,Southampton,Man Utd,Old Trafford,Manchester
+145,2013-01-31,Thursday,Reading,2,2,Chelsea,Draw,Madejski Stadium,Reading
+146,2013-01-30,Wednesday,Aston Villa,1,2,Newcastle,Newcastle,Villa Park,Birmingham
+147,2013-01-30,Wednesday,QPR,0,0,Man City,Draw,Loftus Road,London
+148,2013-01-30,Wednesday,Stoke,2,2,Wigan,Draw,bet365 Stadium,Stoke
+149,2013-01-30,Wednesday,Sunderland,0,0,Swansea,Draw,Stadium of Light,Sunderland
+150,2013-01-24,Thursday,Arsenal,5,1,West Ham,Arsenal,Emirates Stadium,London
+151,2013-01-22,Tuesday,Southampton,0,0,Everton,Draw,The Friends Provident St Mary's Stadium,Southampton
+152,2013-01-21,Monday,Spurs,1,1,Man Utd,Draw,White Hart Lane,London
+153,2013-01-20,Sunday,West Brom,2,2,Aston Villa,Draw,The Hawthorns,West Bromwich
+154,2013-01-20,Sunday,Chelsea,2,1,Arsenal,Chelsea,Stamford Bridge,London
+155,2013-01-19,Saturday,Liverpool,5,0,Norwich,Liverpool,Anfield,Liverpool
+156,2013-01-19,Saturday,Man City,2,0,Fulham,Man City,Etihad Stadium,Manchester
+157,2013-01-19,Saturday,Newcastle,1,2,Reading,Reading,St James' Park,Newcastle
+158,2013-01-19,Saturday,Swansea,3,1,Stoke,Swansea,Liberty Stadium,Swansea
+159,2013-01-19,Saturday,West Ham,1,1,QPR,Draw,Boleyn Ground,London
+160,2013-01-19,Saturday,Wigan,2,3,Sunderland,Sunderland,DW Stadium,Wigan
+161,2013-01-17,Thursday,Chelsea,2,2,Southampton,Draw,Stamford Bridge,London
+162,2013-01-14,Monday,Arsenal,0,2,Man City,Man City,Emirates Stadium,London
+163,2013-01-13,Sunday,Man Utd,2,1,Liverpool,Man Utd,Old Trafford,Manchester
+164,2013-01-12,Saturday,QPR,0,0,Spurs,Draw,Loftus Road,London
+165,2013-01-12,Saturday,Aston Villa,0,1,Southampton,Southampton,Villa Park,Birmingham
+166,2013-01-12,Saturday,Everton,0,0,Swansea,Draw,Goodison Park,Liverpool
+167,2013-01-12,Saturday,Fulham,1,1,Wigan,Draw,Craven Cottage,London
+168,2013-01-12,Saturday,Norwich,0,0,Newcastle,Draw,Carrow Road,Norwich
+169,2013-01-12,Saturday,Reading,3,2,West Brom,Reading,Madejski Stadium,Reading
+170,2013-01-12,Saturday,Stoke,0,4,Chelsea,Chelsea,bet365 Stadium,Stoke
+171,2013-01-12,Saturday,Sunderland,3,0,West Ham,Sunderland,Stadium of Light,Sunderland
+172,2013-01-03,Thursday,Chelsea,0,1,QPR,QPR,Stamford Bridge,London
+173,2013-01-03,Thursday,Liverpool,3,0,Sunderland,Liverpool,Anfield,Liverpool
+174,2013-01-03,Thursday,Newcastle,1,2,Everton,Everton,St James' Park,Newcastle
+175,2013-01-02,Wednesday,Southampton,1,1,Arsenal,Draw,The Friends Provident St Mary's Stadium,Southampton
+176,2013-01-01,Tuesday,West Brom,1,2,Fulham,Fulham,The Hawthorns,West Bromwich
+177,2013-01-01,Tuesday,Man City,3,0,Stoke,Man City,Etihad Stadium,Manchester
+178,2013-01-01,Tuesday,Swansea,2,2,Aston Villa,Draw,Liberty Stadium,Swansea
+179,2013-01-01,Tuesday,Spurs,3,1,Reading,Spurs,White Hart Lane,London
+180,2013-01-01,Tuesday,West Ham,2,1,Norwich,West Ham,Boleyn Ground,London
+181,2013-01-01,Tuesday,Wigan,0,4,Man Utd,Man Utd,DW Stadium,Wigan
+182,2012-12-31,Monday,QPR,0,3,Liverpool,Liverpool,Loftus Road,London
+183,2012-12-30,Sunday,Arsenal,7,3,Newcastle,Arsenal,Emirates Stadium,London
+184,2012-12-30,Sunday,Everton,1,2,Chelsea,Chelsea,Goodison Park,Liverpool
+185,2012-12-29,Saturday,Sunderland,1,2,Spurs,Spurs,Stadium of Light,Sunderland
+186,2012-12-29,Saturday,Aston Villa,0,3,Wigan,Wigan,Villa Park,Birmingham
+187,2012-12-29,Saturday,Fulham,1,2,Swansea,Swansea,Craven Cottage,London
+188,2012-12-29,Saturday,Man Utd,2,0,West Brom,Man Utd,Old Trafford,Manchester
+189,2012-12-29,Saturday,Norwich,3,4,Man City,Man City,Carrow Road,Norwich
+190,2012-12-29,Saturday,Reading,1,0,West Ham,Reading,Madejski Stadium,Reading
+191,2012-12-29,Saturday,Stoke,3,3,Southampton,Draw,bet365 Stadium,Stoke
+192,2012-12-27,Thursday,Aston Villa,0,4,Spurs,Spurs,Villa Park,Birmingham
+193,2012-12-27,Thursday,Stoke,3,1,Liverpool,Stoke,bet365 Stadium,Stoke
+194,2012-12-26,Wednesday,Everton,2,1,Wigan,Everton,Goodison Park,Liverpool
+195,2012-12-26,Wednesday,Fulham,1,1,Southampton,Draw,Craven Cottage,London
+196,2012-12-26,Wednesday,Man Utd,4,3,Newcastle,Man Utd,Old Trafford,Manchester
+197,2012-12-26,Wednesday,Norwich,0,1,Chelsea,Chelsea,Carrow Road,Norwich
+198,2012-12-26,Wednesday,QPR,1,2,West Brom,West Brom,Loftus Road,London
+199,2012-12-26,Wednesday,Reading,0,0,Swansea,Draw,Madejski Stadium,Reading
+200,2012-12-26,Wednesday,Sunderland,1,0,Man City,Sunderland,Stadium of Light,Sunderland
+201,2012-12-24,Monday,Chelsea,8,0,Aston Villa,Chelsea,Stamford Bridge,London
+202,2012-12-23,Sunday,Liverpool,4,0,Fulham,Liverpool,Anfield,Liverpool
+203,2012-12-23,Sunday,Swansea,1,1,Man Utd,Draw,Liberty Stadium,Swansea
+204,2012-12-22,Saturday,Wigan,0,1,Arsenal,Arsenal,DW Stadium,Wigan
+205,2012-12-22,Saturday,Man City,1,0,Reading,Man City,Etihad Stadium,Manchester
+206,2012-12-22,Saturday,Newcastle,1,0,QPR,Newcastle,St James' Park,Newcastle
+207,2012-12-22,Saturday,Southampton,0,1,Sunderland,Sunderland,The Friends Provident St Mary's Stadium,Southampton
+208,2012-12-22,Saturday,Spurs,0,0,Stoke,Draw,White Hart Lane,London
+209,2012-12-22,Saturday,West Brom,2,1,Norwich,West Brom,The Hawthorns,West Bromwich
+210,2012-12-22,Saturday,West Ham,1,2,Everton,Everton,Boleyn Ground,London
+211,2012-12-18,Tuesday,Reading,2,5,Arsenal,Arsenal,Madejski Stadium,Reading
+212,2012-12-17,Monday,West Brom,0,0,West Ham,Draw,The Hawthorns,West Bromwich
+213,2012-12-16,Sunday,Spurs,1,0,Swansea,Spurs,White Hart Lane,London
+214,2012-12-15,Saturday,Newcastle,1,3,Man City,Man City,St James' Park,Newcastle
+215,2012-12-15,Saturday,Liverpool,1,3,Aston Villa,Aston Villa,Anfield,Liverpool
+216,2012-12-15,Saturday,Man Utd,3,1,Sunderland,Man Utd,Old Trafford,Manchester
+217,2012-12-15,Saturday,Norwich,2,1,Wigan,Norwich,Carrow Road,Norwich
+218,2012-12-15,Saturday,QPR,2,1,Fulham,QPR,Loftus Road,London
+219,2012-12-15,Saturday,Stoke,1,1,Everton,Draw,bet365 Stadium,Stoke
+220,2012-12-12,Wednesday,Sunderland,3,0,Reading,Sunderland,Stadium of Light,Sunderland
+221,2012-12-11,Tuesday,Fulham,2,1,Newcastle,Fulham,Craven Cottage,London
+222,2012-12-10,Monday,West Ham,2,3,Liverpool,Liverpool,Boleyn Ground,London
+223,2012-12-09,Sunday,Man City,2,3,Man Utd,Man Utd,Etihad Stadium,Manchester
+224,2012-12-09,Sunday,Everton,2,1,Spurs,Everton,Goodison Park,Liverpool
+225,2012-12-08,Saturday,Arsenal,2,0,West Brom,Arsenal,Emirates Stadium,London
+226,2012-12-08,Saturday,Aston Villa,0,0,Stoke,Draw,Villa Park,Birmingham
+227,2012-12-08,Saturday,Southampton,1,0,Reading,Southampton,The Friends Provident St Mary's Stadium,Southampton
+228,2012-12-08,Saturday,Sunderland,1,3,Chelsea,Chelsea,Stadium of Light,Sunderland
+229,2012-12-08,Saturday,Swansea,3,4,Norwich,Norwich,Liberty Stadium,Swansea
+230,2012-12-08,Saturday,Wigan,2,2,QPR,Draw,DW Stadium,Wigan
+231,2012-12-04,Tuesday,Newcastle,3,0,Wigan,Newcastle,St James' Park,Newcastle
+232,2012-12-03,Monday,Norwich,2,1,Sunderland,Norwich,Carrow Road,Norwich
+233,2012-12-02,Sunday,Reading,3,4,Man Utd,Man Utd,Madejski Stadium,Reading
+234,2012-12-01,Saturday,Arsenal,0,2,Swansea,Swansea,Emirates Stadium,London
+235,2012-12-01,Saturday,Fulham,0,3,Spurs,Spurs,Craven Cottage,London
+236,2012-12-01,Saturday,Liverpool,1,0,Southampton,Liverpool,Anfield,Liverpool
+237,2012-12-01,Saturday,Man City,1,1,Everton,Draw,Etihad Stadium,Manchester
+238,2012-12-01,Saturday,QPR,1,1,Aston Villa,Draw,Loftus Road,London
+239,2012-12-01,Saturday,West Brom,0,1,Stoke,Stoke,The Hawthorns,West Bromwich
+240,2012-12-01,Saturday,West Ham,3,1,Chelsea,West Ham,Boleyn Ground,London
+241,2012-11-29,Thursday,Chelsea,0,0,Fulham,Draw,Stamford Bridge,London
+242,2012-11-29,Thursday,Everton,1,1,Arsenal,Draw,Goodison Park,Liverpool
+243,2012-11-29,Thursday,Southampton,1,1,Norwich,Draw,The Friends Provident St Mary's Stadium,Southampton
+244,2012-11-29,Thursday,Stoke,2,1,Newcastle,Stoke,bet365 Stadium,Stoke
+245,2012-11-29,Thursday,Swansea,3,1,West Brom,Swansea,Liberty Stadium,Swansea
+246,2012-11-29,Thursday,Spurs,2,1,Liverpool,Spurs,White Hart Lane,London
+247,2012-11-29,Thursday,Man Utd,1,0,West Ham,Man Utd,Old Trafford,Manchester
+248,2012-11-29,Thursday,Wigan,0,2,Man City,Man City,DW Stadium,Wigan
+249,2012-11-28,Wednesday,Sunderland,0,0,QPR,Draw,Stadium of Light,Sunderland
+250,2012-11-28,Wednesday,Aston Villa,1,0,Reading,Aston Villa,Villa Park,Birmingham
+251,2012-11-26,Monday,Chelsea,0,0,Man City,Draw,Stamford Bridge,London
+252,2012-11-26,Monday,Spurs,3,1,West Ham,Spurs,White Hart Lane,London
+253,2012-11-25,Sunday,Aston Villa,0,0,Arsenal,Draw,Villa Park,Birmingham
+254,2012-11-25,Sunday,Swansea,0,0,Liverpool,Draw,Liberty Stadium,Swansea
+255,2012-11-25,Sunday,Southampton,2,0,Newcastle,Southampton,The Friends Provident St Mary's Stadium,Southampton
+256,2012-11-24,Saturday,Sunderland,2,4,West Brom,West Brom,Stadium of Light,Sunderland
+257,2012-11-24,Saturday,Everton,1,1,Norwich,Draw,Goodison Park,Liverpool
+258,2012-11-24,Saturday,Man Utd,3,1,QPR,Man Utd,Old Trafford,Manchester
+259,2012-11-24,Saturday,Stoke,1,0,Fulham,Stoke,bet365 Stadium,Stoke
+260,2012-11-24,Saturday,Wigan,3,2,Reading,Wigan,DW Stadium,Wigan
+261,2012-11-20,Tuesday,West Ham,1,1,Stoke,Draw,Boleyn Ground,London
+262,2012-11-19,Monday,Fulham,1,3,Sunderland,Sunderland,Craven Cottage,London
+263,2012-11-18,Sunday,Norwich,1,0,Man Utd,Norwich,Carrow Road,Norwich
+264,2012-11-17,Saturday,Arsenal,5,2,Spurs,Arsenal,Emirates Stadium,London
+265,2012-11-17,Saturday,Liverpool,3,0,Wigan,Liverpool,Anfield,Liverpool
+266,2012-11-17,Saturday,Man City,5,0,Aston Villa,Man City,Etihad Stadium,Manchester
+267,2012-11-17,Saturday,Newcastle,1,2,Swansea,Swansea,St James' Park,Newcastle
+268,2012-11-17,Saturday,QPR,1,3,Southampton,Southampton,Loftus Road,London
+269,2012-11-17,Saturday,Reading,2,1,Everton,Reading,Madejski Stadium,Reading
+270,2012-11-17,Saturday,West Brom,2,1,Chelsea,West Brom,The Hawthorns,West Bromwich
+271,2012-11-12,Monday,Chelsea,1,1,Liverpool,Draw,Stamford Bridge,London
+272,2012-11-11,Sunday,Aston Villa,2,3,Man Utd,Man Utd,Villa Park,Birmingham
+273,2012-11-11,Sunday,Man City,2,1,Spurs,Man City,Etihad Stadium,Manchester
+274,2012-11-11,Sunday,Newcastle,0,1,West Ham,West Ham,St James' Park,Newcastle
+275,2012-11-10,Saturday,Arsenal,3,3,Fulham,Draw,Emirates Stadium,London
+276,2012-11-10,Saturday,Everton,2,1,Sunderland,Everton,Goodison Park,Liverpool
+277,2012-11-10,Saturday,Reading,0,0,Norwich,Draw,Madejski Stadium,Reading
+278,2012-11-10,Saturday,Southampton,1,1,Swansea,Draw,The Friends Provident St Mary's Stadium,Southampton
+279,2012-11-10,Saturday,Stoke,1,0,QPR,Stoke,bet365 Stadium,Stoke
+280,2012-11-10,Saturday,Wigan,1,2,West Brom,West Brom,DW Stadium,Wigan
+281,2012-11-06,Tuesday,West Brom,2,0,Southampton,West Brom,The Hawthorns,West Bromwich
+282,2012-11-05,Monday,Liverpool,1,1,Newcastle,Draw,Anfield,Liverpool
+283,2012-11-04,Sunday,West Ham,0,0,Man City,Draw,Boleyn Ground,London
+284,2012-11-04,Sunday,QPR,1,1,Reading,Draw,Loftus Road,London
+285,2012-11-03,Saturday,Man Utd,2,1,Arsenal,Man Utd,Old Trafford,Manchester
+286,2012-11-03,Saturday,Fulham,2,2,Everton,Draw,Craven Cottage,London
+287,2012-11-03,Saturday,Norwich,1,0,Stoke,Norwich,Carrow Road,Norwich
+288,2012-11-03,Saturday,Sunderland,0,1,Aston Villa,Aston Villa,Stadium of Light,Sunderland
+289,2012-11-03,Saturday,Swansea,1,1,Chelsea,Draw,Liberty Stadium,Swansea
+290,2012-11-03,Saturday,Spurs,0,1,Wigan,Wigan,White Hart Lane,London
+291,2012-10-29,Monday,Chelsea,2,3,Man Utd,Man Utd,Stamford Bridge,London
+292,2012-10-28,Sunday,Man City,1,0,Swansea,Man City,Etihad Stadium,Manchester
+293,2012-10-28,Sunday,Everton,2,2,Liverpool,Draw,Goodison Park,Liverpool
+294,2012-10-28,Sunday,Newcastle,2,1,West Brom,Newcastle,St James' Park,Newcastle
+295,2012-10-28,Sunday,Southampton,1,2,Spurs,Spurs,The Friends Provident St Mary's Stadium,Southampton
+296,2012-10-27,Saturday,Aston Villa,1,1,Norwich,Draw,Villa Park,Birmingham
+297,2012-10-27,Saturday,Arsenal,1,0,QPR,Arsenal,Emirates Stadium,London
+298,2012-10-27,Saturday,Reading,3,3,Fulham,Draw,Madejski Stadium,Reading
+299,2012-10-27,Saturday,Stoke,0,0,Sunderland,Draw,bet365 Stadium,Stoke
+300,2012-10-27,Saturday,Wigan,2,1,West Ham,Wigan,DW Stadium,Wigan
+301,2012-10-21,Sunday,Norwich,1,0,Arsenal,Norwich,Carrow Road,Norwich
+302,2012-10-21,Sunday,Sunderland,1,1,Newcastle,Draw,Stadium of Light,Sunderland
+303,2012-10-21,Sunday,QPR,1,1,Everton,Draw,Loftus Road,London
+304,2012-10-20,Saturday,Spurs,2,4,Chelsea,Chelsea,White Hart Lane,London
+305,2012-10-20,Saturday,Fulham,1,0,Aston Villa,Fulham,Craven Cottage,London
+306,2012-10-20,Saturday,Liverpool,1,0,Reading,Liverpool,Anfield,Liverpool
+307,2012-10-20,Saturday,Man Utd,4,2,Stoke,Man Utd,Old Trafford,Manchester
+308,2012-10-20,Saturday,Swansea,2,1,Wigan,Swansea,Liberty Stadium,Swansea
+309,2012-10-20,Saturday,West Brom,1,2,Man City,Man City,The Hawthorns,West Bromwich
+310,2012-10-20,Saturday,West Ham,4,1,Southampton,West Ham,Boleyn Ground,London
+311,2012-10-07,Sunday,West Ham,1,3,Arsenal,Arsenal,Boleyn Ground,London
+312,2012-10-07,Sunday,Southampton,2,2,Fulham,Draw,The Friends Provident St Mary's Stadium,Southampton
+313,2012-10-07,Sunday,Liverpool,0,0,Stoke,Draw,Anfield,Liverpool
+314,2012-10-07,Sunday,Spurs,2,0,Aston Villa,Spurs,White Hart Lane,London
+315,2012-10-07,Sunday,Newcastle,0,3,Man Utd,Man Utd,St James' Park,Newcastle
+316,2012-10-06,Saturday,Chelsea,4,1,Norwich,Chelsea,Stamford Bridge,London
+317,2012-10-06,Saturday,Swansea,2,2,Reading,Draw,Liberty Stadium,Swansea
+318,2012-10-06,Saturday,West Brom,3,2,QPR,West Brom,The Hawthorns,West Bromwich
+319,2012-10-06,Saturday,Wigan,2,2,Everton,Draw,DW Stadium,Wigan
+320,2012-10-06,Saturday,Man City,3,0,Sunderland,Man City,Etihad Stadium,Manchester
+321,2012-10-02,Tuesday,QPR,1,2,West Ham,West Ham,Loftus Road,London
+322,2012-09-30,Sunday,Man Utd,2,3,Spurs,Spurs,Old Trafford,Manchester
+323,2012-09-30,Sunday,Aston Villa,1,1,West Brom,Draw,Villa Park,Birmingham
+324,2012-09-29,Saturday,Arsenal,1,2,Chelsea,Chelsea,Emirates Stadium,London
+325,2012-09-29,Saturday,Everton,3,1,Southampton,Everton,Goodison Park,Liverpool
+326,2012-09-29,Saturday,Fulham,1,2,Man City,Man City,Craven Cottage,London
+327,2012-09-29,Saturday,Norwich,2,5,Liverpool,Liverpool,Carrow Road,Norwich
+328,2012-09-29,Saturday,Reading,2,2,Newcastle,Draw,Madejski Stadium,Reading
+329,2012-09-29,Saturday,Stoke,2,0,Swansea,Stoke,bet365 Stadium,Stoke
+330,2012-09-29,Saturday,Sunderland,1,0,Wigan,Sunderland,Stadium of Light,Sunderland
+331,2012-09-23,Sunday,Liverpool,1,2,Man Utd,Man Utd,Anfield,Liverpool
+332,2012-09-23,Sunday,Newcastle,1,0,Norwich,Newcastle,St James' Park,Newcastle
+333,2012-09-23,Sunday,Man City,1,1,Arsenal,Draw,Etihad Stadium,Manchester
+334,2012-09-23,Sunday,Spurs,2,1,QPR,Spurs,White Hart Lane,London
+335,2012-09-22,Saturday,Swansea,0,3,Everton,Everton,Liberty Stadium,Swansea
+336,2012-09-22,Saturday,Chelsea,1,0,Stoke,Chelsea,Stamford Bridge,London
+337,2012-09-22,Saturday,Southampton,4,1,Aston Villa,Southampton,The Friends Provident St Mary's Stadium,Southampton
+338,2012-09-22,Saturday,West Brom,1,0,Reading,West Brom,The Hawthorns,West Bromwich
+339,2012-09-22,Saturday,West Ham,1,1,Sunderland,Draw,Boleyn Ground,London
+340,2012-09-22,Saturday,Wigan,1,2,Fulham,Fulham,DW Stadium,Wigan
+341,2012-09-18,Tuesday,Everton,2,2,Newcastle,Draw,Goodison Park,Liverpool
+342,2012-09-16,Sunday,Sunderland,1,1,Liverpool,Draw,Stadium of Light,Sunderland
+343,2012-09-16,Sunday,Reading,1,3,Spurs,Spurs,Madejski Stadium,Reading
+344,2012-09-15,Saturday,Norwich,0,0,West Ham,Draw,Carrow Road,Norwich
+345,2012-09-15,Saturday,Arsenal,6,1,Southampton,Arsenal,Emirates Stadium,London
+346,2012-09-15,Saturday,Aston Villa,2,0,Swansea,Aston Villa,Villa Park,Birmingham
+347,2012-09-15,Saturday,Fulham,3,0,West Brom,Fulham,Craven Cottage,London
+348,2012-09-15,Saturday,Man Utd,4,0,Wigan,Man Utd,Old Trafford,Manchester
+349,2012-09-15,Saturday,QPR,0,0,Chelsea,Draw,Loftus Road,London
+350,2012-09-15,Saturday,Stoke,1,1,Man City,Draw,bet365 Stadium,Stoke
+351,2012-09-02,Sunday,Man City,3,1,QPR,Man City,Etihad Stadium,Manchester
+352,2012-09-02,Sunday,Liverpool,0,2,Arsenal,Arsenal,Anfield,Liverpool
+353,2012-09-02,Sunday,Newcastle,1,1,Aston Villa,Draw,St James' Park,Newcastle
+354,2012-09-02,Sunday,Southampton,2,3,Man Utd,Man Utd,The Friends Provident St Mary's Stadium,Southampton
+355,2012-09-01,Saturday,West Ham,3,0,Fulham,West Ham,Boleyn Ground,London
+356,2012-09-01,Saturday,Swansea,2,2,Sunderland,Draw,Liberty Stadium,Swansea
+357,2012-09-01,Saturday,Spurs,1,1,Norwich,Draw,White Hart Lane,London
+358,2012-09-01,Saturday,West Brom,2,0,Everton,West Brom,The Hawthorns,West Bromwich
+359,2012-09-01,Saturday,Wigan,2,2,Stoke,Draw,DW Stadium,Wigan
+360,2012-08-26,Sunday,Chelsea,2,0,Newcastle,Chelsea,Stamford Bridge,London
+361,2012-08-26,Sunday,Stoke,0,0,Arsenal,Draw,bet365 Stadium,Stoke
+362,2012-08-26,Sunday,Liverpool,2,2,Man City,Draw,Anfield,Liverpool
+363,2012-08-25,Saturday,Swansea,3,0,West Ham,Swansea,Liberty Stadium,Swansea
+364,2012-08-25,Saturday,Aston Villa,1,3,Everton,Everton,Villa Park,Birmingham
+365,2012-08-25,Saturday,Man Utd,3,2,Fulham,Man Utd,Old Trafford,Manchester
+366,2012-08-25,Saturday,Norwich,1,1,QPR,Draw,Carrow Road,Norwich
+367,2012-08-25,Saturday,Southampton,0,2,Wigan,Wigan,The Friends Provident St Mary's Stadium,Southampton
+368,2012-08-25,Saturday,Spurs,1,1,West Brom,Draw,White Hart Lane,London
+369,2012-08-23,Thursday,Chelsea,4,2,Reading,Chelsea,Stamford Bridge,London
+370,2012-08-21,Tuesday,Everton,1,0,Man Utd,Everton,Goodison Park,Liverpool
+371,2012-08-19,Sunday,Newcastle,2,1,Spurs,Newcastle,St James' Park,Newcastle
+372,2012-08-19,Sunday,Wigan,0,2,Chelsea,Chelsea,DW Stadium,Wigan
+373,2012-08-19,Sunday,Man City,3,2,Southampton,Man City,Etihad Stadium,Manchester
+374,2012-08-18,Saturday,Arsenal,0,0,Sunderland,Draw,Emirates Stadium,London
+375,2012-08-18,Saturday,Fulham,5,0,Norwich,Fulham,Craven Cottage,London
+376,2012-08-18,Saturday,QPR,0,5,Swansea,Swansea,Loftus Road,London
+377,2012-08-18,Saturday,Reading,1,1,Stoke,Draw,Madejski Stadium,Reading
+378,2012-08-18,Saturday,West Brom,3,0,Liverpool,West Brom,The Hawthorns,West Bromwich
+379,2012-08-18,Saturday,West Ham,1,0,Aston Villa,West Ham,Boleyn Ground,London

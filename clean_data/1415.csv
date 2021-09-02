@@ -1,0 +1,381 @@
+,Date,Weekday,HomeTeam,HomeScore,AwayScore,AwayTeam,Winner,Stadium,City
+0,2015-05-24,Sunday,Arsenal,4,1,West Brom,Arsenal,Emirates Stadium,London
+1,2015-05-24,Sunday,Aston Villa,0,1,Burnley,Burnley,Villa Park,Birmingham
+2,2015-05-24,Sunday,Chelsea,3,1,Sunderland,Chelsea,Stamford Bridge,London
+3,2015-05-24,Sunday,Crystal Palace,1,0,Swansea,Crystal Palace,Selhurst Park,London
+4,2015-05-24,Sunday,Everton,0,1,Spurs,Spurs,Goodison Park,Liverpool
+5,2015-05-24,Sunday,Hull,0,0,Man Utd,Draw,KCOM Stadium,Hull
+6,2015-05-24,Sunday,Leicester,5,1,QPR,Leicester,King Power Stadium,Leicester
+7,2015-05-24,Sunday,Man City,2,0,Southampton,Man City,Etihad Stadium,Manchester
+8,2015-05-24,Sunday,Newcastle,2,0,West Ham,Newcastle,St. James' Park,Newcastle
+9,2015-05-24,Sunday,Stoke,6,1,Liverpool,Stoke,bet365 Stadium,Stoke
+10,2015-05-21,Thursday,Arsenal,0,0,Sunderland,Draw,Emirates Stadium,London
+11,2015-05-19,Tuesday,West Brom,3,0,Chelsea,West Brom,The Hawthorns,West Bromwich
+12,2015-05-17,Sunday,Liverpool,1,3,Crystal Palace,Crystal Palace,Anfield,Liverpool
+13,2015-05-17,Sunday,Swansea,2,4,Man City,Man City,Liberty Stadium,Swansea
+14,2015-05-17,Sunday,Man Utd,1,1,Arsenal,Draw,Old Trafford,Manchester
+15,2015-05-16,Saturday,Southampton,6,1,Aston Villa,Southampton,St. Mary's Stadium,Southampton
+16,2015-05-16,Saturday,Burnley,0,0,Stoke,Draw,Turf Moor,Burnley
+17,2015-05-16,Saturday,QPR,2,1,Newcastle,QPR,Loftus Road,London
+18,2015-05-16,Saturday,Sunderland,0,0,Leicester,Draw,Stadium of Light,Sunderland
+19,2015-05-16,Saturday,Spurs,2,0,Hull,Spurs,White Hart Lane,London
+20,2015-05-16,Saturday,West Ham,1,2,Everton,Everton,Boleyn Ground,London
+21,2015-05-12,Tuesday,Arsenal,0,1,Swansea,Swansea,Emirates Stadium,London
+22,2015-05-10,Sunday,Crystal Palace,1,2,Man Utd,Man Utd,Selhurst Park,London
+23,2015-05-10,Sunday,Man City,6,0,QPR,Man City,Etihad Stadium,Manchester
+24,2015-05-10,Sunday,Chelsea,1,1,Liverpool,Draw,Stamford Bridge,London
+25,2015-05-09,Saturday,Everton,0,2,Sunderland,Sunderland,Goodison Park,Liverpool
+26,2015-05-09,Saturday,Aston Villa,1,0,West Ham,Aston Villa,Villa Park,Birmingham
+27,2015-05-09,Saturday,Hull,0,1,Burnley,Burnley,KCOM Stadium,Hull
+28,2015-05-09,Saturday,Leicester,2,0,Southampton,Leicester,King Power Stadium,Leicester
+29,2015-05-09,Saturday,Newcastle,1,1,West Brom,Draw,St. James' Park,Newcastle
+30,2015-05-09,Saturday,Stoke,3,0,Spurs,Stoke,bet365 Stadium,Stoke
+31,2015-05-05,Tuesday,Hull,1,3,Arsenal,Arsenal,KCOM Stadium,Hull
+32,2015-05-03,Sunday,Man Utd,0,1,West Brom,West Brom,Old Trafford,Manchester
+33,2015-05-03,Sunday,Chelsea,1,0,Crystal Palace,Chelsea,Stamford Bridge,London
+34,2015-05-03,Sunday,Spurs,0,1,Man City,Man City,White Hart Lane,London
+35,2015-05-02,Saturday,Aston Villa,3,2,Everton,Aston Villa,Villa Park,Birmingham
+36,2015-05-02,Saturday,Liverpool,2,1,QPR,Liverpool,Anfield,Liverpool
+37,2015-05-02,Saturday,Sunderland,2,1,Southampton,Sunderland,Stadium of Light,Sunderland
+38,2015-05-02,Saturday,Swansea,2,0,Stoke,Swansea,Liberty Stadium,Swansea
+39,2015-05-02,Saturday,West Ham,1,0,Burnley,West Ham,Boleyn Ground,London
+40,2015-05-02,Saturday,Leicester,3,0,Newcastle,Leicester,King Power Stadium,Leicester
+41,2015-04-30,Thursday,Leicester,1,3,Chelsea,Chelsea,King Power Stadium,Leicester
+42,2015-04-29,Wednesday,Hull,1,0,Liverpool,Hull,KCOM Stadium,Hull
+43,2015-04-26,Sunday,Man City,3,2,Aston Villa,Man City,Etihad Stadium,Manchester
+44,2015-04-26,Sunday,Everton,3,0,Man Utd,Everton,Goodison Park,Liverpool
+45,2015-04-26,Sunday,Arsenal,0,0,Chelsea,Draw,Emirates Stadium,London
+46,2015-04-25,Saturday,Southampton,2,2,Spurs,Draw,St. Mary's Stadium,Southampton
+47,2015-04-25,Saturday,Burnley,0,1,Leicester,Leicester,Turf Moor,Burnley
+48,2015-04-25,Saturday,Crystal Palace,0,2,Hull,Hull,Selhurst Park,London
+49,2015-04-25,Saturday,Newcastle,2,3,Swansea,Swansea,St. James' Park,Newcastle
+50,2015-04-25,Saturday,QPR,0,0,West Ham,Draw,Loftus Road,London
+51,2015-04-25,Saturday,Stoke,1,1,Sunderland,Draw,bet365 Stadium,Stoke
+52,2015-04-25,Saturday,West Brom,0,0,Liverpool,Draw,The Hawthorns,West Bromwich
+53,2015-04-19,Sunday,Chelsea,1,0,Man Utd,Chelsea,Stamford Bridge,London
+54,2015-04-19,Sunday,Man City,2,0,West Ham,Man City,Etihad Stadium,Manchester
+55,2015-04-19,Sunday,Newcastle,1,3,Spurs,Spurs,St. James' Park,Newcastle
+56,2015-04-18,Saturday,Crystal Palace,0,2,West Brom,West Brom,Selhurst Park,London
+57,2015-04-18,Saturday,Everton,1,0,Burnley,Everton,Goodison Park,Liverpool
+58,2015-04-18,Saturday,Leicester,2,0,Swansea,Leicester,King Power Stadium,Leicester
+59,2015-04-18,Saturday,Stoke,2,1,Southampton,Stoke,bet365 Stadium,Stoke
+60,2015-04-14,Tuesday,Liverpool,2,0,Newcastle,Liverpool,Anfield,Liverpool
+61,2015-04-12,Sunday,Burnley,0,1,Arsenal,Arsenal,Turf Moor,Burnley
+62,2015-04-12,Sunday,QPR,0,1,Chelsea,Chelsea,Loftus Road,London
+63,2015-04-12,Sunday,Man Utd,4,2,Man City,Man Utd,Old Trafford,Manchester
+64,2015-04-11,Saturday,Swansea,1,1,Everton,Draw,Liberty Stadium,Swansea
+65,2015-04-11,Saturday,Southampton,2,0,Hull,Southampton,St. Mary's Stadium,Southampton
+66,2015-04-11,Saturday,Sunderland,1,4,Crystal Palace,Crystal Palace,Stadium of Light,Sunderland
+67,2015-04-11,Saturday,Spurs,0,1,Aston Villa,Aston Villa,White Hart Lane,London
+68,2015-04-11,Saturday,West Brom,2,3,Leicester,Leicester,The Hawthorns,West Bromwich
+69,2015-04-11,Saturday,West Ham,1,1,Stoke,Draw,Boleyn Ground,London
+70,2015-04-08,Wednesday,Aston Villa,3,3,QPR,Draw,Villa Park,Birmingham
+71,2015-04-07,Tuesday,Crystal Palace,2,1,Man City,Crystal Palace,Selhurst Park,London
+72,2015-04-05,Sunday,Chelsea,2,1,Stoke,Chelsea,Stamford Bridge,London
+73,2015-04-05,Sunday,Burnley,0,0,Spurs,Draw,Turf Moor,Burnley
+74,2015-04-05,Sunday,Sunderland,1,0,Newcastle,Sunderland,Stadium of Light,Sunderland
+75,2015-04-04,Saturday,Everton,1,0,Southampton,Everton,Goodison Park,Liverpool
+76,2015-04-04,Saturday,Leicester,2,1,West Ham,Leicester,King Power Stadium,Leicester
+77,2015-04-04,Saturday,Man Utd,3,1,Aston Villa,Man Utd,Old Trafford,Manchester
+78,2015-04-04,Saturday,Swansea,3,1,Hull,Swansea,Liberty Stadium,Swansea
+79,2015-04-04,Saturday,West Brom,1,4,QPR,QPR,The Hawthorns,West Bromwich
+80,2015-04-04,Saturday,Arsenal,4,1,Liverpool,Arsenal,Emirates Stadium,London
+81,2015-03-23,Monday,Hull,2,3,Chelsea,Chelsea,KCOM Stadium,Hull
+82,2015-03-23,Monday,QPR,1,2,Everton,Everton,Loftus Road,London
+83,2015-03-22,Sunday,West Ham,1,0,Sunderland,West Ham,Boleyn Ground,London
+84,2015-03-22,Sunday,Liverpool,1,2,Man Utd,Man Utd,Anfield,Liverpool
+85,2015-03-21,Saturday,Man City,3,0,West Brom,Man City,Etihad Stadium,Manchester
+86,2015-03-21,Saturday,Aston Villa,0,1,Swansea,Swansea,Villa Park,Birmingham
+87,2015-03-21,Saturday,Newcastle,1,2,Arsenal,Arsenal,St. James' Park,Newcastle
+88,2015-03-21,Saturday,Southampton,2,0,Burnley,Southampton,St. Mary's Stadium,Southampton
+89,2015-03-21,Saturday,Stoke,1,2,Crystal Palace,Crystal Palace,bet365 Stadium,Stoke
+90,2015-03-21,Saturday,Spurs,4,3,Leicester,Spurs,White Hart Lane,London
+91,2015-03-17,Tuesday,Swansea,0,1,Liverpool,Liverpool,Liberty Stadium,Swansea
+92,2015-03-16,Monday,Everton,3,0,Newcastle,Everton,Goodison Park,Liverpool
+93,2015-03-16,Monday,Man Utd,3,0,Spurs,Man Utd,Old Trafford,Manchester
+94,2015-03-15,Sunday,Burnley,1,0,Man City,Burnley,Turf Moor,Burnley
+95,2015-03-15,Sunday,Chelsea,1,1,Southampton,Draw,Stamford Bridge,London
+96,2015-03-14,Saturday,Crystal Palace,3,1,QPR,Crystal Palace,Selhurst Park,London
+97,2015-03-14,Saturday,Arsenal,3,0,West Ham,Arsenal,Emirates Stadium,London
+98,2015-03-14,Saturday,Leicester,0,0,Hull,Draw,King Power Stadium,Leicester
+99,2015-03-14,Saturday,Sunderland,0,4,Aston Villa,Aston Villa,Stadium of Light,Sunderland
+100,2015-03-14,Saturday,West Brom,1,0,Stoke,West Brom,The Hawthorns,West Bromwich
+101,2015-03-07,Saturday,QPR,1,2,Spurs,Spurs,Loftus Road,London
+102,2015-03-05,Thursday,Man City,2,0,Leicester,Man City,Etihad Stadium,Manchester
+103,2015-03-05,Thursday,Newcastle,0,1,Man Utd,Man Utd,St. James' Park,Newcastle
+104,2015-03-05,Thursday,QPR,1,2,Arsenal,Arsenal,Loftus Road,London
+105,2015-03-05,Thursday,Stoke,2,0,Everton,Stoke,bet365 Stadium,Stoke
+106,2015-03-05,Thursday,Spurs,3,2,Swansea,Spurs,White Hart Lane,London
+107,2015-03-05,Thursday,West Ham,0,1,Chelsea,Chelsea,Boleyn Ground,London
+108,2015-03-05,Thursday,Liverpool,2,0,Burnley,Liverpool,Anfield,Liverpool
+109,2015-03-04,Wednesday,Aston Villa,2,1,West Brom,Aston Villa,Villa Park,Birmingham
+110,2015-03-04,Wednesday,Hull,1,1,Sunderland,Draw,KCOM Stadium,Hull
+111,2015-03-04,Wednesday,Southampton,1,0,Crystal Palace,Southampton,St. Mary's Stadium,Southampton
+112,2015-03-01,Sunday,Liverpool,2,1,Man City,Liverpool,Anfield,Liverpool
+113,2015-03-01,Sunday,Arsenal,2,0,Everton,Arsenal,Emirates Stadium,London
+114,2015-02-28,Saturday,West Ham,1,3,Crystal Palace,Crystal Palace,Boleyn Ground,London
+115,2015-02-28,Saturday,Burnley,0,1,Swansea,Swansea,Turf Moor,Burnley
+116,2015-02-28,Saturday,Man Utd,2,0,Sunderland,Man Utd,Old Trafford,Manchester
+117,2015-02-28,Saturday,Newcastle,1,0,Aston Villa,Newcastle,St. James' Park,Newcastle
+118,2015-02-28,Saturday,Stoke,1,0,Hull,Stoke,bet365 Stadium,Stoke
+119,2015-02-28,Saturday,West Brom,1,0,Southampton,West Brom,The Hawthorns,West Bromwich
+120,2015-02-23,Monday,Southampton,0,2,Liverpool,Liverpool,St. Mary's Stadium,Southampton
+121,2015-02-22,Sunday,Man City,5,0,Newcastle,Man City,Etihad Stadium,Manchester
+122,2015-02-22,Sunday,Spurs,2,2,West Ham,Draw,White Hart Lane,London
+123,2015-02-22,Sunday,Everton,2,2,Leicester,Draw,Goodison Park,Liverpool
+124,2015-02-21,Saturday,Aston Villa,1,2,Stoke,Stoke,Villa Park,Birmingham
+125,2015-02-21,Saturday,Chelsea,1,1,Burnley,Draw,Stamford Bridge,London
+126,2015-02-21,Saturday,Crystal Palace,1,2,Arsenal,Arsenal,Selhurst Park,London
+127,2015-02-21,Saturday,Hull,2,1,QPR,Hull,KCOM Stadium,Hull
+128,2015-02-21,Saturday,Sunderland,0,0,West Brom,Draw,Stadium of Light,Sunderland
+129,2015-02-21,Saturday,Swansea,2,1,Man Utd,Swansea,Liberty Stadium,Swansea
+130,2015-02-12,Thursday,Chelsea,1,0,Everton,Chelsea,Stamford Bridge,London
+131,2015-02-12,Thursday,Man Utd,3,1,Burnley,Man Utd,Old Trafford,Manchester
+132,2015-02-12,Thursday,Southampton,0,0,West Ham,Draw,St. Mary's Stadium,Southampton
+133,2015-02-12,Thursday,Stoke,1,4,Man City,Man City,bet365 Stadium,Stoke
+134,2015-02-12,Thursday,Crystal Palace,1,1,Newcastle,Draw,Selhurst Park,London
+135,2015-02-12,Thursday,West Brom,2,0,Swansea,West Brom,The Hawthorns,West Bromwich
+136,2015-02-11,Wednesday,Arsenal,2,1,Leicester,Arsenal,Emirates Stadium,London
+137,2015-02-11,Wednesday,Hull,2,0,Aston Villa,Hull,KCOM Stadium,Hull
+138,2015-02-11,Wednesday,Sunderland,0,2,QPR,QPR,Stadium of Light,Sunderland
+139,2015-02-11,Wednesday,Liverpool,3,2,Spurs,Liverpool,Anfield,Liverpool
+140,2015-02-09,Monday,West Ham,1,1,Man Utd,Draw,Boleyn Ground,London
+141,2015-02-08,Sunday,Everton,0,0,Liverpool,Draw,Goodison Park,Liverpool
+142,2015-02-08,Sunday,Burnley,2,2,West Brom,Draw,Turf Moor,Burnley
+143,2015-02-08,Sunday,Newcastle,1,1,Stoke,Draw,St. James' Park,Newcastle
+144,2015-02-07,Saturday,Spurs,2,1,Arsenal,Spurs,White Hart Lane,London
+145,2015-02-07,Saturday,Aston Villa,1,2,Chelsea,Chelsea,Villa Park,Birmingham
+146,2015-02-07,Saturday,Leicester,0,1,Crystal Palace,Crystal Palace,King Power Stadium,Leicester
+147,2015-02-07,Saturday,Man City,1,1,Hull,Draw,Etihad Stadium,Manchester
+148,2015-02-07,Saturday,QPR,0,1,Southampton,Southampton,Loftus Road,London
+149,2015-02-07,Saturday,Swansea,1,1,Sunderland,Draw,Liberty Stadium,Swansea
+150,2015-02-02,Monday,Southampton,0,1,Swansea,Swansea,St. Mary's Stadium,Southampton
+151,2015-02-01,Sunday,Chelsea,1,1,Man City,Draw,Stamford Bridge,London
+152,2015-02-01,Sunday,Arsenal,5,0,Aston Villa,Arsenal,Emirates Stadium,London
+153,2015-01-31,Saturday,Hull,0,3,Newcastle,Newcastle,KCOM Stadium,Hull
+154,2015-01-31,Saturday,Crystal Palace,0,1,Everton,Everton,Selhurst Park,London
+155,2015-01-31,Saturday,Liverpool,2,0,West Ham,Liverpool,Anfield,Liverpool
+156,2015-01-31,Saturday,Man Utd,3,1,Leicester,Man Utd,Old Trafford,Manchester
+157,2015-01-31,Saturday,Stoke,3,1,QPR,Stoke,bet365 Stadium,Stoke
+158,2015-01-31,Saturday,Sunderland,2,0,Burnley,Sunderland,Stadium of Light,Sunderland
+159,2015-01-31,Saturday,West Brom,0,3,Spurs,Spurs,The Hawthorns,West Bromwich
+160,2015-01-20,Tuesday,Everton,0,0,West Brom,Draw,Goodison Park,Liverpool
+161,2015-01-19,Monday,Man City,0,2,Arsenal,Arsenal,Etihad Stadium,Manchester
+162,2015-01-18,Sunday,Newcastle,1,2,Southampton,Southampton,St. James' Park,Newcastle
+163,2015-01-18,Sunday,West Ham,3,0,Hull,West Ham,Boleyn Ground,London
+164,2015-01-17,Saturday,Aston Villa,0,2,Liverpool,Liverpool,Villa Park,Birmingham
+165,2015-01-17,Saturday,Burnley,2,3,Crystal Palace,Crystal Palace,Turf Moor,Burnley
+166,2015-01-17,Saturday,Leicester,0,1,Stoke,Stoke,King Power Stadium,Leicester
+167,2015-01-17,Saturday,QPR,0,2,Man Utd,Man Utd,Loftus Road,London
+168,2015-01-17,Saturday,Swansea,0,5,Chelsea,Chelsea,Liberty Stadium,Swansea
+169,2015-01-17,Saturday,Spurs,2,1,Sunderland,Spurs,White Hart Lane,London
+170,2015-01-12,Monday,Man Utd,0,1,Southampton,Southampton,Old Trafford,Manchester
+171,2015-01-11,Sunday,Crystal Palace,2,1,Spurs,Crystal Palace,Selhurst Park,London
+172,2015-01-11,Sunday,Arsenal,3,0,Stoke,Arsenal,Emirates Stadium,London
+173,2015-01-10,Saturday,Sunderland,0,1,Liverpool,Liverpool,Stadium of Light,Sunderland
+174,2015-01-10,Saturday,Burnley,2,1,QPR,Burnley,Turf Moor,Burnley
+175,2015-01-10,Saturday,Chelsea,2,0,Newcastle,Chelsea,Stamford Bridge,London
+176,2015-01-10,Saturday,Everton,1,1,Man City,Draw,Goodison Park,Liverpool
+177,2015-01-10,Saturday,Leicester,1,0,Aston Villa,Leicester,King Power Stadium,Leicester
+178,2015-01-10,Saturday,Swansea,1,1,West Ham,Draw,Liberty Stadium,Swansea
+179,2015-01-10,Saturday,West Brom,1,0,Hull,West Brom,The Hawthorns,West Bromwich
+180,2015-01-02,Friday,Spurs,5,3,Chelsea,Spurs,White Hart Lane,London
+181,2015-01-01,Thursday,Stoke,1,1,Man Utd,Draw,bet365 Stadium,Stoke
+182,2015-01-01,Thursday,Aston Villa,0,0,Crystal Palace,Draw,Villa Park,Birmingham
+183,2015-01-01,Thursday,Hull,2,0,Everton,Hull,KCOM Stadium,Hull
+184,2015-01-01,Thursday,Liverpool,2,2,Leicester,Draw,Anfield,Liverpool
+185,2015-01-01,Thursday,Man City,3,2,Sunderland,Man City,Etihad Stadium,Manchester
+186,2015-01-01,Thursday,Newcastle,3,3,Burnley,Draw,St. James' Park,Newcastle
+187,2015-01-01,Thursday,QPR,1,1,Swansea,Draw,Loftus Road,London
+188,2015-01-01,Thursday,Southampton,2,0,Arsenal,Southampton,St. Mary's Stadium,Southampton
+189,2015-01-01,Thursday,West Ham,1,1,West Brom,Draw,Boleyn Ground,London
+190,2014-12-30,Tuesday,Liverpool,4,1,Swansea,Liverpool,Anfield,Liverpool
+191,2014-12-29,Monday,Newcastle,3,2,Everton,Newcastle,St. James' Park,Newcastle
+192,2014-12-28,Sunday,Spurs,0,0,Man Utd,Draw,White Hart Lane,London
+193,2014-12-28,Sunday,Southampton,1,1,Chelsea,Draw,St. Mary's Stadium,Southampton
+194,2014-12-28,Sunday,Aston Villa,0,0,Sunderland,Draw,Villa Park,Birmingham
+195,2014-12-28,Sunday,Hull,0,1,Leicester,Leicester,KCOM Stadium,Hull
+196,2014-12-28,Sunday,Man City,2,2,Burnley,Draw,Etihad Stadium,Manchester
+197,2014-12-28,Sunday,QPR,0,0,Crystal Palace,Draw,Loftus Road,London
+198,2014-12-28,Sunday,Stoke,2,0,West Brom,Stoke,bet365 Stadium,Stoke
+199,2014-12-28,Sunday,West Ham,1,2,Arsenal,Arsenal,Boleyn Ground,London
+200,2014-12-27,Saturday,Arsenal,2,1,QPR,Arsenal,Emirates Stadium,London
+201,2014-12-26,Friday,Chelsea,2,0,West Ham,Chelsea,Stamford Bridge,London
+202,2014-12-26,Friday,Burnley,0,1,Liverpool,Liverpool,Turf Moor,Burnley
+203,2014-12-26,Friday,Crystal Palace,1,3,Southampton,Southampton,Selhurst Park,London
+204,2014-12-26,Friday,Everton,0,1,Stoke,Stoke,Goodison Park,Liverpool
+205,2014-12-26,Friday,Leicester,1,2,Spurs,Spurs,King Power Stadium,Leicester
+206,2014-12-26,Friday,Man Utd,3,1,Newcastle,Man Utd,Old Trafford,Manchester
+207,2014-12-26,Friday,Sunderland,1,3,Hull,Hull,Stadium of Light,Sunderland
+208,2014-12-26,Friday,Swansea,1,0,Aston Villa,Swansea,Liberty Stadium,Swansea
+209,2014-12-26,Friday,West Brom,1,3,Man City,Man City,The Hawthorns,West Bromwich
+210,2014-12-23,Tuesday,Stoke,0,2,Chelsea,Chelsea,bet365 Stadium,Stoke
+211,2014-12-22,Monday,Liverpool,2,2,Arsenal,Draw,Anfield,Liverpool
+212,2014-12-21,Sunday,Newcastle,0,1,Sunderland,Sunderland,St. James' Park,Newcastle
+213,2014-12-20,Saturday,Man City,3,0,Crystal Palace,Man City,Etihad Stadium,Manchester
+214,2014-12-20,Saturday,Aston Villa,1,1,Man Utd,Draw,Villa Park,Birmingham
+215,2014-12-20,Saturday,Hull,0,1,Swansea,Swansea,KCOM Stadium,Hull
+216,2014-12-20,Saturday,QPR,3,2,West Brom,QPR,Loftus Road,London
+217,2014-12-20,Saturday,Southampton,3,0,Everton,Southampton,St. Mary's Stadium,Southampton
+218,2014-12-20,Saturday,Spurs,2,1,Burnley,Spurs,White Hart Lane,London
+219,2014-12-20,Saturday,West Ham,2,0,Leicester,West Ham,Boleyn Ground,London
+220,2014-12-16,Tuesday,Everton,3,1,QPR,Everton,Goodison Park,Liverpool
+221,2014-12-15,Monday,Swansea,1,2,Spurs,Spurs,Liberty Stadium,Swansea
+222,2014-12-14,Sunday,Arsenal,4,1,Newcastle,Arsenal,Emirates Stadium,London
+223,2014-12-14,Sunday,Man Utd,3,0,Liverpool,Man Utd,Old Trafford,Manchester
+224,2014-12-13,Saturday,Burnley,1,0,Southampton,Burnley,Turf Moor,Burnley
+225,2014-12-13,Saturday,Chelsea,2,0,Hull,Chelsea,Stamford Bridge,London
+226,2014-12-13,Saturday,Crystal Palace,1,1,Stoke,Draw,Selhurst Park,London
+227,2014-12-13,Saturday,Leicester,0,1,Man City,Man City,King Power Stadium,Leicester
+228,2014-12-13,Saturday,Sunderland,1,1,West Ham,Draw,Stadium of Light,Sunderland
+229,2014-12-13,Saturday,West Brom,1,0,Aston Villa,West Brom,The Hawthorns,West Bromwich
+230,2014-12-09,Tuesday,Southampton,1,2,Man Utd,Man Utd,St. Mary's Stadium,Southampton
+231,2014-12-08,Monday,Aston Villa,2,1,Leicester,Aston Villa,Villa Park,Birmingham
+232,2014-12-07,Sunday,Man City,1,0,Everton,Man City,Etihad Stadium,Manchester
+233,2014-12-07,Sunday,West Ham,3,1,Swansea,West Ham,Boleyn Ground,London
+234,2014-12-06,Saturday,Newcastle,2,1,Chelsea,Newcastle,St. James' Park,Newcastle
+235,2014-12-06,Saturday,Hull,0,0,West Brom,Draw,KCOM Stadium,Hull
+236,2014-12-06,Saturday,Liverpool,0,0,Sunderland,Draw,Anfield,Liverpool
+237,2014-12-06,Saturday,QPR,2,0,Burnley,QPR,Loftus Road,London
+238,2014-12-06,Saturday,Stoke,3,2,Arsenal,Stoke,bet365 Stadium,Stoke
+239,2014-12-06,Saturday,Spurs,0,0,Crystal Palace,Draw,White Hart Lane,London
+240,2014-12-04,Thursday,Arsenal,1,0,Southampton,Arsenal,Emirates Stadium,London
+241,2014-12-04,Thursday,Chelsea,3,0,Spurs,Chelsea,Stamford Bridge,London
+242,2014-12-04,Thursday,Everton,1,1,Hull,Draw,Goodison Park,Liverpool
+243,2014-12-04,Thursday,Sunderland,1,4,Man City,Man City,Stadium of Light,Sunderland
+244,2014-12-03,Wednesday,Burnley,1,1,Newcastle,Draw,Turf Moor,Burnley
+245,2014-12-03,Wednesday,Leicester,1,3,Liverpool,Liverpool,King Power Stadium,Leicester
+246,2014-12-03,Wednesday,Man Utd,2,1,Stoke,Man Utd,Old Trafford,Manchester
+247,2014-12-03,Wednesday,Swansea,2,0,QPR,Swansea,Liberty Stadium,Swansea
+248,2014-12-03,Wednesday,Crystal Palace,0,1,Aston Villa,Aston Villa,Selhurst Park,London
+249,2014-12-03,Wednesday,West Brom,1,2,West Ham,West Ham,The Hawthorns,West Bromwich
+250,2014-12-01,Monday,Spurs,2,1,Everton,Spurs,White Hart Lane,London
+251,2014-11-30,Sunday,Sunderland,0,0,Chelsea,Draw,Stadium of Light,Sunderland
+252,2014-11-30,Sunday,Southampton,0,3,Man City,Man City,St. Mary's Stadium,Southampton
+253,2014-11-29,Saturday,West Brom,0,1,Arsenal,Arsenal,The Hawthorns,West Bromwich
+254,2014-11-29,Saturday,Burnley,1,1,Aston Villa,Draw,Turf Moor,Burnley
+255,2014-11-29,Saturday,Liverpool,1,0,Stoke,Liverpool,Anfield,Liverpool
+256,2014-11-29,Saturday,Man Utd,3,0,Hull,Man Utd,Old Trafford,Manchester
+257,2014-11-29,Saturday,QPR,3,2,Leicester,QPR,Loftus Road,London
+258,2014-11-29,Saturday,Swansea,1,1,Crystal Palace,Draw,Liberty Stadium,Swansea
+259,2014-11-29,Saturday,West Ham,1,0,Newcastle,West Ham,Boleyn Ground,London
+260,2014-11-25,Tuesday,Aston Villa,1,1,Southampton,Draw,Villa Park,Birmingham
+261,2014-11-24,Monday,Hull,1,2,Spurs,Spurs,KCOM Stadium,Hull
+262,2014-11-23,Sunday,Arsenal,1,2,Man Utd,Man Utd,Emirates Stadium,London
+263,2014-11-23,Sunday,Crystal Palace,3,1,Liverpool,Crystal Palace,Selhurst Park,London
+264,2014-11-22,Saturday,Chelsea,2,0,West Brom,Chelsea,Stamford Bridge,London
+265,2014-11-22,Saturday,Everton,2,1,West Ham,Everton,Goodison Park,Liverpool
+266,2014-11-22,Saturday,Leicester,0,0,Sunderland,Draw,King Power Stadium,Leicester
+267,2014-11-22,Saturday,Man City,2,1,Swansea,Man City,Etihad Stadium,Manchester
+268,2014-11-22,Saturday,Newcastle,1,0,QPR,Newcastle,St. James' Park,Newcastle
+269,2014-11-22,Saturday,Stoke,1,2,Burnley,Burnley,bet365 Stadium,Stoke
+270,2014-11-10,Monday,Swansea,2,1,Arsenal,Swansea,Liberty Stadium,Swansea
+271,2014-11-09,Sunday,QPR,2,2,Man City,Draw,Loftus Road,London
+272,2014-11-09,Sunday,Sunderland,1,1,Everton,Draw,Stadium of Light,Sunderland
+273,2014-11-09,Sunday,Spurs,1,2,Stoke,Stoke,White Hart Lane,London
+274,2014-11-09,Sunday,West Brom,0,2,Newcastle,Newcastle,The Hawthorns,West Bromwich
+275,2014-11-08,Saturday,Liverpool,1,2,Chelsea,Chelsea,Anfield,Liverpool
+276,2014-11-08,Saturday,Burnley,1,0,Hull,Burnley,Turf Moor,Burnley
+277,2014-11-08,Saturday,Man Utd,1,0,Crystal Palace,Man Utd,Old Trafford,Manchester
+278,2014-11-08,Saturday,Southampton,2,0,Leicester,Southampton,St. Mary's Stadium,Southampton
+279,2014-11-08,Saturday,West Ham,0,0,Aston Villa,Draw,Boleyn Ground,London
+280,2014-11-04,Tuesday,Crystal Palace,1,3,Sunderland,Sunderland,Selhurst Park,London
+281,2014-11-03,Monday,Aston Villa,1,2,Spurs,Spurs,Villa Park,Birmingham
+282,2014-11-02,Sunday,Man City,1,0,Man Utd,Man City,Etihad Stadium,Manchester
+283,2014-11-01,Saturday,Newcastle,1,0,Liverpool,Newcastle,St. James' Park,Newcastle
+284,2014-11-01,Saturday,Arsenal,3,0,Burnley,Arsenal,Emirates Stadium,London
+285,2014-11-01,Saturday,Chelsea,2,1,QPR,Chelsea,Stamford Bridge,London
+286,2014-11-01,Saturday,Everton,0,0,Swansea,Draw,Goodison Park,Liverpool
+287,2014-11-01,Saturday,Hull,0,1,Southampton,Southampton,KCOM Stadium,Hull
+288,2014-11-01,Saturday,Leicester,0,1,West Brom,West Brom,King Power Stadium,Leicester
+289,2014-11-01,Saturday,Stoke,2,2,West Ham,Draw,bet365 Stadium,Stoke
+290,2014-10-28,Tuesday,QPR,2,0,Aston Villa,QPR,Loftus Road,London
+291,2014-10-27,Monday,Man Utd,1,1,Chelsea,Draw,Old Trafford,Manchester
+292,2014-10-26,Sunday,Swansea,2,0,Leicester,Swansea,Liberty Stadium,Swansea
+293,2014-10-26,Sunday,Burnley,1,3,Everton,Everton,Turf Moor,Burnley
+294,2014-10-26,Sunday,Spurs,1,2,Newcastle,Newcastle,White Hart Lane,London
+295,2014-10-25,Saturday,West Ham,2,1,Man City,West Ham,Boleyn Ground,London
+296,2014-10-25,Saturday,Liverpool,0,0,Hull,Draw,Anfield,Liverpool
+297,2014-10-25,Saturday,Southampton,1,0,Stoke,Southampton,St. Mary's Stadium,Southampton
+298,2014-10-25,Saturday,Sunderland,0,2,Arsenal,Arsenal,Stadium of Light,Sunderland
+299,2014-10-25,Saturday,West Brom,2,2,Crystal Palace,Draw,The Hawthorns,West Bromwich
+300,2014-10-21,Tuesday,West Brom,2,2,Man Utd,Draw,The Hawthorns,West Bromwich
+301,2014-10-19,Sunday,QPR,2,3,Liverpool,Liverpool,Loftus Road,London
+302,2014-10-19,Sunday,Stoke,2,1,Swansea,Stoke,bet365 Stadium,Stoke
+303,2014-10-18,Saturday,Man City,4,1,Spurs,Man City,Etihad Stadium,Manchester
+304,2014-10-18,Saturday,Arsenal,2,2,Hull,Draw,Emirates Stadium,London
+305,2014-10-18,Saturday,Burnley,1,3,West Ham,West Ham,Turf Moor,Burnley
+306,2014-10-18,Saturday,Crystal Palace,1,2,Chelsea,Chelsea,Selhurst Park,London
+307,2014-10-18,Saturday,Everton,3,0,Aston Villa,Everton,Goodison Park,Liverpool
+308,2014-10-18,Saturday,Newcastle,1,0,Leicester,Newcastle,St. James' Park,Newcastle
+309,2014-10-18,Saturday,Southampton,8,0,Sunderland,Southampton,St. Mary's Stadium,Southampton
+310,2014-10-05,Sunday,Aston Villa,0,2,Man City,Man City,Villa Park,Birmingham
+311,2014-10-05,Sunday,Man Utd,2,1,Everton,Man Utd,Old Trafford,Manchester
+312,2014-10-05,Sunday,Chelsea,2,0,Arsenal,Chelsea,Stamford Bridge,London
+313,2014-10-05,Sunday,Spurs,1,0,Southampton,Spurs,White Hart Lane,London
+314,2014-10-05,Sunday,West Ham,2,0,QPR,West Ham,Boleyn Ground,London
+315,2014-10-04,Saturday,Hull,2,0,Crystal Palace,Hull,KCOM Stadium,Hull
+316,2014-10-04,Saturday,Leicester,2,2,Burnley,Draw,King Power Stadium,Leicester
+317,2014-10-04,Saturday,Liverpool,2,1,West Brom,Liverpool,Anfield,Liverpool
+318,2014-10-04,Saturday,Sunderland,3,1,Stoke,Sunderland,Stadium of Light,Sunderland
+319,2014-10-04,Saturday,Swansea,2,2,Newcastle,Draw,Liberty Stadium,Swansea
+320,2014-09-30,Tuesday,Stoke,1,0,Newcastle,Stoke,bet365 Stadium,Stoke
+321,2014-09-28,Sunday,Arsenal,1,1,Spurs,Draw,Emirates Stadium,London
+322,2014-09-28,Sunday,West Brom,4,0,Burnley,West Brom,The Hawthorns,West Bromwich
+323,2014-09-27,Saturday,Liverpool,1,1,Everton,Draw,Anfield,Liverpool
+324,2014-09-27,Saturday,Chelsea,3,0,Aston Villa,Chelsea,Stamford Bridge,London
+325,2014-09-27,Saturday,Crystal Palace,2,0,Leicester,Crystal Palace,Selhurst Park,London
+326,2014-09-27,Saturday,Hull,2,4,Man City,Man City,KCOM Stadium,Hull
+327,2014-09-27,Saturday,Man Utd,2,1,West Ham,Man Utd,Old Trafford,Manchester
+328,2014-09-27,Saturday,Southampton,2,1,QPR,Southampton,St. Mary's Stadium,Southampton
+329,2014-09-27,Saturday,Sunderland,0,0,Swansea,Draw,Stadium of Light,Sunderland
+330,2014-09-21,Sunday,West Ham,3,1,Liverpool,West Ham,Boleyn Ground,London
+331,2014-09-21,Sunday,Leicester,5,3,Man Utd,Leicester,King Power Stadium,Leicester
+332,2014-09-21,Sunday,Spurs,0,1,West Brom,West Brom,White Hart Lane,London
+333,2014-09-21,Sunday,Everton,2,3,Crystal Palace,Crystal Palace,Goodison Park,Liverpool
+334,2014-09-21,Sunday,Man City,1,1,Chelsea,Draw,Etihad Stadium,Manchester
+335,2014-09-20,Saturday,QPR,2,2,Stoke,Draw,Loftus Road,London
+336,2014-09-20,Saturday,Aston Villa,0,3,Arsenal,Arsenal,Villa Park,Birmingham
+337,2014-09-20,Saturday,Burnley,0,0,Sunderland,Draw,Turf Moor,Burnley
+338,2014-09-20,Saturday,Newcastle,2,2,Hull,Draw,St. James' Park,Newcastle
+339,2014-09-20,Saturday,Swansea,0,1,Southampton,Southampton,Liberty Stadium,Swansea
+340,2014-09-16,Tuesday,Hull,2,2,West Ham,Draw,KCOM Stadium,Hull
+341,2014-09-14,Sunday,Liverpool,0,1,Aston Villa,Aston Villa,Anfield,Liverpool
+342,2014-09-14,Sunday,Man Utd,4,0,QPR,Man Utd,Old Trafford,Manchester
+343,2014-09-13,Saturday,Arsenal,2,2,Man City,Draw,Emirates Stadium,London
+344,2014-09-13,Saturday,Chelsea,4,2,Swansea,Chelsea,Stamford Bridge,London
+345,2014-09-13,Saturday,Crystal Palace,0,0,Burnley,Draw,Selhurst Park,London
+346,2014-09-13,Saturday,Southampton,4,0,Newcastle,Southampton,St. Mary's Stadium,Southampton
+347,2014-09-13,Saturday,Stoke,0,1,Leicester,Leicester,bet365 Stadium,Stoke
+348,2014-09-13,Saturday,Sunderland,2,2,Spurs,Draw,Stadium of Light,Sunderland
+349,2014-09-13,Saturday,West Brom,0,2,Everton,Everton,The Hawthorns,West Bromwich
+350,2014-08-31,Sunday,Everton,3,6,Chelsea,Chelsea,Goodison Park,Liverpool
+351,2014-08-31,Sunday,Aston Villa,2,1,Hull,Aston Villa,Villa Park,Birmingham
+352,2014-08-31,Sunday,Spurs,0,3,Liverpool,Liverpool,White Hart Lane,London
+353,2014-08-31,Sunday,Leicester,1,1,Arsenal,Draw,King Power Stadium,Leicester
+354,2014-08-30,Saturday,Burnley,0,0,Man Utd,Draw,Turf Moor,Burnley
+355,2014-08-30,Saturday,Man City,0,1,Stoke,Stoke,Etihad Stadium,Manchester
+356,2014-08-30,Saturday,Newcastle,3,3,Crystal Palace,Draw,St. James' Park,Newcastle
+357,2014-08-30,Saturday,QPR,1,0,Sunderland,QPR,Loftus Road,London
+358,2014-08-30,Saturday,Swansea,3,0,West Brom,Swansea,Liberty Stadium,Swansea
+359,2014-08-30,Saturday,West Ham,1,3,Southampton,Southampton,Boleyn Ground,London
+360,2014-08-26,Tuesday,Man City,3,1,Liverpool,Man City,Etihad Stadium,Manchester
+361,2014-08-24,Sunday,Everton,2,2,Arsenal,Draw,Goodison Park,Liverpool
+362,2014-08-24,Sunday,Hull,1,1,Stoke,Draw,KCOM Stadium,Hull
+363,2014-08-24,Sunday,Spurs,4,0,QPR,Spurs,White Hart Lane,London
+364,2014-08-24,Sunday,Sunderland,1,1,Man Utd,Draw,Stadium of Light,Sunderland
+365,2014-08-23,Saturday,Aston Villa,0,0,Newcastle,Draw,Villa Park,Birmingham
+366,2014-08-23,Saturday,Chelsea,2,0,Leicester,Chelsea,Stamford Bridge,London
+367,2014-08-23,Saturday,Crystal Palace,1,3,West Ham,West Ham,Selhurst Park,London
+368,2014-08-23,Saturday,Southampton,0,0,West Brom,Draw,St. Mary's Stadium,Southampton
+369,2014-08-23,Saturday,Swansea,1,0,Burnley,Swansea,Liberty Stadium,Swansea
+370,2014-08-19,Tuesday,Burnley,1,3,Chelsea,Chelsea,Turf Moor,Burnley
+371,2014-08-17,Sunday,Arsenal,2,1,Crystal Palace,Arsenal,Emirates Stadium,London
+372,2014-08-17,Sunday,Liverpool,2,1,Southampton,Liverpool,Anfield,Liverpool
+373,2014-08-17,Sunday,Newcastle,0,2,Man City,Man City,St. James' Park,Newcastle
+374,2014-08-16,Saturday,Man Utd,1,2,Swansea,Swansea,Old Trafford,Manchester
+375,2014-08-16,Saturday,Leicester,2,2,Everton,Draw,King Power Stadium,Leicester
+376,2014-08-16,Saturday,QPR,0,1,Hull,Hull,Loftus Road,London
+377,2014-08-16,Saturday,Stoke,0,1,Aston Villa,Aston Villa,bet365 Stadium,Stoke
+378,2014-08-16,Saturday,West Brom,2,2,Sunderland,Draw,The Hawthorns,West Bromwich
+379,2014-08-16,Saturday,West Ham,0,1,Spurs,Spurs,Boleyn Ground,London

@@ -1,0 +1,381 @@
+,Date,Weekday,HomeTeam,HomeScore,AwayScore,AwayTeam,Winner,Stadium,City
+0,2020-07-26,Sunday,Arsenal,3,2,Watford,Arsenal,Emirates Stadium,London
+1,2020-07-26,Sunday,Burnley,1,2,Brighton,Brighton,Turf Moor,Burnley
+2,2020-07-26,Sunday,Chelsea,2,0,Wolves,Chelsea,Stamford Bridge,London
+3,2020-07-26,Sunday,Crystal Palace,1,1,Spurs,Draw,Selhurst Park,London
+4,2020-07-26,Sunday,Everton,1,3,Bournemouth,Bournemouth,Goodison Park,Liverpool
+5,2020-07-26,Sunday,Leicester,0,2,Man Utd,Man Utd,King Power Stadium,Leicester
+6,2020-07-26,Sunday,Man City,5,0,Norwich,Man City,Etihad Stadium,Manchester
+7,2020-07-26,Sunday,Newcastle,1,3,Liverpool,Liverpool,St. James' Park,Newcastle
+8,2020-07-26,Sunday,Southampton,3,1,Sheffield Utd,Southampton,St. Mary's Stadium,Southampton
+9,2020-07-26,Sunday,West Ham,1,1,Aston Villa,Draw,London Stadium,London
+10,2020-07-23,Thursday,Man Utd,1,1,West Ham,Draw,Old Trafford,Manchester
+11,2020-07-23,Thursday,Liverpool,5,3,Chelsea,Liverpool,Anfield,Liverpool
+12,2020-07-22,Wednesday,Watford,0,4,Man City,Man City,Vicarage Road,Watford
+13,2020-07-22,Wednesday,Aston Villa,1,0,Arsenal,Aston Villa,Villa Park,Birmingham
+14,2020-07-21,Tuesday,Brighton,0,0,Newcastle,Draw,Amex Stadium,Falmer
+15,2020-07-21,Tuesday,Sheffield Utd,0,1,Everton,Everton,Bramall Lane,Sheffield
+16,2020-07-21,Tuesday,Wolves,2,0,Crystal Palace,Wolves,Molineux Stadium,Wolverhampton
+17,2020-07-19,Sunday,Norwich,0,2,Burnley,Burnley,Carrow Road,Norwich
+18,2020-07-19,Sunday,Bournemouth,0,2,Southampton,Southampton,Vitality Stadium,Bournemouth
+19,2020-07-19,Sunday,Spurs,3,0,Leicester,Spurs,Tottenham Hotspur Stadium,London
+20,2020-07-18,Saturday,West Ham,3,1,Watford,West Ham,London Stadium,London
+21,2020-07-17,Friday,Everton,1,1,Aston Villa,Draw,Goodison Park,Liverpool
+22,2020-07-17,Friday,Leicester,2,0,Sheffield Utd,Leicester,King Power Stadium,Leicester
+23,2020-07-17,Friday,Crystal Palace,0,2,Man Utd,Man Utd,Selhurst Park,London
+24,2020-07-17,Friday,Southampton,1,1,Brighton,Draw,St. Mary's Stadium,Southampton
+25,2020-07-16,Thursday,Burnley,1,1,Wolves,Draw,Turf Moor,Burnley
+26,2020-07-16,Thursday,Man City,2,1,Bournemouth,Man City,Etihad Stadium,Manchester
+27,2020-07-16,Thursday,Newcastle,1,3,Spurs,Spurs,St. James' Park,Newcastle
+28,2020-07-16,Thursday,Arsenal,2,1,Liverpool,Arsenal,Emirates Stadium,London
+29,2020-07-15,Wednesday,Chelsea,1,0,Norwich,Chelsea,Stamford Bridge,London
+30,2020-07-14,Tuesday,Man Utd,2,2,Southampton,Draw,Old Trafford,Manchester
+31,2020-07-13,Monday,Bournemouth,4,1,Leicester,Bournemouth,Vitality Stadium,Bournemouth
+32,2020-07-12,Sunday,Sheffield Utd,3,0,Chelsea,Sheffield Utd,Bramall Lane,Sheffield
+33,2020-07-12,Sunday,Brighton,0,5,Man City,Man City,Amex Stadium,Falmer
+34,2020-07-12,Sunday,Wolves,3,0,Everton,Wolves,Molineux Stadium,Wolverhampton
+35,2020-07-12,Sunday,Aston Villa,2,0,Crystal Palace,Aston Villa,Villa Park,Birmingham
+36,2020-07-12,Sunday,Spurs,2,1,Arsenal,Spurs,Tottenham Hotspur Stadium,London
+37,2020-07-11,Saturday,Norwich,0,4,West Ham,West Ham,Carrow Road,Norwich
+38,2020-07-11,Saturday,Watford,2,1,Newcastle,Watford,Vicarage Road,Watford
+39,2020-07-11,Saturday,Liverpool,1,1,Burnley,Draw,Anfield,Liverpool
+40,2020-07-10,Friday,Bournemouth,0,0,Spurs,Draw,Vitality Stadium,Bournemouth
+41,2020-07-10,Friday,Everton,1,1,Southampton,Draw,Goodison Park,Liverpool
+42,2020-07-10,Friday,Aston Villa,0,3,Man Utd,Man Utd,Villa Park,Birmingham
+43,2020-07-09,Thursday,Man City,5,0,Newcastle,Man City,Etihad Stadium,Manchester
+44,2020-07-09,Thursday,Sheffield Utd,1,0,Wolves,Sheffield Utd,Bramall Lane,Sheffield
+45,2020-07-09,Thursday,West Ham,0,1,Burnley,Burnley,London Stadium,London
+46,2020-07-09,Thursday,Brighton,1,3,Liverpool,Liverpool,Amex Stadium,Falmer
+47,2020-07-08,Wednesday,Crystal Palace,2,3,Chelsea,Chelsea,Selhurst Park,London
+48,2020-07-08,Wednesday,Watford,2,1,Norwich,Watford,Vicarage Road,Watford
+49,2020-07-08,Wednesday,Arsenal,1,1,Leicester,Draw,Emirates Stadium,London
+50,2020-07-07,Tuesday,Spurs,1,0,Everton,Spurs,Tottenham Hotspur Stadium,London
+51,2020-07-06,Monday,Southampton,1,0,Man City,Southampton,St. Mary's Stadium,Southampton
+52,2020-07-05,Sunday,Wolves,0,2,Arsenal,Arsenal,Molineux Stadium,Wolverhampton
+53,2020-07-05,Sunday,Chelsea,3,0,Watford,Chelsea,Stamford Bridge,London
+54,2020-07-05,Sunday,Burnley,1,1,Sheffield Utd,Draw,Turf Moor,Burnley
+55,2020-07-05,Sunday,Newcastle,2,2,West Ham,Draw,St. James' Park,Newcastle
+56,2020-07-05,Sunday,Liverpool,2,0,Aston Villa,Liverpool,Anfield,Liverpool
+57,2020-07-04,Saturday,Norwich,0,1,Brighton,Brighton,Carrow Road,Norwich
+58,2020-07-04,Saturday,Leicester,3,0,Crystal Palace,Leicester,King Power Stadium,Leicester
+59,2020-07-04,Saturday,Man Utd,5,2,Bournemouth,Man Utd,Old Trafford,Manchester
+60,2020-07-03,Friday,Sheffield Utd,3,1,Spurs,Sheffield Utd,Bramall Lane,Sheffield
+61,2020-07-03,Friday,Man City,4,0,Liverpool,Man City,Etihad Stadium,Manchester
+62,2020-07-02,Thursday,Bournemouth,1,4,Newcastle,Newcastle,Vitality Stadium,Bournemouth
+63,2020-07-02,Thursday,Arsenal,4,0,Norwich,Arsenal,Emirates Stadium,London
+64,2020-07-02,Thursday,Everton,2,1,Leicester,Everton,Goodison Park,Liverpool
+65,2020-07-02,Thursday,West Ham,3,2,Chelsea,West Ham,London Stadium,London
+66,2020-07-01,Wednesday,Brighton,0,3,Man Utd,Man Utd,Amex Stadium,Falmer
+67,2020-06-30,Tuesday,Crystal Palace,0,1,Burnley,Burnley,Selhurst Park,London
+68,2020-06-28,Sunday,Watford,1,3,Southampton,Southampton,Vicarage Road,Watford
+69,2020-06-27,Saturday,Aston Villa,0,1,Wolves,Wolves,Villa Park,Birmingham
+70,2020-06-26,Friday,Burnley,1,0,Watford,Burnley,Turf Moor,Burnley
+71,2020-06-26,Friday,Southampton,0,2,Arsenal,Arsenal,St. Mary's Stadium,Southampton
+72,2020-06-26,Friday,Chelsea,2,1,Man City,Chelsea,Stamford Bridge,London
+73,2020-06-25,Thursday,Man Utd,3,0,Sheffield Utd,Man Utd,Old Trafford,Manchester
+74,2020-06-25,Thursday,Newcastle,1,1,Aston Villa,Draw,St. James' Park,Newcastle
+75,2020-06-25,Thursday,Norwich,0,1,Everton,Everton,Carrow Road,Norwich
+76,2020-06-25,Thursday,Wolves,1,0,Bournemouth,Wolves,Molineux Stadium,Wolverhampton
+77,2020-06-25,Thursday,Liverpool,4,0,Crystal Palace,Liverpool,Anfield,Liverpool
+78,2020-06-24,Wednesday,Leicester,0,0,Brighton,Draw,King Power Stadium,Leicester
+79,2020-06-24,Wednesday,Spurs,2,0,West Ham,Spurs,Tottenham Hotspur Stadium,London
+80,2020-06-23,Tuesday,Man City,5,0,Burnley,Man City,Etihad Stadium,Manchester
+81,2020-06-22,Monday,Everton,0,0,Liverpool,Draw,Goodison Park,Liverpool
+82,2020-06-21,Sunday,West Ham,0,2,Wolves,Wolves,London Stadium,London
+83,2020-06-21,Sunday,Bournemouth,0,2,Crystal Palace,Crystal Palace,Vitality Stadium,Bournemouth
+84,2020-06-21,Sunday,Newcastle,3,0,Sheffield Utd,Newcastle,St. James' Park,Newcastle
+85,2020-06-21,Sunday,Aston Villa,1,2,Chelsea,Chelsea,Villa Park,Birmingham
+86,2020-06-20,Saturday,Norwich,0,3,Southampton,Southampton,Carrow Road,Norwich
+87,2020-06-20,Saturday,Spurs,1,1,Man Utd,Draw,Tottenham Hotspur Stadium,London
+88,2020-06-20,Saturday,Watford,1,1,Leicester,Draw,Vicarage Road,Watford
+89,2020-06-20,Saturday,Brighton,2,1,Arsenal,Brighton,Amex Stadium,Falmer
+90,2020-06-18,Thursday,Aston Villa,0,0,Sheffield Utd,Draw,Villa Park,Birmingham
+91,2020-06-18,Thursday,Man City,3,0,Arsenal,Man City,Etihad Stadium,Manchester
+92,2020-03-10,Tuesday,Leicester,4,0,Aston Villa,Leicester,King Power Stadium,Leicester
+93,2020-03-09,Monday,Man Utd,2,0,Man City,Man Utd,Old Trafford,Manchester
+94,2020-03-08,Sunday,Burnley,1,1,Spurs,Draw,Turf Moor,Burnley
+95,2020-03-08,Sunday,Chelsea,4,0,Everton,Chelsea,Stamford Bridge,London
+96,2020-03-07,Saturday,Liverpool,2,1,Bournemouth,Liverpool,Anfield,Liverpool
+97,2020-03-07,Saturday,Arsenal,1,0,West Ham,Arsenal,Emirates Stadium,London
+98,2020-03-07,Saturday,Crystal Palace,1,0,Watford,Crystal Palace,Selhurst Park,London
+99,2020-03-07,Saturday,Sheffield Utd,1,0,Norwich,Sheffield Utd,Bramall Lane,Sheffield
+100,2020-03-07,Saturday,Southampton,0,1,Newcastle,Newcastle,St. Mary's Stadium,Southampton
+101,2020-03-07,Saturday,Wolves,0,0,Brighton,Draw,Molineux Stadium,Wolverhampton
+102,2020-03-01,Sunday,Watford,3,0,Liverpool,Watford,Vicarage Road,Watford
+103,2020-03-01,Sunday,Everton,1,1,Man Utd,Draw,Goodison Park,Liverpool
+104,2020-03-01,Sunday,Spurs,2,3,Wolves,Wolves,Tottenham Hotspur Stadium,London
+105,2020-02-29,Saturday,Norwich,1,0,Leicester,Norwich,Carrow Road,Norwich
+106,2020-02-29,Saturday,Brighton,0,1,Crystal Palace,Crystal Palace,Amex Stadium,Falmer
+107,2020-02-29,Saturday,Bournemouth,2,2,Chelsea,Draw,Vitality Stadium,Bournemouth
+108,2020-02-29,Saturday,Newcastle,0,0,Burnley,Draw,St. James' Park,Newcastle
+109,2020-02-29,Saturday,West Ham,3,1,Southampton,West Ham,London Stadium,London
+110,2020-02-25,Tuesday,Liverpool,3,2,West Ham,Liverpool,Anfield,Liverpool
+111,2020-02-24,Monday,Arsenal,3,2,Everton,Arsenal,Emirates Stadium,London
+112,2020-02-23,Sunday,Leicester,0,1,Man City,Man City,King Power Stadium,Leicester
+113,2020-02-23,Sunday,Man Utd,3,0,Watford,Man Utd,Old Trafford,Manchester
+114,2020-02-23,Sunday,Wolves,3,0,Norwich,Wolves,Molineux Stadium,Wolverhampton
+115,2020-02-22,Saturday,Chelsea,2,1,Spurs,Chelsea,Stamford Bridge,London
+116,2020-02-22,Saturday,Burnley,3,0,Bournemouth,Burnley,Turf Moor,Burnley
+117,2020-02-22,Saturday,Crystal Palace,1,0,Newcastle,Crystal Palace,Selhurst Park,London
+118,2020-02-22,Saturday,Sheffield Utd,1,1,Brighton,Draw,Bramall Lane,Sheffield
+119,2020-02-22,Saturday,Southampton,2,0,Aston Villa,Southampton,St. Mary's Stadium,Southampton
+120,2020-02-20,Thursday,Man City,2,0,West Ham,Man City,Etihad Stadium,Manchester
+121,2020-02-18,Tuesday,Chelsea,0,2,Man Utd,Man Utd,Stamford Bridge,London
+122,2020-02-17,Monday,Arsenal,4,0,Newcastle,Arsenal,Emirates Stadium,London
+123,2020-02-16,Sunday,Norwich,0,1,Liverpool,Liverpool,Carrow Road,Norwich
+124,2020-02-16,Sunday,Aston Villa,2,3,Spurs,Spurs,Villa Park,Birmingham
+125,2020-02-15,Saturday,Wolves,0,0,Leicester,Draw,Molineux Stadium,Wolverhampton
+126,2020-02-15,Saturday,Southampton,1,2,Burnley,Burnley,St. Mary's Stadium,Southampton
+127,2020-02-09,Sunday,Brighton,1,1,Watford,Draw,Amex Stadium,Falmer
+128,2020-02-09,Sunday,Sheffield Utd,2,1,Bournemouth,Sheffield Utd,Bramall Lane,Sheffield
+129,2020-02-08,Saturday,Everton,3,1,Crystal Palace,Everton,Goodison Park,Liverpool
+130,2020-02-03,Monday,Spurs,2,0,Man City,Spurs,Tottenham Hotspur Stadium,London
+131,2020-02-02,Sunday,Man Utd,0,0,Wolves,Draw,Old Trafford,Manchester
+132,2020-02-02,Sunday,Burnley,0,0,Arsenal,Draw,Turf Moor,Burnley
+133,2020-02-01,Saturday,Leicester,2,2,Chelsea,Draw,King Power Stadium,Leicester
+134,2020-02-01,Saturday,Bournemouth,2,1,Aston Villa,Bournemouth,Vitality Stadium,Bournemouth
+135,2020-02-01,Saturday,Crystal Palace,0,1,Sheffield Utd,Sheffield Utd,Selhurst Park,London
+136,2020-02-01,Saturday,Liverpool,4,0,Southampton,Liverpool,Anfield,Liverpool
+137,2020-02-01,Saturday,Newcastle,0,0,Norwich,Draw,St. James' Park,Newcastle
+138,2020-02-01,Saturday,Watford,2,3,Everton,Everton,Vicarage Road,Watford
+139,2020-02-01,Saturday,West Ham,3,3,Brighton,Draw,London Stadium,London
+140,2020-01-30,Thursday,West Ham,0,2,Liverpool,Liverpool,London Stadium,London
+141,2020-01-24,Friday,Wolves,1,2,Liverpool,Liverpool,Molineux Stadium,Wolverhampton
+142,2020-01-23,Thursday,Leicester,4,1,West Ham,Leicester,King Power Stadium,Leicester
+143,2020-01-23,Thursday,Spurs,2,1,Norwich,Spurs,Tottenham Hotspur Stadium,London
+144,2020-01-23,Thursday,Man Utd,0,2,Burnley,Burnley,Old Trafford,Manchester
+145,2020-01-22,Wednesday,Bournemouth,3,1,Brighton,Bournemouth,Vitality Stadium,Bournemouth
+146,2020-01-22,Wednesday,Aston Villa,2,1,Watford,Aston Villa,Villa Park,Birmingham
+147,2020-01-22,Wednesday,Crystal Palace,0,2,Southampton,Southampton,Selhurst Park,London
+148,2020-01-22,Wednesday,Everton,2,2,Newcastle,Draw,Goodison Park,Liverpool
+149,2020-01-22,Wednesday,Sheffield Utd,0,1,Man City,Man City,Bramall Lane,Sheffield
+150,2020-01-22,Wednesday,Chelsea,2,2,Arsenal,Draw,Stamford Bridge,London
+151,2020-01-20,Monday,Liverpool,2,0,Man Utd,Liverpool,Anfield,Liverpool
+152,2020-01-19,Sunday,Newcastle,1,0,Chelsea,Newcastle,St. James' Park,Newcastle
+153,2020-01-19,Sunday,Burnley,2,1,Leicester,Burnley,Turf Moor,Burnley
+154,2020-01-18,Saturday,Arsenal,1,1,Sheffield Utd,Draw,Emirates Stadium,London
+155,2020-01-18,Saturday,Brighton,1,1,Aston Villa,Draw,Amex Stadium,Falmer
+156,2020-01-18,Saturday,Man City,2,2,Crystal Palace,Draw,Etihad Stadium,Manchester
+157,2020-01-18,Saturday,Norwich,1,0,Bournemouth,Norwich,Carrow Road,Norwich
+158,2020-01-18,Saturday,Southampton,2,3,Wolves,Wolves,St. Mary's Stadium,Southampton
+159,2020-01-18,Saturday,West Ham,1,1,Everton,Draw,London Stadium,London
+160,2020-01-18,Saturday,Watford,0,0,Spurs,Draw,Vicarage Road,Watford
+161,2020-01-13,Monday,Aston Villa,1,6,Man City,Man City,Villa Park,Birmingham
+162,2020-01-12,Sunday,Spurs,0,1,Liverpool,Liverpool,Tottenham Hotspur Stadium,London
+163,2020-01-12,Sunday,Bournemouth,0,3,Watford,Watford,Vitality Stadium,Bournemouth
+164,2020-01-11,Saturday,Sheffield Utd,1,0,West Ham,Sheffield Utd,Bramall Lane,Sheffield
+165,2020-01-11,Saturday,Crystal Palace,1,1,Arsenal,Draw,Selhurst Park,London
+166,2020-01-11,Saturday,Chelsea,3,0,Burnley,Chelsea,Stamford Bridge,London
+167,2020-01-11,Saturday,Everton,1,0,Brighton,Everton,Goodison Park,Liverpool
+168,2020-01-11,Saturday,Leicester,1,2,Southampton,Southampton,King Power Stadium,Leicester
+169,2020-01-11,Saturday,Man Utd,4,0,Norwich,Man Utd,Old Trafford,Manchester
+170,2020-01-11,Saturday,Wolves,1,1,Newcastle,Draw,Molineux Stadium,Wolverhampton
+171,2020-01-03,Friday,Liverpool,2,0,Sheffield Utd,Liverpool,Anfield,Liverpool
+172,2020-01-02,Thursday,Man City,2,1,Everton,Man City,Etihad Stadium,Manchester
+173,2020-01-02,Thursday,Norwich,1,1,Crystal Palace,Draw,Carrow Road,Norwich
+174,2020-01-02,Thursday,West Ham,4,0,Bournemouth,West Ham,London Stadium,London
+175,2020-01-02,Thursday,Arsenal,2,0,Man Utd,Arsenal,Emirates Stadium,London
+176,2020-01-01,Wednesday,Brighton,1,1,Chelsea,Draw,Amex Stadium,Falmer
+177,2020-01-01,Wednesday,Burnley,1,2,Aston Villa,Aston Villa,Turf Moor,Burnley
+178,2020-01-01,Wednesday,Newcastle,0,3,Leicester,Leicester,St. James' Park,Newcastle
+179,2020-01-01,Wednesday,Southampton,1,0,Spurs,Southampton,St. Mary's Stadium,Southampton
+180,2020-01-01,Wednesday,Watford,2,1,Wolves,Watford,Vicarage Road,Watford
+181,2019-12-30,Monday,Liverpool,1,0,Wolves,Liverpool,Anfield,Liverpool
+182,2019-12-30,Monday,Man City,2,0,Sheffield Utd,Man City,Etihad Stadium,Manchester
+183,2019-12-29,Sunday,Norwich,2,2,Spurs,Draw,Carrow Road,Norwich
+184,2019-12-29,Sunday,West Ham,1,2,Leicester,Leicester,London Stadium,London
+185,2019-12-29,Sunday,Burnley,0,2,Man Utd,Man Utd,Turf Moor,Burnley
+186,2019-12-29,Sunday,Arsenal,1,2,Chelsea,Chelsea,Emirates Stadium,London
+187,2019-12-28,Saturday,Wolves,3,2,Man City,Wolves,Molineux Stadium,Wolverhampton
+188,2019-12-28,Saturday,Brighton,2,0,Bournemouth,Brighton,Amex Stadium,Falmer
+189,2019-12-28,Saturday,Newcastle,1,2,Everton,Everton,St. James' Park,Newcastle
+190,2019-12-28,Saturday,Southampton,1,1,Crystal Palace,Draw,St. Mary's Stadium,Southampton
+191,2019-12-28,Saturday,Watford,3,0,Aston Villa,Watford,Vicarage Road,Watford
+192,2019-12-27,Friday,Man Utd,4,1,Newcastle,Man Utd,Old Trafford,Manchester
+193,2019-12-27,Friday,Leicester,0,4,Liverpool,Liverpool,King Power Stadium,Leicester
+194,2019-12-26,Thursday,Bournemouth,1,1,Arsenal,Draw,Vitality Stadium,Bournemouth
+195,2019-12-26,Thursday,Aston Villa,1,0,Norwich,Aston Villa,Villa Park,Birmingham
+196,2019-12-26,Thursday,Chelsea,0,2,Southampton,Southampton,Stamford Bridge,London
+197,2019-12-26,Thursday,Crystal Palace,2,1,West Ham,Crystal Palace,Selhurst Park,London
+198,2019-12-26,Thursday,Everton,1,0,Burnley,Everton,Goodison Park,Liverpool
+199,2019-12-26,Thursday,Sheffield Utd,1,1,Watford,Draw,Bramall Lane,Sheffield
+200,2019-12-26,Thursday,Spurs,2,1,Brighton,Spurs,Tottenham Hotspur Stadium,London
+201,2019-12-23,Monday,Spurs,0,2,Chelsea,Chelsea,Tottenham Hotspur Stadium,London
+202,2019-12-22,Sunday,Man City,3,1,Leicester,Man City,Etihad Stadium,Manchester
+203,2019-12-22,Sunday,Watford,2,0,Man Utd,Watford,Vicarage Road,Watford
+204,2019-12-21,Saturday,Everton,0,0,Arsenal,Draw,Goodison Park,Liverpool
+205,2019-12-21,Saturday,Bournemouth,0,1,Burnley,Burnley,Vitality Stadium,Bournemouth
+206,2019-12-21,Saturday,Aston Villa,1,3,Southampton,Southampton,Villa Park,Birmingham
+207,2019-12-21,Saturday,Brighton,0,1,Sheffield Utd,Sheffield Utd,Amex Stadium,Falmer
+208,2019-12-21,Saturday,Newcastle,1,0,Crystal Palace,Newcastle,St. James' Park,Newcastle
+209,2019-12-21,Saturday,Norwich,1,2,Wolves,Wolves,Carrow Road,Norwich
+210,2019-12-17,Tuesday,Crystal Palace,1,1,Brighton,Draw,Selhurst Park,London
+211,2019-12-16,Monday,Arsenal,0,3,Man City,Man City,Emirates Stadium,London
+212,2019-12-15,Sunday,Southampton,0,1,West Ham,West Ham,St. Mary's Stadium,Southampton
+213,2019-12-15,Sunday,Man Utd,1,1,Everton,Draw,Old Trafford,Manchester
+214,2019-12-15,Sunday,Wolves,1,2,Spurs,Spurs,Molineux Stadium,Wolverhampton
+215,2019-12-14,Saturday,Liverpool,2,0,Watford,Liverpool,Anfield,Liverpool
+216,2019-12-14,Saturday,Burnley,1,0,Newcastle,Burnley,Turf Moor,Burnley
+217,2019-12-14,Saturday,Chelsea,0,1,Bournemouth,Bournemouth,Stamford Bridge,London
+218,2019-12-14,Saturday,Leicester,1,1,Norwich,Draw,King Power Stadium,Leicester
+219,2019-12-14,Saturday,Sheffield Utd,2,0,Aston Villa,Sheffield Utd,Bramall Lane,Sheffield
+220,2019-12-10,Tuesday,West Ham,1,3,Arsenal,Arsenal,London Stadium,London
+221,2019-12-09,Monday,Brighton,2,2,Wolves,Draw,Amex Stadium,Falmer
+222,2019-12-08,Sunday,Man City,1,2,Man Utd,Man Utd,Etihad Stadium,Manchester
+223,2019-12-08,Sunday,Aston Villa,1,4,Leicester,Leicester,Villa Park,Birmingham
+224,2019-12-08,Sunday,Newcastle,2,1,Southampton,Newcastle,St. James' Park,Newcastle
+225,2019-12-08,Sunday,Norwich,1,2,Sheffield Utd,Sheffield Utd,Carrow Road,Norwich
+226,2019-12-07,Saturday,Everton,3,1,Chelsea,Everton,Goodison Park,Liverpool
+227,2019-12-07,Saturday,Bournemouth,0,3,Liverpool,Liverpool,Vitality Stadium,Bournemouth
+228,2019-12-07,Saturday,Spurs,5,0,Burnley,Spurs,Tottenham Hotspur Stadium,London
+229,2019-12-07,Saturday,Watford,0,0,Crystal Palace,Draw,Vicarage Road,Watford
+230,2019-12-06,Friday,Sheffield Utd,0,2,Newcastle,Newcastle,Bramall Lane,Sheffield
+231,2019-12-06,Friday,Arsenal,1,2,Brighton,Brighton,Emirates Stadium,London
+232,2019-12-05,Thursday,Chelsea,2,1,Aston Villa,Chelsea,Stamford Bridge,London
+233,2019-12-05,Thursday,Leicester,2,0,Watford,Leicester,King Power Stadium,Leicester
+234,2019-12-05,Thursday,Man Utd,2,1,Spurs,Man Utd,Old Trafford,Manchester
+235,2019-12-05,Thursday,Southampton,2,1,Norwich,Southampton,St. Mary's Stadium,Southampton
+236,2019-12-05,Thursday,Wolves,2,0,West Ham,Wolves,Molineux Stadium,Wolverhampton
+237,2019-12-05,Thursday,Liverpool,5,2,Everton,Liverpool,Anfield,Liverpool
+238,2019-12-04,Wednesday,Crystal Palace,1,0,Bournemouth,Crystal Palace,Selhurst Park,London
+239,2019-12-04,Wednesday,Burnley,1,4,Man City,Man City,Turf Moor,Burnley
+240,2019-12-02,Monday,Leicester,2,1,Everton,Leicester,King Power Stadium,Leicester
+241,2019-12-02,Monday,Man Utd,2,2,Aston Villa,Draw,Old Trafford,Manchester
+242,2019-12-01,Sunday,Southampton,2,1,Watford,Southampton,St. Mary's Stadium,Southampton
+243,2019-12-01,Sunday,Norwich,2,2,Arsenal,Draw,Carrow Road,Norwich
+244,2019-12-01,Sunday,Wolves,1,1,Sheffield Utd,Draw,Molineux Stadium,Wolverhampton
+245,2019-11-30,Saturday,Newcastle,2,2,Man City,Draw,St. James' Park,Newcastle
+246,2019-11-30,Saturday,Burnley,0,2,Crystal Palace,Crystal Palace,Turf Moor,Burnley
+247,2019-11-30,Saturday,Chelsea,0,1,West Ham,West Ham,Stamford Bridge,London
+248,2019-11-30,Saturday,Liverpool,2,1,Brighton,Liverpool,Anfield,Liverpool
+249,2019-11-30,Saturday,Spurs,3,2,Bournemouth,Spurs,Tottenham Hotspur Stadium,London
+250,2019-11-26,Tuesday,Aston Villa,2,0,Newcastle,Aston Villa,Villa Park,Birmingham
+251,2019-11-25,Monday,Sheffield Utd,3,3,Man Utd,Draw,Bramall Lane,Sheffield
+252,2019-11-24,Sunday,Man City,2,1,Chelsea,Man City,Etihad Stadium,Manchester
+253,2019-11-23,Saturday,West Ham,2,3,Spurs,Spurs,London Stadium,London
+254,2019-11-23,Saturday,Bournemouth,1,2,Wolves,Wolves,Vitality Stadium,Bournemouth
+255,2019-11-23,Saturday,Arsenal,2,2,Southampton,Draw,Emirates Stadium,London
+256,2019-11-23,Saturday,Brighton,0,2,Leicester,Leicester,Amex Stadium,Falmer
+257,2019-11-23,Saturday,Crystal Palace,1,2,Liverpool,Liverpool,Selhurst Park,London
+258,2019-11-23,Saturday,Everton,0,2,Norwich,Norwich,Goodison Park,Liverpool
+259,2019-11-23,Saturday,Watford,0,3,Burnley,Burnley,Vicarage Road,Watford
+260,2019-11-11,Monday,Liverpool,3,1,Man City,Liverpool,Anfield,Liverpool
+261,2019-11-10,Sunday,Leicester,2,0,Arsenal,Leicester,King Power Stadium,Leicester
+262,2019-11-10,Sunday,Man Utd,3,1,Brighton,Man Utd,Old Trafford,Manchester
+263,2019-11-10,Sunday,Wolves,2,1,Aston Villa,Wolves,Molineux Stadium,Wolverhampton
+264,2019-11-09,Saturday,Norwich,0,2,Watford,Watford,Carrow Road,Norwich
+265,2019-11-09,Saturday,Chelsea,2,0,Crystal Palace,Chelsea,Stamford Bridge,London
+266,2019-11-09,Saturday,Burnley,3,0,West Ham,Burnley,Turf Moor,Burnley
+267,2019-11-09,Saturday,Newcastle,2,1,Bournemouth,Newcastle,St. James' Park,Newcastle
+268,2019-11-09,Saturday,Southampton,1,2,Everton,Everton,St. Mary's Stadium,Southampton
+269,2019-11-09,Saturday,Spurs,1,1,Sheffield Utd,Draw,Tottenham Hotspur Stadium,London
+270,2019-11-04,Monday,Everton,1,1,Spurs,Draw,Goodison Park,Liverpool
+271,2019-11-03,Sunday,Watford,1,2,Chelsea,Chelsea,Vicarage Road,Watford
+272,2019-11-03,Sunday,Crystal Palace,0,2,Leicester,Leicester,Selhurst Park,London
+273,2019-11-02,Saturday,Bournemouth,1,0,Man Utd,Bournemouth,Vitality Stadium,Bournemouth
+274,2019-11-02,Saturday,Arsenal,1,1,Wolves,Draw,Emirates Stadium,London
+275,2019-11-02,Saturday,Aston Villa,1,2,Liverpool,Liverpool,Villa Park,Birmingham
+276,2019-11-02,Saturday,Brighton,2,0,Norwich,Brighton,Amex Stadium,Falmer
+277,2019-11-02,Saturday,Man City,2,1,Southampton,Man City,Etihad Stadium,Manchester
+278,2019-11-02,Saturday,Sheffield Utd,3,0,Burnley,Sheffield Utd,Bramall Lane,Sheffield
+279,2019-11-02,Saturday,West Ham,2,3,Newcastle,Newcastle,London Stadium,London
+280,2019-10-28,Monday,Arsenal,2,2,Crystal Palace,Draw,Emirates Stadium,London
+281,2019-10-28,Monday,Liverpool,2,1,Spurs,Liverpool,Anfield,Liverpool
+282,2019-10-28,Monday,Norwich,1,3,Man Utd,Man Utd,Carrow Road,Norwich
+283,2019-10-27,Sunday,Burnley,2,4,Chelsea,Chelsea,Turf Moor,Burnley
+284,2019-10-27,Sunday,Newcastle,1,1,Wolves,Draw,St. James' Park,Newcastle
+285,2019-10-26,Saturday,Southampton,0,9,Leicester,Leicester,St. Mary's Stadium,Southampton
+286,2019-10-26,Saturday,Man City,3,0,Aston Villa,Man City,Etihad Stadium,Manchester
+287,2019-10-26,Saturday,Brighton,3,2,Everton,Brighton,Amex Stadium,Falmer
+288,2019-10-26,Saturday,Watford,0,0,Bournemouth,Draw,Vicarage Road,Watford
+289,2019-10-26,Saturday,West Ham,1,1,Sheffield Utd,Draw,London Stadium,London
+290,2019-10-22,Tuesday,Sheffield Utd,1,0,Arsenal,Sheffield Utd,Bramall Lane,Sheffield
+291,2019-10-20,Sunday,Crystal Palace,0,2,Man City,Man City,Selhurst Park,London
+292,2019-10-20,Sunday,Man Utd,1,1,Liverpool,Draw,Old Trafford,Manchester
+293,2019-10-19,Saturday,Everton,2,0,West Ham,Everton,Goodison Park,Liverpool
+294,2019-10-19,Saturday,Bournemouth,0,0,Norwich,Draw,Vitality Stadium,Bournemouth
+295,2019-10-19,Saturday,Aston Villa,2,1,Brighton,Aston Villa,Villa Park,Birmingham
+296,2019-10-19,Saturday,Chelsea,1,0,Newcastle,Chelsea,Stamford Bridge,London
+297,2019-10-19,Saturday,Leicester,2,1,Burnley,Leicester,King Power Stadium,Leicester
+298,2019-10-19,Saturday,Spurs,1,1,Watford,Draw,Tottenham Hotspur Stadium,London
+299,2019-10-19,Saturday,Wolves,1,1,Southampton,Draw,Molineux Stadium,Wolverhampton
+300,2019-10-06,Sunday,West Ham,1,2,Crystal Palace,Crystal Palace,London Stadium,London
+301,2019-10-06,Sunday,Arsenal,1,0,Bournemouth,Arsenal,Emirates Stadium,London
+302,2019-10-06,Sunday,Man City,0,2,Wolves,Wolves,Etihad Stadium,Manchester
+303,2019-10-06,Sunday,Southampton,1,4,Chelsea,Chelsea,St. Mary's Stadium,Southampton
+304,2019-10-06,Sunday,Newcastle,1,0,Man Utd,Newcastle,St. James' Park,Newcastle
+305,2019-10-05,Saturday,Brighton,3,0,Spurs,Brighton,Amex Stadium,Falmer
+306,2019-10-05,Saturday,Burnley,1,0,Everton,Burnley,Turf Moor,Burnley
+307,2019-10-05,Saturday,Liverpool,2,1,Leicester,Liverpool,Anfield,Liverpool
+308,2019-10-05,Saturday,Norwich,1,5,Aston Villa,Aston Villa,Carrow Road,Norwich
+309,2019-10-05,Saturday,Watford,0,0,Sheffield Utd,Draw,Vicarage Road,Watford
+310,2019-10-01,Tuesday,Man Utd,1,1,Arsenal,Draw,Old Trafford,Manchester
+311,2019-09-29,Sunday,Everton,1,3,Man City,Man City,Goodison Park,Liverpool
+312,2019-09-29,Sunday,Leicester,5,0,Newcastle,Leicester,King Power Stadium,Leicester
+313,2019-09-28,Saturday,Sheffield Utd,0,1,Liverpool,Liverpool,Bramall Lane,Sheffield
+314,2019-09-28,Saturday,Bournemouth,2,2,West Ham,Draw,Vitality Stadium,Bournemouth
+315,2019-09-28,Saturday,Aston Villa,2,2,Burnley,Draw,Villa Park,Birmingham
+316,2019-09-28,Saturday,Chelsea,2,0,Brighton,Chelsea,Stamford Bridge,London
+317,2019-09-28,Saturday,Crystal Palace,2,0,Norwich,Crystal Palace,Selhurst Park,London
+318,2019-09-28,Saturday,Spurs,2,1,Southampton,Spurs,Tottenham Hotspur Stadium,London
+319,2019-09-28,Saturday,Wolves,2,0,Watford,Wolves,Molineux Stadium,Wolverhampton
+320,2019-09-22,Sunday,Newcastle,0,0,Brighton,Draw,St. James' Park,Newcastle
+321,2019-09-22,Sunday,Crystal Palace,1,1,Wolves,Draw,Selhurst Park,London
+322,2019-09-22,Sunday,West Ham,2,0,Man Utd,West Ham,London Stadium,London
+323,2019-09-22,Sunday,Arsenal,3,2,Aston Villa,Arsenal,Emirates Stadium,London
+324,2019-09-22,Sunday,Chelsea,1,2,Liverpool,Liverpool,Stamford Bridge,London
+325,2019-09-21,Saturday,Southampton,1,3,Bournemouth,Bournemouth,St. Mary's Stadium,Southampton
+326,2019-09-21,Saturday,Leicester,2,1,Spurs,Leicester,King Power Stadium,Leicester
+327,2019-09-21,Saturday,Burnley,2,0,Norwich,Burnley,Turf Moor,Burnley
+328,2019-09-21,Saturday,Everton,0,2,Sheffield Utd,Sheffield Utd,Goodison Park,Liverpool
+329,2019-09-21,Saturday,Man City,8,0,Watford,Man City,Etihad Stadium,Manchester
+330,2019-09-17,Tuesday,Aston Villa,0,0,West Ham,Draw,Villa Park,Birmingham
+331,2019-09-15,Sunday,Norwich,3,2,Man City,Norwich,Carrow Road,Norwich
+332,2019-09-15,Sunday,Bournemouth,3,1,Everton,Bournemouth,Vitality Stadium,Bournemouth
+333,2019-09-15,Sunday,Watford,2,2,Arsenal,Draw,Vicarage Road,Watford
+334,2019-09-14,Saturday,Liverpool,3,1,Newcastle,Liverpool,Anfield,Liverpool
+335,2019-09-14,Saturday,Brighton,1,1,Burnley,Draw,Amex Stadium,Falmer
+336,2019-09-14,Saturday,Man Utd,1,0,Leicester,Man Utd,Old Trafford,Manchester
+337,2019-09-14,Saturday,Sheffield Utd,0,1,Southampton,Southampton,Bramall Lane,Sheffield
+338,2019-09-14,Saturday,Spurs,4,0,Crystal Palace,Spurs,Tottenham Hotspur Stadium,London
+339,2019-09-14,Saturday,Wolves,2,5,Chelsea,Chelsea,Molineux Stadium,Wolverhampton
+340,2019-09-01,Sunday,Burnley,0,3,Liverpool,Liverpool,Turf Moor,Burnley
+341,2019-09-01,Sunday,Everton,3,2,Wolves,Everton,Goodison Park,Liverpool
+342,2019-09-01,Sunday,Arsenal,2,2,Spurs,Draw,Emirates Stadium,London
+343,2019-08-31,Saturday,Southampton,1,1,Man Utd,Draw,St. Mary's Stadium,Southampton
+344,2019-08-31,Saturday,Chelsea,2,2,Sheffield Utd,Draw,Stamford Bridge,London
+345,2019-08-31,Saturday,Crystal Palace,1,0,Aston Villa,Crystal Palace,Selhurst Park,London
+346,2019-08-31,Saturday,Leicester,3,1,Bournemouth,Leicester,King Power Stadium,Leicester
+347,2019-08-31,Saturday,Man City,4,0,Brighton,Man City,Etihad Stadium,Manchester
+348,2019-08-31,Saturday,Newcastle,1,1,Watford,Draw,St. James' Park,Newcastle
+349,2019-08-31,Saturday,West Ham,2,0,Norwich,West Ham,London Stadium,London
+350,2019-08-25,Sunday,Liverpool,3,1,Arsenal,Liverpool,Anfield,Liverpool
+351,2019-08-25,Sunday,Bournemouth,1,3,Man City,Man City,Vitality Stadium,Bournemouth
+352,2019-08-25,Sunday,Spurs,0,1,Newcastle,Newcastle,Tottenham Hotspur Stadium,London
+353,2019-08-25,Sunday,Wolves,1,1,Burnley,Draw,Molineux Stadium,Wolverhampton
+354,2019-08-24,Saturday,Aston Villa,2,0,Everton,Aston Villa,Villa Park,Birmingham
+355,2019-08-24,Saturday,Norwich,2,3,Chelsea,Chelsea,Carrow Road,Norwich
+356,2019-08-24,Saturday,Brighton,0,2,Southampton,Southampton,Amex Stadium,Falmer
+357,2019-08-24,Saturday,Man Utd,1,2,Crystal Palace,Crystal Palace,Old Trafford,Manchester
+358,2019-08-24,Saturday,Sheffield Utd,1,2,Leicester,Leicester,Bramall Lane,Sheffield
+359,2019-08-24,Saturday,Watford,1,3,West Ham,West Ham,Vicarage Road,Watford
+360,2019-08-20,Tuesday,Wolves,1,1,Man Utd,Draw,Molineux Stadium,Wolverhampton
+361,2019-08-18,Sunday,Man City,2,2,Spurs,Draw,Etihad Stadium,Manchester
+362,2019-08-18,Sunday,Sheffield Utd,1,0,Crystal Palace,Sheffield Utd,Bramall Lane,Sheffield
+363,2019-08-18,Sunday,Chelsea,1,1,Leicester,Draw,Stamford Bridge,London
+364,2019-08-17,Saturday,Arsenal,2,1,Burnley,Arsenal,Emirates Stadium,London
+365,2019-08-17,Saturday,Aston Villa,1,2,Bournemouth,Bournemouth,Villa Park,Birmingham
+366,2019-08-17,Saturday,Brighton,1,1,West Ham,Draw,Amex Stadium,Falmer
+367,2019-08-17,Saturday,Everton,1,0,Watford,Everton,Goodison Park,Liverpool
+368,2019-08-17,Saturday,Norwich,3,1,Newcastle,Norwich,Carrow Road,Norwich
+369,2019-08-17,Saturday,Southampton,1,2,Liverpool,Liverpool,St. Mary's Stadium,Southampton
+370,2019-08-11,Sunday,Spurs,3,1,Aston Villa,Spurs,Tottenham Hotspur Stadium,London
+371,2019-08-11,Sunday,Leicester,0,0,Wolves,Draw,King Power Stadium,Leicester
+372,2019-08-11,Sunday,Newcastle,0,1,Arsenal,Arsenal,St. James' Park,Newcastle
+373,2019-08-11,Sunday,Man Utd,4,0,Chelsea,Man Utd,Old Trafford,Manchester
+374,2019-08-10,Saturday,Liverpool,4,1,Norwich,Liverpool,Anfield,Liverpool
+375,2019-08-10,Saturday,West Ham,0,5,Man City,Man City,London Stadium,London
+376,2019-08-10,Saturday,Bournemouth,1,1,Sheffield Utd,Draw,Vitality Stadium,Bournemouth
+377,2019-08-10,Saturday,Burnley,3,0,Southampton,Burnley,Turf Moor,Burnley
+378,2019-08-10,Saturday,Crystal Palace,0,0,Everton,Draw,Selhurst Park,London
+379,2019-08-10,Saturday,Watford,0,3,Brighton,Brighton,Vicarage Road,Watford

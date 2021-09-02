@@ -1,0 +1,381 @@
+,Date,Weekday,HomeTeam,HomeScore,AwayScore,AwayTeam,Winner,Stadium,City
+0,2012-05-13,Sunday,Chelsea,2,1,Blackburn,Chelsea,Stamford Bridge,London
+1,2012-05-13,Sunday,Everton,3,1,Newcastle,Everton,Goodison Park,Liverpool
+2,2012-05-13,Sunday,Man City,3,2,QPR,Man City,Etihad Stadium,Manchester
+3,2012-05-13,Sunday,Norwich,2,0,Aston Villa,Norwich,Carrow Road,Norwich
+4,2012-05-13,Sunday,Stoke,2,2,Bolton,Draw,bet365 Stadium,Stoke
+5,2012-05-13,Sunday,Sunderland,0,1,Man Utd,Man Utd,Stadium of Light,Sunderland
+6,2012-05-13,Sunday,Swansea,1,0,Liverpool,Swansea,Liberty Stadium,Swansea
+7,2012-05-13,Sunday,Spurs,2,0,Fulham,Spurs,White Hart Lane,London
+8,2012-05-13,Sunday,West Brom,2,3,Arsenal,Arsenal,The Hawthorns,West Bromwich
+9,2012-05-13,Sunday,Wigan,3,2,Wolves,Wigan,DW Stadium,Wigan
+10,2012-05-09,Wednesday,Liverpool,4,1,Chelsea,Liverpool,Anfield,Liverpool
+11,2012-05-08,Tuesday,Blackburn,0,1,Wigan,Wigan,Ewood Park,Blackburn
+12,2012-05-06,Sunday,Newcastle,0,2,Man City,Man City,St James' Park,Newcastle
+13,2012-05-06,Sunday,Aston Villa,1,1,Spurs,Draw,Villa Park,Birmingham
+14,2012-05-06,Sunday,Bolton,2,2,West Brom,Draw,University of Bolton Stadium,Bolton
+15,2012-05-06,Sunday,Fulham,2,1,Sunderland,Fulham,Craven Cottage,London
+16,2012-05-06,Sunday,QPR,1,0,Stoke,QPR,Kiyan Prince Foundation Stadium,London
+17,2012-05-06,Sunday,Wolves,0,0,Everton,Draw,Molineux Stadium,Wolverhampton
+18,2012-05-06,Sunday,Man Utd,2,0,Swansea,Man Utd,Old Trafford,Manchester
+19,2012-05-05,Saturday,Arsenal,3,3,Norwich,Draw,Emirates Stadium,London
+20,2012-05-03,Thursday,Chelsea,0,2,Newcastle,Newcastle,Stamford Bridge,London
+21,2012-05-03,Thursday,Bolton,1,4,Spurs,Spurs,University of Bolton Stadium,Bolton
+22,2012-05-02,Wednesday,Liverpool,0,1,Fulham,Fulham,Anfield,Liverpool
+23,2012-05-02,Wednesday,Stoke,1,1,Everton,Draw,bet365 Stadium,Stoke
+24,2012-05-01,Tuesday,Man City,1,0,Man Utd,Man City,Etihad Stadium,Manchester
+25,2012-04-29,Sunday,Norwich,0,3,Liverpool,Liverpool,Carrow Road,Norwich
+26,2012-04-29,Sunday,Chelsea,6,1,QPR,Chelsea,Stamford Bridge,London
+27,2012-04-29,Sunday,Spurs,2,0,Blackburn,Spurs,White Hart Lane,London
+28,2012-04-28,Saturday,Everton,4,0,Fulham,Everton,Goodison Park,Liverpool
+29,2012-04-28,Saturday,Stoke,1,1,Arsenal,Draw,bet365 Stadium,Stoke
+30,2012-04-28,Saturday,Sunderland,2,2,Bolton,Draw,Stadium of Light,Sunderland
+31,2012-04-28,Saturday,Swansea,4,4,Wolves,Draw,Liberty Stadium,Swansea
+32,2012-04-28,Saturday,West Brom,0,0,Aston Villa,Draw,The Hawthorns,West Bromwich
+33,2012-04-28,Saturday,Wigan,4,0,Newcastle,Wigan,DW Stadium,Wigan
+34,2012-04-25,Wednesday,Aston Villa,1,2,Bolton,Bolton,Villa Park,Birmingham
+35,2012-04-22,Sunday,QPR,1,0,Spurs,QPR,Kiyan Prince Foundation Stadium,London
+36,2012-04-22,Sunday,Man Utd,4,4,Everton,Draw,Old Trafford,Manchester
+37,2012-04-22,Sunday,Liverpool,0,1,West Brom,West Brom,Anfield,Liverpool
+38,2012-04-22,Sunday,Wolves,0,2,Man City,Man City,Molineux Stadium,Wolverhampton
+39,2012-04-21,Saturday,Aston Villa,0,0,Sunderland,Draw,Villa Park,Birmingham
+40,2012-04-21,Saturday,Arsenal,0,0,Chelsea,Draw,Emirates Stadium,London
+41,2012-04-21,Saturday,Blackburn,2,0,Norwich,Blackburn,Ewood Park,Blackburn
+42,2012-04-21,Saturday,Bolton,1,1,Swansea,Draw,University of Bolton Stadium,Bolton
+43,2012-04-21,Saturday,Fulham,2,1,Wigan,Fulham,Craven Cottage,London
+44,2012-04-21,Saturday,Newcastle,3,0,Stoke,Newcastle,St James' Park,Newcastle
+45,2012-04-17,Tuesday,Arsenal,1,2,Wigan,Wigan,Emirates Stadium,London
+46,2012-04-15,Sunday,Man Utd,4,0,Aston Villa,Man Utd,Old Trafford,Manchester
+47,2012-04-14,Saturday,Norwich,1,6,Man City,Man City,Carrow Road,Norwich
+48,2012-04-14,Saturday,Sunderland,0,0,Wolves,Draw,Stadium of Light,Sunderland
+49,2012-04-14,Saturday,Swansea,3,0,Blackburn,Swansea,Liberty Stadium,Swansea
+50,2012-04-14,Saturday,West Brom,1,0,QPR,West Brom,The Hawthorns,West Bromwich
+51,2012-04-12,Thursday,Man City,4,0,West Brom,Man City,Etihad Stadium,Manchester
+52,2012-04-12,Thursday,Wigan,1,0,Man Utd,Wigan,DW Stadium,Wigan
+53,2012-04-12,Thursday,Wolves,0,3,Arsenal,Arsenal,Molineux Stadium,Wolverhampton
+54,2012-04-12,Thursday,QPR,3,0,Swansea,QPR,Kiyan Prince Foundation Stadium,London
+55,2012-04-11,Wednesday,Blackburn,2,3,Liverpool,Liverpool,Ewood Park,Blackburn
+56,2012-04-10,Tuesday,Aston Villa,1,1,Stoke,Draw,Villa Park,Birmingham
+57,2012-04-10,Tuesday,Fulham,1,1,Chelsea,Draw,Craven Cottage,London
+58,2012-04-09,Monday,Everton,4,0,Sunderland,Everton,Goodison Park,Liverpool
+59,2012-04-09,Monday,Newcastle,2,0,Bolton,Newcastle,St James' Park,Newcastle
+60,2012-04-09,Monday,Spurs,1,2,Norwich,Norwich,White Hart Lane,London
+61,2012-04-08,Sunday,Stoke,2,1,Wolves,Stoke,bet365 Stadium,Stoke
+62,2012-04-08,Sunday,Man Utd,2,0,QPR,Man Utd,Old Trafford,Manchester
+63,2012-04-08,Sunday,Arsenal,1,0,Man City,Arsenal,Emirates Stadium,London
+64,2012-04-07,Saturday,Sunderland,0,0,Spurs,Draw,Stadium of Light,Sunderland
+65,2012-04-07,Saturday,Bolton,0,3,Fulham,Fulham,University of Bolton Stadium,Bolton
+66,2012-04-07,Saturday,Chelsea,2,1,Wigan,Chelsea,Stamford Bridge,London
+67,2012-04-07,Saturday,Liverpool,1,1,Aston Villa,Draw,Anfield,Liverpool
+68,2012-04-07,Saturday,Norwich,2,2,Everton,Draw,Carrow Road,Norwich
+69,2012-04-07,Saturday,West Brom,3,0,Blackburn,West Brom,The Hawthorns,West Bromwich
+70,2012-04-06,Friday,Swansea,0,2,Newcastle,Newcastle,Liberty Stadium,Swansea
+71,2012-04-03,Tuesday,Blackburn,0,2,Man Utd,Man Utd,Ewood Park,Blackburn
+72,2012-04-01,Sunday,Newcastle,2,0,Liverpool,Newcastle,St James' Park,Newcastle
+73,2012-04-01,Sunday,Spurs,3,1,Swansea,Spurs,White Hart Lane,London
+74,2012-03-31,Saturday,Aston Villa,2,4,Chelsea,Chelsea,Villa Park,Birmingham
+75,2012-03-31,Saturday,Everton,2,0,West Brom,Everton,Goodison Park,Liverpool
+76,2012-03-31,Saturday,Fulham,2,1,Norwich,Fulham,Craven Cottage,London
+77,2012-03-31,Saturday,Man City,3,3,Sunderland,Draw,Etihad Stadium,Manchester
+78,2012-03-31,Saturday,QPR,2,1,Arsenal,QPR,Kiyan Prince Foundation Stadium,London
+79,2012-03-31,Saturday,Wigan,2,0,Stoke,Wigan,DW Stadium,Wigan
+80,2012-03-31,Saturday,Wolves,2,3,Bolton,Bolton,Molineux Stadium,Wolverhampton
+81,2012-03-27,Tuesday,Man Utd,1,0,Fulham,Man Utd,Old Trafford,Manchester
+82,2012-03-25,Sunday,Stoke,1,1,Man City,Draw,bet365 Stadium,Stoke
+83,2012-03-25,Sunday,West Brom,1,3,Newcastle,Newcastle,The Hawthorns,West Bromwich
+84,2012-03-24,Saturday,Chelsea,0,0,Spurs,Draw,Stamford Bridge,London
+85,2012-03-24,Saturday,Arsenal,3,0,Aston Villa,Arsenal,Emirates Stadium,London
+86,2012-03-24,Saturday,Bolton,2,1,Blackburn,Bolton,University of Bolton Stadium,Bolton
+87,2012-03-24,Saturday,Liverpool,1,2,Wigan,Wigan,Anfield,Liverpool
+88,2012-03-24,Saturday,Norwich,2,1,Wolves,Norwich,Carrow Road,Norwich
+89,2012-03-24,Saturday,Sunderland,3,1,QPR,Sunderland,Stadium of Light,Sunderland
+90,2012-03-24,Saturday,Swansea,0,2,Everton,Everton,Liberty Stadium,Swansea
+91,2012-03-22,Thursday,Man City,2,1,Chelsea,Man City,Etihad Stadium,Manchester
+92,2012-03-22,Thursday,Spurs,1,1,Stoke,Draw,White Hart Lane,London
+93,2012-03-22,Thursday,Everton,0,1,Arsenal,Arsenal,Goodison Park,Liverpool
+94,2012-03-22,Thursday,QPR,3,2,Liverpool,QPR,Kiyan Prince Foundation Stadium,London
+95,2012-03-21,Wednesday,Blackburn,2,0,Sunderland,Blackburn,Ewood Park,Blackburn
+96,2012-03-19,Monday,Newcastle,1,0,Norwich,Newcastle,St James' Park,Newcastle
+97,2012-03-18,Sunday,Wolves,0,5,Man Utd,Man Utd,Molineux Stadium,Wolverhampton
+98,2012-03-17,Saturday,Fulham,0,3,Swansea,Swansea,Craven Cottage,London
+99,2012-03-17,Saturday,Wigan,1,1,West Brom,Draw,DW Stadium,Wigan
+100,2012-03-14,Wednesday,Liverpool,3,0,Everton,Liverpool,Anfield,Liverpool
+101,2012-03-13,Tuesday,Arsenal,2,1,Newcastle,Arsenal,Emirates Stadium,London
+102,2012-03-12,Monday,Norwich,1,1,Wigan,Draw,Carrow Road,Norwich
+103,2012-03-11,Sunday,Everton,1,0,Spurs,Everton,Goodison Park,Liverpool
+104,2012-03-11,Sunday,Man Utd,2,0,West Brom,Man Utd,Old Trafford,Manchester
+105,2012-03-11,Sunday,Swansea,1,0,Man City,Swansea,Liberty Stadium,Swansea
+106,2012-03-10,Saturday,Bolton,2,1,QPR,Bolton,University of Bolton Stadium,Bolton
+107,2012-03-10,Saturday,Aston Villa,1,0,Fulham,Aston Villa,Villa Park,Birmingham
+108,2012-03-10,Saturday,Chelsea,1,0,Stoke,Chelsea,Stamford Bridge,London
+109,2012-03-10,Saturday,Sunderland,1,0,Liverpool,Sunderland,Stadium of Light,Sunderland
+110,2012-03-10,Saturday,Wolves,0,2,Blackburn,Blackburn,Molineux Stadium,Wolverhampton
+111,2012-03-05,Monday,Spurs,1,3,Man Utd,Man Utd,White Hart Lane,London
+112,2012-03-04,Sunday,Newcastle,1,1,Sunderland,Draw,St James' Park,Newcastle
+113,2012-03-04,Sunday,Fulham,5,0,Wolves,Fulham,Craven Cottage,London
+114,2012-03-03,Saturday,Blackburn,1,1,Aston Villa,Draw,Ewood Park,Blackburn
+115,2012-03-03,Saturday,Man City,2,0,Bolton,Man City,Etihad Stadium,Manchester
+116,2012-03-03,Saturday,QPR,1,1,Everton,Draw,Kiyan Prince Foundation Stadium,London
+117,2012-03-03,Saturday,Stoke,1,0,Norwich,Stoke,bet365 Stadium,Stoke
+118,2012-03-03,Saturday,West Brom,1,0,Chelsea,West Brom,The Hawthorns,West Bromwich
+119,2012-03-03,Saturday,Wigan,0,2,Swansea,Swansea,DW Stadium,Wigan
+120,2012-03-03,Saturday,Liverpool,1,2,Arsenal,Arsenal,Anfield,Liverpool
+121,2012-02-26,Sunday,Man City,3,0,Blackburn,Man City,Etihad Stadium,Manchester
+122,2012-02-26,Sunday,Arsenal,5,2,Spurs,Arsenal,Emirates Stadium,London
+123,2012-02-26,Sunday,Norwich,1,2,Man Utd,Man Utd,Carrow Road,Norwich
+124,2012-02-26,Sunday,Stoke,2,0,Swansea,Stoke,bet365 Stadium,Stoke
+125,2012-02-25,Saturday,Chelsea,3,0,Bolton,Chelsea,Stamford Bridge,London
+126,2012-02-25,Saturday,Newcastle,2,2,Wolves,Draw,St James' Park,Newcastle
+127,2012-02-25,Saturday,QPR,0,1,Fulham,Fulham,Kiyan Prince Foundation Stadium,London
+128,2012-02-25,Saturday,West Brom,4,0,Sunderland,West Brom,The Hawthorns,West Bromwich
+129,2012-02-25,Saturday,Wigan,0,0,Aston Villa,Draw,DW Stadium,Wigan
+130,2012-02-13,Monday,Aston Villa,0,1,Man City,Man City,Villa Park,Birmingham
+131,2012-02-12,Sunday,Spurs,5,0,Newcastle,Spurs,White Hart Lane,London
+132,2012-02-12,Sunday,Wolves,1,5,West Brom,West Brom,Molineux Stadium,Wolverhampton
+133,2012-02-11,Saturday,Man Utd,2,1,Liverpool,Man Utd,Old Trafford,Manchester
+134,2012-02-11,Saturday,Blackburn,3,2,QPR,Blackburn,Ewood Park,Blackburn
+135,2012-02-11,Saturday,Bolton,1,2,Wigan,Wigan,University of Bolton Stadium,Bolton
+136,2012-02-11,Saturday,Everton,2,0,Chelsea,Everton,Goodison Park,Liverpool
+137,2012-02-11,Saturday,Fulham,2,1,Stoke,Fulham,Craven Cottage,London
+138,2012-02-11,Saturday,Sunderland,1,2,Arsenal,Arsenal,Stadium of Light,Sunderland
+139,2012-02-11,Saturday,Swansea,2,3,Norwich,Norwich,Liberty Stadium,Swansea
+140,2012-02-07,Tuesday,Liverpool,0,0,Spurs,Draw,Anfield,Liverpool
+141,2012-02-06,Monday,Chelsea,3,3,Man Utd,Draw,Stamford Bridge,London
+142,2012-02-05,Sunday,Man City,3,0,Fulham,Man City,Etihad Stadium,Manchester
+143,2012-02-05,Sunday,Newcastle,2,1,Aston Villa,Newcastle,St James' Park,Newcastle
+144,2012-02-04,Saturday,Arsenal,7,1,Blackburn,Arsenal,Emirates Stadium,London
+145,2012-02-04,Saturday,Norwich,2,0,Bolton,Norwich,Carrow Road,Norwich
+146,2012-02-04,Saturday,QPR,1,2,Wolves,Wolves,Kiyan Prince Foundation Stadium,London
+147,2012-02-04,Saturday,Stoke,0,1,Sunderland,Sunderland,bet365 Stadium,Stoke
+148,2012-02-04,Saturday,West Brom,1,2,Swansea,Swansea,The Hawthorns,West Bromwich
+149,2012-02-04,Saturday,Wigan,1,1,Everton,Draw,DW Stadium,Wigan
+150,2012-02-02,Thursday,Aston Villa,2,2,QPR,Draw,Villa Park,Birmingham
+151,2012-02-02,Thursday,Blackburn,0,2,Newcastle,Newcastle,Ewood Park,Blackburn
+152,2012-02-02,Thursday,Bolton,0,0,Arsenal,Draw,University of Bolton Stadium,Bolton
+153,2012-02-02,Thursday,Fulham,1,1,West Brom,Draw,Craven Cottage,London
+154,2012-02-02,Thursday,Sunderland,3,0,Norwich,Sunderland,Stadium of Light,Sunderland
+155,2012-02-01,Wednesday,Swansea,1,1,Chelsea,Draw,Liberty Stadium,Swansea
+156,2012-02-01,Wednesday,Spurs,3,1,Wigan,Spurs,White Hart Lane,London
+157,2012-02-01,Wednesday,Wolves,0,3,Liverpool,Liverpool,Molineux Stadium,Wolverhampton
+158,2012-02-01,Wednesday,Everton,1,0,Man City,Everton,Goodison Park,Liverpool
+159,2012-02-01,Wednesday,Man Utd,2,0,Stoke,Man Utd,Old Trafford,Manchester
+160,2012-01-23,Monday,Arsenal,1,2,Man Utd,Man Utd,Emirates Stadium,London
+161,2012-01-22,Sunday,Bolton,3,1,Liverpool,Bolton,University of Bolton Stadium,Bolton
+162,2012-01-22,Sunday,Man City,3,2,Spurs,Man City,Etihad Stadium,Manchester
+163,2012-01-21,Saturday,Norwich,0,0,Chelsea,Draw,Carrow Road,Norwich
+164,2012-01-21,Saturday,Everton,1,1,Blackburn,Draw,Goodison Park,Liverpool
+165,2012-01-21,Saturday,Fulham,5,2,Newcastle,Fulham,Craven Cottage,London
+166,2012-01-21,Saturday,QPR,3,1,Wigan,QPR,Kiyan Prince Foundation Stadium,London
+167,2012-01-21,Saturday,Stoke,1,2,West Brom,West Brom,bet365 Stadium,Stoke
+168,2012-01-21,Saturday,Sunderland,2,0,Swansea,Sunderland,Stadium of Light,Sunderland
+169,2012-01-21,Saturday,Wolves,2,3,Aston Villa,Aston Villa,Molineux Stadium,Wolverhampton
+170,2012-01-17,Tuesday,Wigan,0,1,Man City,Man City,DW Stadium,Wigan
+171,2012-01-16,Monday,Swansea,3,2,Arsenal,Swansea,Liberty Stadium,Swansea
+172,2012-01-15,Sunday,Newcastle,1,0,QPR,Newcastle,St James' Park,Newcastle
+173,2012-01-14,Saturday,Aston Villa,1,1,Everton,Draw,Villa Park,Birmingham
+174,2012-01-14,Saturday,Blackburn,3,1,Fulham,Blackburn,Ewood Park,Blackburn
+175,2012-01-14,Saturday,Chelsea,1,0,Sunderland,Chelsea,Stamford Bridge,London
+176,2012-01-14,Saturday,Liverpool,0,0,Stoke,Draw,Anfield,Liverpool
+177,2012-01-14,Saturday,Man Utd,3,0,Bolton,Man Utd,Old Trafford,Manchester
+178,2012-01-14,Saturday,Spurs,1,1,Wolves,Draw,White Hart Lane,London
+179,2012-01-14,Saturday,West Brom,1,2,Norwich,Norwich,The Hawthorns,West Bromwich
+180,2012-01-12,Thursday,Spurs,2,0,Everton,Spurs,White Hart Lane,London
+181,2012-01-05,Thursday,Everton,1,2,Bolton,Bolton,Goodison Park,Liverpool
+182,2012-01-05,Thursday,Newcastle,3,0,Man Utd,Newcastle,St James' Park,Newcastle
+183,2012-01-04,Wednesday,Spurs,1,0,West Brom,Spurs,White Hart Lane,London
+184,2012-01-04,Wednesday,Wigan,1,4,Sunderland,Sunderland,DW Stadium,Wigan
+185,2012-01-04,Wednesday,Man City,3,0,Liverpool,Man City,Etihad Stadium,Manchester
+186,2012-01-03,Tuesday,Fulham,2,1,Arsenal,Fulham,Craven Cottage,London
+187,2012-01-02,Monday,Aston Villa,0,2,Swansea,Swansea,Villa Park,Birmingham
+188,2012-01-02,Monday,Blackburn,1,2,Stoke,Stoke,Ewood Park,Blackburn
+189,2012-01-02,Monday,QPR,1,2,Norwich,Norwich,Kiyan Prince Foundation Stadium,London
+190,2012-01-02,Monday,Wolves,1,2,Chelsea,Chelsea,Molineux Stadium,Wolverhampton
+191,2012-01-01,Sunday,West Brom,0,1,Everton,Everton,The Hawthorns,West Bromwich
+192,2012-01-01,Sunday,Sunderland,1,0,Man City,Sunderland,Stadium of Light,Sunderland
+193,2011-12-31,Saturday,Man Utd,2,3,Blackburn,Blackburn,Old Trafford,Manchester
+194,2011-12-31,Saturday,Arsenal,1,0,QPR,Arsenal,Emirates Stadium,London
+195,2011-12-31,Saturday,Bolton,1,1,Wolves,Draw,University of Bolton Stadium,Bolton
+196,2011-12-31,Saturday,Chelsea,1,3,Aston Villa,Aston Villa,Stamford Bridge,London
+197,2011-12-31,Saturday,Norwich,1,1,Fulham,Draw,Carrow Road,Norwich
+198,2011-12-31,Saturday,Stoke,2,2,Wigan,Draw,bet365 Stadium,Stoke
+199,2011-12-31,Saturday,Swansea,1,1,Spurs,Draw,Liberty Stadium,Swansea
+200,2011-12-31,Saturday,Liverpool,3,1,Newcastle,Liverpool,Anfield,Liverpool
+201,2011-12-28,Wednesday,Swansea,1,1,QPR,Draw,Liberty Stadium,Swansea
+202,2011-12-28,Wednesday,Norwich,0,2,Spurs,Spurs,Carrow Road,Norwich
+203,2011-12-27,Tuesday,Stoke,0,0,Aston Villa,Draw,bet365 Stadium,Stoke
+204,2011-12-27,Tuesday,Arsenal,1,1,Wolves,Draw,Emirates Stadium,London
+205,2011-12-26,Monday,Chelsea,1,1,Fulham,Draw,Stamford Bridge,London
+206,2011-12-26,Monday,Bolton,0,2,Newcastle,Newcastle,University of Bolton Stadium,Bolton
+207,2011-12-26,Monday,Liverpool,1,1,Blackburn,Draw,Anfield,Liverpool
+208,2011-12-26,Monday,Man Utd,5,0,Wigan,Man Utd,Old Trafford,Manchester
+209,2011-12-26,Monday,Sunderland,1,1,Everton,Draw,Stadium of Light,Sunderland
+210,2011-12-26,Monday,West Brom,0,0,Man City,Draw,The Hawthorns,West Bromwich
+211,2011-12-23,Friday,Spurs,1,1,Chelsea,Draw,White Hart Lane,London
+212,2011-12-22,Thursday,Aston Villa,1,2,Arsenal,Arsenal,Villa Park,Birmingham
+213,2011-12-22,Thursday,Man City,3,0,Stoke,Man City,Etihad Stadium,Manchester
+214,2011-12-22,Thursday,Newcastle,2,3,West Brom,West Brom,St James' Park,Newcastle
+215,2011-12-22,Thursday,Everton,1,0,Swansea,Everton,Goodison Park,Liverpool
+216,2011-12-22,Thursday,Fulham,0,5,Man Utd,Man Utd,Craven Cottage,London
+217,2011-12-22,Thursday,QPR,2,3,Sunderland,Sunderland,Kiyan Prince Foundation Stadium,London
+218,2011-12-22,Thursday,Wigan,0,0,Liverpool,Draw,DW Stadium,Wigan
+219,2011-12-21,Wednesday,Wolves,2,2,Norwich,Draw,Molineux Stadium,Wolverhampton
+220,2011-12-21,Wednesday,Blackburn,1,2,Bolton,Bolton,Ewood Park,Blackburn
+221,2011-12-19,Monday,Man City,1,0,Arsenal,Man City,Etihad Stadium,Manchester
+222,2011-12-18,Sunday,Wigan,1,1,Chelsea,Draw,DW Stadium,Wigan
+223,2011-12-18,Sunday,QPR,0,2,Man Utd,Man Utd,Kiyan Prince Foundation Stadium,London
+224,2011-12-18,Sunday,Aston Villa,0,2,Liverpool,Liverpool,Villa Park,Birmingham
+225,2011-12-18,Sunday,Spurs,1,0,Sunderland,Spurs,White Hart Lane,London
+226,2011-12-17,Saturday,Blackburn,1,2,West Brom,West Brom,Ewood Park,Blackburn
+227,2011-12-17,Saturday,Everton,1,1,Norwich,Draw,Goodison Park,Liverpool
+228,2011-12-17,Saturday,Fulham,2,0,Bolton,Fulham,Craven Cottage,London
+229,2011-12-17,Saturday,Newcastle,0,0,Swansea,Draw,St James' Park,Newcastle
+230,2011-12-17,Saturday,Wolves,1,2,Stoke,Stoke,Molineux Stadium,Wolverhampton
+231,2011-12-13,Tuesday,Chelsea,2,1,Man City,Chelsea,Stamford Bridge,London
+232,2011-12-12,Monday,Stoke,2,1,Spurs,Stoke,bet365 Stadium,Stoke
+233,2011-12-11,Sunday,Sunderland,2,1,Blackburn,Sunderland,Stadium of Light,Sunderland
+234,2011-12-10,Saturday,Arsenal,1,0,Everton,Arsenal,Emirates Stadium,London
+235,2011-12-10,Saturday,Bolton,1,2,Aston Villa,Aston Villa,University of Bolton Stadium,Bolton
+236,2011-12-10,Saturday,Liverpool,1,0,QPR,Liverpool,Anfield,Liverpool
+237,2011-12-10,Saturday,Man Utd,4,1,Wolves,Man Utd,Old Trafford,Manchester
+238,2011-12-10,Saturday,Norwich,4,2,Newcastle,Norwich,Carrow Road,Norwich
+239,2011-12-10,Saturday,Swansea,2,0,Fulham,Swansea,Liberty Stadium,Swansea
+240,2011-12-10,Saturday,West Brom,1,2,Wigan,Wigan,The Hawthorns,West Bromwich
+241,2011-12-06,Tuesday,Fulham,1,0,Liverpool,Fulham,Craven Cottage,London
+242,2011-12-05,Monday,Wolves,2,1,Sunderland,Wolves,Molineux Stadium,Wolverhampton
+243,2011-12-04,Sunday,Aston Villa,0,1,Man Utd,Man Utd,Villa Park,Birmingham
+244,2011-12-04,Sunday,Everton,0,1,Stoke,Stoke,Goodison Park,Liverpool
+245,2011-12-03,Saturday,Newcastle,0,3,Chelsea,Chelsea,St James' Park,Newcastle
+246,2011-12-03,Saturday,Blackburn,4,2,Swansea,Blackburn,Ewood Park,Blackburn
+247,2011-12-03,Saturday,Man City,5,1,Norwich,Man City,Etihad Stadium,Manchester
+248,2011-12-03,Saturday,QPR,1,1,West Brom,Draw,Kiyan Prince Foundation Stadium,London
+249,2011-12-03,Saturday,Spurs,3,0,Bolton,Spurs,White Hart Lane,London
+250,2011-12-03,Saturday,Wigan,0,4,Arsenal,Arsenal,DW Stadium,Wigan
+251,2011-11-28,Monday,Liverpool,1,1,Man City,Draw,Anfield,Liverpool
+252,2011-11-27,Sunday,Arsenal,1,1,Fulham,Draw,Emirates Stadium,London
+253,2011-11-27,Sunday,Swansea,0,0,Aston Villa,Draw,Liberty Stadium,Swansea
+254,2011-11-26,Saturday,Stoke,3,1,Blackburn,Stoke,bet365 Stadium,Stoke
+255,2011-11-26,Saturday,Bolton,0,2,Everton,Everton,University of Bolton Stadium,Bolton
+256,2011-11-26,Saturday,Chelsea,3,0,Wolves,Chelsea,Stamford Bridge,London
+257,2011-11-26,Saturday,Man Utd,1,1,Newcastle,Draw,Old Trafford,Manchester
+258,2011-11-26,Saturday,Norwich,2,1,QPR,Norwich,Carrow Road,Norwich
+259,2011-11-26,Saturday,Sunderland,1,2,Wigan,Wigan,Stadium of Light,Sunderland
+260,2011-11-26,Saturday,West Brom,1,3,Spurs,Spurs,The Hawthorns,West Bromwich
+261,2011-11-22,Tuesday,Spurs,2,0,Aston Villa,Spurs,White Hart Lane,London
+262,2011-11-21,Monday,Chelsea,1,2,Liverpool,Liverpool,Stamford Bridge,London
+263,2011-11-20,Sunday,Swansea,0,1,Man Utd,Man Utd,Liberty Stadium,Swansea
+264,2011-11-19,Saturday,Norwich,1,2,Arsenal,Arsenal,Carrow Road,Norwich
+265,2011-11-19,Saturday,Everton,2,1,Wolves,Everton,Goodison Park,Liverpool
+266,2011-11-19,Saturday,Man City,3,1,Newcastle,Man City,Etihad Stadium,Manchester
+267,2011-11-19,Saturday,Stoke,2,3,QPR,QPR,bet365 Stadium,Stoke
+268,2011-11-19,Saturday,Sunderland,0,0,Fulham,Draw,Stadium of Light,Sunderland
+269,2011-11-19,Saturday,West Brom,2,1,Bolton,West Brom,The Hawthorns,West Bromwich
+270,2011-11-19,Saturday,Wigan,3,3,Blackburn,Draw,DW Stadium,Wigan
+271,2011-11-07,Monday,Fulham,1,3,Spurs,Spurs,Craven Cottage,London
+272,2011-11-06,Sunday,QPR,2,3,Man City,Man City,Kiyan Prince Foundation Stadium,London
+273,2011-11-06,Sunday,Wolves,3,1,Wigan,Wolves,Molineux Stadium,Wolverhampton
+274,2011-11-06,Sunday,Bolton,5,0,Stoke,Bolton,University of Bolton Stadium,Bolton
+275,2011-11-05,Saturday,Arsenal,3,0,West Brom,Arsenal,Emirates Stadium,London
+276,2011-11-05,Saturday,Aston Villa,3,2,Norwich,Aston Villa,Villa Park,Birmingham
+277,2011-11-05,Saturday,Blackburn,0,1,Chelsea,Chelsea,Ewood Park,Blackburn
+278,2011-11-05,Saturday,Liverpool,0,0,Swansea,Draw,Anfield,Liverpool
+279,2011-11-05,Saturday,Man Utd,1,0,Sunderland,Man Utd,Old Trafford,Manchester
+280,2011-11-05,Saturday,Newcastle,2,1,Everton,Newcastle,St James' Park,Newcastle
+281,2011-11-01,Tuesday,Stoke,1,3,Newcastle,Newcastle,bet365 Stadium,Stoke
+282,2011-10-31,Monday,Spurs,3,1,QPR,Spurs,White Hart Lane,London
+283,2011-10-30,Sunday,West Brom,0,2,Liverpool,Liverpool,The Hawthorns,West Bromwich
+284,2011-10-29,Saturday,Everton,0,1,Man Utd,Man Utd,Goodison Park,Liverpool
+285,2011-10-29,Saturday,Chelsea,3,5,Arsenal,Arsenal,Stamford Bridge,London
+286,2011-10-29,Saturday,Man City,3,1,Wolves,Man City,Etihad Stadium,Manchester
+287,2011-10-29,Saturday,Norwich,3,3,Blackburn,Draw,Carrow Road,Norwich
+288,2011-10-29,Saturday,Sunderland,2,2,Aston Villa,Draw,Stadium of Light,Sunderland
+289,2011-10-29,Saturday,Swansea,3,1,Bolton,Swansea,Liberty Stadium,Swansea
+290,2011-10-29,Saturday,Wigan,0,2,Fulham,Fulham,DW Stadium,Wigan
+291,2011-10-23,Sunday,Liverpool,1,1,Norwich,Draw,Anfield,Liverpool
+292,2011-10-23,Sunday,Arsenal,3,1,Stoke,Arsenal,Emirates Stadium,London
+293,2011-10-23,Sunday,Fulham,1,3,Everton,Everton,Craven Cottage,London
+294,2011-10-23,Sunday,Man Utd,1,6,Man City,Man City,Old Trafford,Manchester
+295,2011-10-23,Sunday,Blackburn,1,2,Spurs,Spurs,Ewood Park,Blackburn
+296,2011-10-23,Sunday,QPR,1,0,Chelsea,QPR,Kiyan Prince Foundation Stadium,London
+297,2011-10-22,Saturday,Wolves,2,2,Swansea,Draw,Molineux Stadium,Wolverhampton
+298,2011-10-22,Saturday,Aston Villa,1,2,West Brom,West Brom,Villa Park,Birmingham
+299,2011-10-22,Saturday,Bolton,0,2,Sunderland,Sunderland,University of Bolton Stadium,Bolton
+300,2011-10-22,Saturday,Newcastle,1,0,Wigan,Newcastle,St James' Park,Newcastle
+301,2011-10-16,Sunday,Chelsea,3,1,Everton,Chelsea,Stamford Bridge,London
+302,2011-10-16,Sunday,West Brom,2,0,Wolves,West Brom,The Hawthorns,West Bromwich
+303,2011-10-16,Sunday,Arsenal,2,1,Sunderland,Arsenal,Emirates Stadium,London
+304,2011-10-16,Sunday,Newcastle,2,2,Spurs,Draw,St James' Park,Newcastle
+305,2011-10-15,Saturday,Liverpool,1,1,Man Utd,Draw,Anfield,Liverpool
+306,2011-10-15,Saturday,Man City,4,1,Aston Villa,Man City,Etihad Stadium,Manchester
+307,2011-10-15,Saturday,Norwich,3,1,Swansea,Norwich,Carrow Road,Norwich
+308,2011-10-15,Saturday,QPR,1,1,Blackburn,Draw,Kiyan Prince Foundation Stadium,London
+309,2011-10-15,Saturday,Stoke,2,0,Fulham,Stoke,bet365 Stadium,Stoke
+310,2011-10-15,Saturday,Wigan,1,3,Bolton,Bolton,DW Stadium,Wigan
+311,2011-10-02,Sunday,Bolton,1,5,Chelsea,Chelsea,University of Bolton Stadium,Bolton
+312,2011-10-02,Sunday,Fulham,6,0,QPR,Fulham,Craven Cottage,London
+313,2011-10-02,Sunday,Swansea,2,0,Stoke,Swansea,Liberty Stadium,Swansea
+314,2011-10-02,Sunday,Spurs,2,1,Arsenal,Spurs,White Hart Lane,London
+315,2011-10-01,Saturday,Aston Villa,2,0,Wigan,Aston Villa,Villa Park,Birmingham
+316,2011-10-01,Saturday,Blackburn,0,4,Man City,Man City,Ewood Park,Blackburn
+317,2011-10-01,Saturday,Man Utd,2,0,Norwich,Man Utd,Old Trafford,Manchester
+318,2011-10-01,Saturday,Sunderland,2,2,West Brom,Draw,Stadium of Light,Sunderland
+319,2011-10-01,Saturday,Wolves,1,2,Newcastle,Newcastle,Molineux Stadium,Wolverhampton
+320,2011-10-01,Saturday,Everton,0,2,Liverpool,Liverpool,Goodison Park,Liverpool
+321,2011-09-27,Tuesday,Norwich,2,1,Sunderland,Norwich,Carrow Road,Norwich
+322,2011-09-25,Sunday,Stoke,1,1,Man Utd,Draw,bet365 Stadium,Stoke
+323,2011-09-25,Sunday,QPR,1,1,Aston Villa,Draw,Kiyan Prince Foundation Stadium,London
+324,2011-09-24,Saturday,Man City,2,0,Everton,Man City,Etihad Stadium,Manchester
+325,2011-09-24,Saturday,Arsenal,3,0,Bolton,Arsenal,Emirates Stadium,London
+326,2011-09-24,Saturday,Chelsea,4,1,Swansea,Chelsea,Stamford Bridge,London
+327,2011-09-24,Saturday,Liverpool,2,1,Wolves,Liverpool,Anfield,Liverpool
+328,2011-09-24,Saturday,Newcastle,3,1,Blackburn,Newcastle,St James' Park,Newcastle
+329,2011-09-24,Saturday,West Brom,0,0,Fulham,Draw,The Hawthorns,West Bromwich
+330,2011-09-24,Saturday,Wigan,1,2,Spurs,Spurs,DW Stadium,Wigan
+331,2011-09-18,Sunday,Spurs,4,0,Liverpool,Spurs,White Hart Lane,London
+332,2011-09-18,Sunday,Fulham,2,2,Man City,Draw,Craven Cottage,London
+333,2011-09-18,Sunday,Sunderland,4,0,Stoke,Sunderland,Stadium of Light,Sunderland
+334,2011-09-18,Sunday,Man Utd,3,1,Chelsea,Man Utd,Old Trafford,Manchester
+335,2011-09-17,Saturday,Blackburn,4,3,Arsenal,Blackburn,Ewood Park,Blackburn
+336,2011-09-17,Saturday,Aston Villa,1,1,Newcastle,Draw,Villa Park,Birmingham
+337,2011-09-17,Saturday,Bolton,1,2,Norwich,Norwich,University of Bolton Stadium,Bolton
+338,2011-09-17,Saturday,Everton,3,1,Wigan,Everton,Goodison Park,Liverpool
+339,2011-09-17,Saturday,Swansea,3,0,West Brom,Swansea,Liberty Stadium,Swansea
+340,2011-09-17,Saturday,Wolves,0,3,QPR,QPR,Molineux Stadium,Wolverhampton
+341,2011-09-13,Tuesday,QPR,0,0,Newcastle,Draw,Kiyan Prince Foundation Stadium,London
+342,2011-09-11,Sunday,Bolton,0,5,Man Utd,Man Utd,University of Bolton Stadium,Bolton
+343,2011-09-11,Sunday,Norwich,0,1,West Brom,West Brom,Carrow Road,Norwich
+344,2011-09-11,Sunday,Fulham,1,1,Blackburn,Draw,Craven Cottage,London
+345,2011-09-10,Saturday,Arsenal,1,0,Swansea,Arsenal,Emirates Stadium,London
+346,2011-09-10,Saturday,Everton,2,2,Aston Villa,Draw,Goodison Park,Liverpool
+347,2011-09-10,Saturday,Man City,3,0,Wigan,Man City,Etihad Stadium,Manchester
+348,2011-09-10,Saturday,Stoke,1,0,Liverpool,Stoke,bet365 Stadium,Stoke
+349,2011-09-10,Saturday,Sunderland,1,2,Chelsea,Chelsea,Stadium of Light,Sunderland
+350,2011-09-10,Saturday,Wolves,0,2,Spurs,Spurs,Molineux Stadium,Wolverhampton
+351,2011-08-28,Sunday,Liverpool,3,1,Bolton,Liverpool,Anfield,Liverpool
+352,2011-08-28,Sunday,Newcastle,2,1,Fulham,Newcastle,St James' Park,Newcastle
+353,2011-08-28,Sunday,Spurs,1,5,Man City,Man City,White Hart Lane,London
+354,2011-08-28,Sunday,West Brom,0,1,Stoke,Stoke,The Hawthorns,West Bromwich
+355,2011-08-28,Sunday,Man Utd,8,2,Arsenal,Man Utd,Old Trafford,Manchester
+356,2011-08-27,Saturday,Wigan,2,0,QPR,Wigan,DW Stadium,Wigan
+357,2011-08-27,Saturday,Blackburn,0,1,Everton,Everton,Ewood Park,Blackburn
+358,2011-08-27,Saturday,Chelsea,3,1,Norwich,Chelsea,Stamford Bridge,London
+359,2011-08-27,Saturday,Swansea,0,0,Sunderland,Draw,Liberty Stadium,Swansea
+360,2011-08-27,Saturday,Aston Villa,0,0,Wolves,Draw,Villa Park,Birmingham
+361,2011-08-23,Tuesday,Man Utd,3,0,Spurs,Man Utd,Old Trafford,Manchester
+362,2011-08-21,Sunday,Chelsea,2,1,West Brom,Chelsea,Stamford Bridge,London
+363,2011-08-21,Sunday,Norwich,1,1,Stoke,Draw,Carrow Road,Norwich
+364,2011-08-21,Sunday,Wolves,2,0,Fulham,Wolves,Molineux Stadium,Wolverhampton
+365,2011-08-21,Sunday,Bolton,2,3,Man City,Man City,University of Bolton Stadium,Bolton
+366,2011-08-20,Saturday,Sunderland,0,1,Newcastle,Newcastle,Stadium of Light,Sunderland
+367,2011-08-20,Saturday,Arsenal,0,2,Liverpool,Liverpool,Emirates Stadium,London
+368,2011-08-20,Saturday,Aston Villa,3,1,Blackburn,Aston Villa,Villa Park,Birmingham
+369,2011-08-20,Saturday,Everton,0,1,QPR,QPR,Goodison Park,Liverpool
+370,2011-08-20,Saturday,Swansea,0,0,Wigan,Draw,Liberty Stadium,Swansea
+371,2011-08-16,Tuesday,Man City,4,0,Swansea,Man City,Etihad Stadium,Manchester
+372,2011-08-14,Sunday,Newcastle,0,0,Arsenal,Draw,St James' Park,Newcastle
+373,2011-08-14,Sunday,Stoke,0,0,Chelsea,Draw,bet365 Stadium,Stoke
+374,2011-08-14,Sunday,West Brom,1,2,Man Utd,Man Utd,The Hawthorns,West Bromwich
+375,2011-08-13,Saturday,Blackburn,1,2,Wolves,Wolves,Ewood Park,Blackburn
+376,2011-08-13,Saturday,Fulham,0,0,Aston Villa,Draw,Craven Cottage,London
+377,2011-08-13,Saturday,Liverpool,1,1,Sunderland,Draw,Anfield,Liverpool
+378,2011-08-13,Saturday,QPR,0,4,Bolton,Bolton,Kiyan Prince Foundation Stadium,London
+379,2011-08-13,Saturday,Wigan,1,1,Norwich,Draw,DW Stadium,Wigan

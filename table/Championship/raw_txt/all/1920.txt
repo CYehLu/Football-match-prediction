@@ -1,0 +1,216 @@
+1
+Leeds United
+Leeds
+46
+28
+9
+9
+77:35
+93
+2
+West Bromwich Albion
+West Brom
+46
+22
+17
+7
+77:45
+83
+3
+Brentford
+Brentford
+46
+24
+9
+13
+80:38
+81
+4
+Fulham
+Fulham
+46
+23
+12
+11
+64:48
+81
+5
+Cardiff City
+Cardiff
+46
+19
+16
+11
+68:58
+73
+6
+Swansea City
+Swansea
+46
+18
+16
+12
+62:53
+70
+7
+Nottingham Forest
+Forest
+46
+18
+16
+12
+58:50
+70
+8
+Millwall
+Millwall
+46
+17
+17
+12
+57:51
+68
+9
+Preston North End
+Preston
+46
+18
+12
+16
+59:54
+66
+10
+Derby County
+Derby
+46
+17
+13
+16
+62:64
+64
+11
+Blackburn Rovers
+Blackburn
+46
+17
+12
+17
+66:63
+63
+12
+Bristol City
+Bristol City
+46
+17
+12
+17
+60:65
+63
+13
+Queens Park Rangers
+QPR
+46
+16
+10
+20
+67:76
+58
+14
+Reading
+Reading
+46
+15
+11
+20
+59:58
+56
+15
+Stoke City
+Stoke
+46
+16
+8
+22
+62:68
+56
+16
+Sheffield Wednesday
+Sheffield Wed
+46
+15
+11
+20
+58:66
+56
+17
+Middlesbrough
+Middlesbrough
+46
+13
+14
+19
+48:61
+53
+18
+Huddersfield Town
+Huddersfield
+46
+13
+12
+21
+52:70
+51
+19
+Luton Town
+Luton
+46
+14
+9
+23
+54:82
+51
+20
+Birmingham City
+Birmingham
+46
+12
+14
+20
+54:75
+50
+21
+Barnsley
+Barnsley
+46
+12
+13
+21
+49:69
+49
+22
+Charlton Athletic
+Charlton
+46
+12
+12
+22
+50:65
+48
+23
+Wigan Athletic
+Wigan
+46
+15
+14
+17
+57:56
+47
+24
+Hull City
+Hull
+46
+12
+9
+25
+57:87
+45

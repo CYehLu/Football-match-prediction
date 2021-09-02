@@ -1,0 +1,25 @@
+Rank,FullName,Name,PlayedMatchs,Win,Draw,Loss,Goals,Points,WinHome,DrawHome,LossHome,GoalsHome,WinAway,DrawAway,LossAway,GoalsAway
+1,Leeds United,Leeds,46,28,9,9,77:35,93,15,5,3,40:14,13,4,6,37:21
+2,West Bromwich Albion,West Brom,46,22,17,7,77:45,83,10,10,3,44:27,12,7,4,33:18
+3,Brentford,Brentford,46,24,9,13,80:38,81,14,5,4,44:18,10,4,9,36:20
+4,Fulham,Fulham,46,23,12,11,64:48,81,15,2,6,40:26,8,10,5,24:22
+5,Cardiff City,Cardiff,46,19,16,11,68:58,73,11,9,3,35:21,8,7,8,33:37
+6,Swansea City,Swansea,46,18,16,12,62:53,70,10,5,8,27:23,8,11,4,35:30
+7,Nottingham Forest,Forest,46,18,16,12,58:50,70,10,5,8,27:27,8,11,4,31:23
+8,Millwall,Millwall,46,17,17,12,57:51,68,10,8,5,33:25,7,9,7,24:26
+9,Preston North End,Preston,46,18,12,16,59:54,66,12,4,7,39:29,6,8,9,20:25
+10,Derby County,Derby,46,17,13,16,62:64,64,11,8,4,33:21,6,5,12,29:43
+11,Blackburn Rovers,Blackburn,46,17,12,17,66:63,63,10,9,4,33:24,7,3,13,33:39
+12,Bristol City,Bristol City,46,17,12,17,60:65,63,8,7,8,30:33,9,5,9,30:32
+13,Queens Park Rangers,QPR,46,16,10,20,67:76,58,9,5,9,42:42,7,5,11,25:34
+14,Reading,Reading,46,15,11,20,59:58,56,7,4,12,26:34,8,7,8,33:24
+15,Stoke City,Stoke,46,16,8,22,62:68,56,11,3,9,36:26,5,5,13,26:42
+16,Sheffield Wednesday,Sheffield Wed,46,15,11,20,58:66,56,7,7,9,19:30,8,4,11,39:36
+17,Middlesbrough,Middlesbrough,46,13,14,19,48:61,53,6,8,9,20:29,7,6,10,28:32
+18,Huddersfield Town,Huddersfield,46,13,12,21,52:70,51,8,6,9,26:30,5,6,12,26:40
+19,Luton Town,Luton,46,14,9,23,54:82,51,8,7,8,33:37,6,2,15,21:45
+20,Birmingham City,Birmingham,46,12,14,20,54:75,50,6,7,10,33:42,6,7,10,21:33
+21,Barnsley,Barnsley,46,12,13,21,49:69,49,7,9,7,29:33,5,4,14,20:36
+22,Charlton Athletic,Charlton,46,12,12,22,50:65,48,8,6,9,28:27,4,6,13,22:38
+23,Wigan Athletic,Wigan,46,15,14,17,57:56,47,10,7,6,33:23,5,7,11,24:33
+24,Hull City,Hull,46,12,9,25,57:87,45,7,3,13,29:37,5,6,12,28:50

@@ -1,0 +1,216 @@
+1
+Burnley
+Burnley
+46
+26
+15
+5
+72:35
+93
+2
+Middlesbrough
+Middlesbrough
+46
+26
+11
+9
+63:31
+89
+3
+Brighton & Hove Albion
+Brighton
+46
+24
+17
+5
+72:42
+89
+4
+Hull City
+Hull
+46
+24
+11
+11
+69:35
+83
+5
+Derby County
+Derby
+46
+21
+15
+10
+66:43
+78
+6
+Sheffield Wednesday
+Sheffield Wed
+46
+19
+17
+10
+66:45
+74
+7
+Ipswich Town
+Ipswich
+46
+18
+15
+13
+53:51
+69
+8
+Cardiff City
+Cardiff
+46
+17
+17
+12
+56:51
+68
+9
+Birmingham City
+Birmingham
+46
+16
+15
+15
+53:49
+63
+10
+Brentford
+Brentford
+46
+19
+8
+19
+72:67
+65
+11
+Preston North End
+Preston
+46
+15
+17
+14
+45:45
+62
+12
+Leeds United
+Leeds
+46
+14
+17
+15
+50:58
+59
+13
+Queens Park Rangers
+QPR
+46
+14
+18
+14
+54:54
+60
+14
+Wolverhampton
+Wolverhampton
+46
+14
+16
+16
+53:58
+58
+15
+Blackburn Rovers
+Blackburn
+46
+13
+16
+17
+46:46
+55
+16
+Reading
+Reading
+46
+13
+13
+20
+52:59
+52
+17
+Nottingham Forest
+Forest
+46
+13
+16
+17
+43:47
+55
+18
+Bristol City
+Bristol City
+46
+13
+13
+20
+54:71
+52
+19
+Huddersfield Town
+Huddersfield
+46
+13
+12
+21
+59:70
+51
+20
+Fulham
+Fulham
+46
+12
+15
+19
+66:79
+51
+21
+Rotherham United
+Rotherham
+46
+13
+10
+23
+53:71
+49
+22
+Charlton Athletic
+Charlton
+46
+9
+13
+24
+40:80
+40
+23
+Milton Keynes Dons
+MK Dons
+46
+9
+12
+25
+39:69
+39
+24
+Bolton Wanderers
+Bolton
+46
+5
+15
+26
+41:81
+30

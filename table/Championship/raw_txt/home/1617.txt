@@ -1,0 +1,216 @@
+1
+Brighton & Hove Albion
+Brighton
+23
+17
+3
+3
+46:14
+54
+2
+Reading
+Reading
+23
+16
+5
+2
+35:16
+53
+3
+Sheffield Wednesday
+Sheffield Wed
+23
+15
+2
+6
+36:22
+47
+4
+Huddersfield Town
+Huddersfield
+23
+15
+2
+6
+34:26
+47
+5
+Norwich City
+Norwich
+23
+15
+4
+4
+55:22
+49
+6
+Newcastle United
+Newcastle
+23
+15
+3
+5
+49:23
+48
+7
+Leeds United
+Leeds
+23
+14
+4
+5
+32:16
+46
+8
+Aston Villa
+Aston Villa
+23
+12
+8
+3
+33:20
+44
+9
+Brentford
+Brentford
+23
+11
+5
+7
+42:25
+38
+10
+Preston North End
+Preston
+23
+11
+6
+6
+40:26
+39
+11
+Derby County
+Derby
+23
+11
+8
+4
+33:20
+41
+12
+Fulham
+Fulham
+23
+10
+8
+5
+45:32
+38
+13
+Nottingham Forest
+Forest
+23
+12
+4
+7
+42:30
+40
+14
+Bristol City
+Bristol City
+23
+11
+4
+8
+33:26
+37
+15
+Cardiff City
+Cardiff
+23
+11
+4
+8
+31:26
+37
+16
+Ipswich Town
+Ipswich
+23
+8
+10
+5
+30:24
+34
+17
+Burton Albion
+Burton
+23
+9
+4
+9
+28:30
+31
+18
+Blackburn Rovers
+Blackburn
+23
+8
+8
+7
+29:30
+32
+19
+Barnsley
+Barnsley
+23
+6
+11
+6
+32:33
+29
+20
+Queens Park Rangers
+QPR
+23
+9
+4
+10
+30:32
+31
+21
+Birmingham City
+Birmingham
+23
+8
+5
+10
+25:31
+29
+22
+Wolverhampton
+Wolverhampton
+23
+8
+4
+11
+25:30
+28
+23
+Wigan Athletic
+Wigan
+23
+5
+8
+10
+19:26
+23
+24
+Rotherham United
+Rotherham
+23
+5
+6
+12
+23:34
+21
