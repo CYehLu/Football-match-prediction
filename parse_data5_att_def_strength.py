@@ -126,15 +126,14 @@ def append_strength_to_df_team(df_team, df_strength, team_name):
     append these columns from to df_team:
     SelfAS, SelfDS, SelfFromCL, RivalAS, RivalDS, RivalFromCL
     """
-    # 處理對手的 attack/defence strength
-    # 把對手的 ASH/ASA/DSH/DSA 全部 merge 進去
-    # rvl : Rival
+    # deal with the attack/defense strength of the rival team
+    # merge the ASH/ASA/DSH/DSA of the rival team
     df_tmp_rvl = df_team[['Round', 'isHome', 'Rival']].merge(
         df_strength[['Team', 'ASH', 'ASA', 'DSH', 'DSA', 'isFromCL']],
         left_on='Rival', right_on='Team', how='left'
     ).drop('Team', axis=1)
 
-    # 根據(對手的)主客場，來決定要保留 ASH/DSH 還是 ASA/DSA
+    # decide to keep ASH/DSH or ASA/DSA according to the (rival team) home or away match
     df_tmp_rvl = pd.concat(
         [
             df_tmp_rvl[df_tmp_rvl.isHome].drop(['ASH', 'DSH'], axis=1).rename(
@@ -147,7 +146,7 @@ def append_strength_to_df_team(df_team, df_strength, team_name):
     ).sort_values(by='Round')
 
 
-    # 根據自己的主客場，把相關的 AS/DS 放進去
+    # merge the AS/DS according to the home or away match
     df_tmp_self = df_team[['Round', 'isHome']].copy()
     df_tmp_self['Self'] = team_name
 
@@ -156,7 +155,7 @@ def append_strength_to_df_team(df_team, df_strength, team_name):
         left_on='Self', right_on='Team', how='left'
     ).drop(['Team', 'Self'], axis=1)
 
-    # 根據自己的主客場，來決定要保留 ASH/DSH 還是 ASA/DSA
+    # decide to keep ASH/DSH or ASA/DSA according to the home or away match
     df_tmp_self = pd.concat(
         [
             df_tmp_self[df_tmp_self.isHome].drop(['ASA', 'DSA'], axis=1).rename(
