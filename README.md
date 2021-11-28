@@ -35,7 +35,7 @@ Using Poisson regression to predict the football match results.
 |           | Draw  | 0.2514 |
 |           | Loss  | 0.4712 |
 
-### simulation 18/19 season
+### simulate 18/19 season
 Given the first five matches, simulate the remainning matches by the Poisson model.  
   
 The final table of the simulation:  
